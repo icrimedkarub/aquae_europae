@@ -2,6 +2,7 @@
   {
     "Name": "A Coruña",
     "Alternative_Names": "La Coruña",
+    "Country": "Spain",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -12,6 +13,7 @@
   {
     "Name": "Aachen",
     "Alternative_Names": "Aix-la-Chapelle, Aken",
+    "Country": "Germany",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -22,6 +24,7 @@
   {
     "Name": "Abano Terme",
     "Alternative_Names": "Abano Bagno",
+    "Country": "Italy",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -32,6 +35,7 @@
   {
     "Name": "Abastumani",
     "Alternative_Names": "Abbas-Tuman, Абастуман, აბასთუმანი",
+    "Country": "Georgia",
     "Type": "Mineral Spa (Hot), Climatic Resort",
     "List_Availability": "",
     "Progress": "",
@@ -42,6 +46,7 @@
   {
     "Name": "Aberdeen",
     "Alternative_Names": "",
+    "Country": "United Kingdom",
     "Type": "Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -52,6 +57,7 @@
   {
     "Name": "Acqui Terme",
     "Alternative_Names": "",
+    "Country": "Italy",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -62,6 +68,7 @@
   {
     "Name": "Ahlbeck",
     "Alternative_Names": "",
+    "Country": "Germany",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -72,6 +79,7 @@
   {
     "Name": "Aix-les-Bains",
     "Alternative_Names": "Èx-én-Savouè",
+    "Country": "France",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -82,6 +90,7 @@
   {
     "Name": "Alassio",
     "Alternative_Names": "",
+    "Country": "Italy",
     "Type": "Seaside Resort, Climatic Resort",
     "List_Availability": "",
     "Progress": "",
@@ -92,6 +101,7 @@
   {
     "Name": "Albena",
     "Alternative_Names": "Албена",
+    "Country": "Bulgaria",
     "Type": "Seaside Resort, Climatic Resort",
     "List_Availability": "",
     "Progress": "",
@@ -102,6 +112,7 @@
   {
     "Name": "Albufeira",
     "Alternative_Names": "",
+    "Country": "Portugal",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -112,6 +123,7 @@
   {
     "Name": "Alet-les-bains",
     "Alternative_Names": "",
+    "Country": "France",
     "Type": "Mineral Spa (Hot), Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -122,6 +134,7 @@
   {
     "Name": "Alhama de Aragón",
     "Alternative_Names": "Aquae Bilbilitanae, Aquae Bilbilitanorum",
+    "Country": "Spain",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -132,6 +145,7 @@
   {
     "Name": "Alicante",
     "Alternative_Names": "",
+    "Country": "Spain",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -142,6 +156,7 @@
   {
     "Name": "Alupka",
     "Alternative_Names": "",
+    "Country": "Ukraine",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -152,6 +167,7 @@
   {
     "Name": "Alushta",
     "Alternative_Names": "Алушта, Aluşta",
+    "Country": "Ukraine",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -162,6 +178,7 @@
   {
     "Name": "Amara",
     "Alternative_Names": "",
+    "Country": "Romania",
     "Type": "Other",
     "List_Availability": "",
     "Progress": "",
@@ -172,6 +189,7 @@
   {
     "Name": "Amelie-les-Bains",
     "Alternative_Names": "Els Banys d'Arles, Arles-les-Bains",
+    "Country": "France",
     "Type": "Mineral Spa (Hot), Climatic Resort",
     "List_Availability": "",
     "Progress": "",
@@ -182,6 +200,7 @@
   {
     "Name": "Arcachon",
     "Alternative_Names": "",
+    "Country": "France",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -192,6 +211,7 @@
   {
     "Name": "Archena",
     "Alternative_Names": "",
+    "Country": "Spain",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -202,6 +222,7 @@
   {
     "Name": "Arromanches-les-Bains",
     "Alternative_Names": "",
+    "Country": "France",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -212,6 +233,7 @@
   {
     "Name": "Arta Terme",
     "Alternative_Names": "",
+    "Country": "Italy",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -222,6 +244,7 @@
   {
     "Name": "Augustów",
     "Alternative_Names": "Augustavas",
+    "Country": "Poland",
     "Type": "Climatic Resort",
     "List_Availability": "",
     "Progress": "",
@@ -232,6 +255,7 @@
   {
     "Name": "Aulus-les-Bains",
     "Alternative_Names": "",
+    "Country": "France",
     "Type": "Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -242,6 +266,7 @@
   {
     "Name": "Ax-les-Thermes",
     "Alternative_Names": "",
+    "Country": "France",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -252,6 +277,7 @@
   {
     "Name": "Baabe",
     "Alternative_Names": "",
+    "Country": "Germany",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -262,6 +288,7 @@
   {
     "Name": "Bad Aussee",
     "Alternative_Names": "",
+    "Country": "Austria",
     "Type": "Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -272,6 +299,7 @@
   {
     "Name": "Bad Berka",
     "Alternative_Names": "",
+    "Country": "Germany",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -282,6 +310,7 @@
   {
     "Name": "Bad Bocklet",
     "Alternative_Names": "",
+    "Country": "Germany",
     "Type": "Mineral Spa (Hot), Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -292,6 +321,7 @@
   {
     "Name": "Bad Brückenau",
     "Alternative_Names": "",
+    "Country": "Germany",
     "Type": "",
     "List_Availability": "",
     "Progress": "",
@@ -302,6 +332,7 @@
   {
     "Name": "Bad Deutsch-Altenburg",
     "Alternative_Names": "Németóvár",
+    "Country": "Austria",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -312,6 +343,7 @@
   {
     "Name": "Bad Egart",
     "Alternative_Names": "",
+    "Country": "Italy",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -322,6 +354,7 @@
   {
     "Name": "Bad Ems",
     "Alternative_Names": "",
+    "Country": "Germany",
     "Type": "Mineral Spa (Hot), Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -332,6 +365,7 @@
   {
     "Name": "Bad Feilnbach",
     "Alternative_Names": "",
+    "Country": "Germany",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -342,6 +376,7 @@
   {
     "Name": "Bad Fusch",
     "Alternative_Names": "",
+    "Country": "Austria",
     "Type": "Climatic Resort, Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -352,6 +387,7 @@
   {
     "Name": "Bad Gastein",
     "Alternative_Names": "",
+    "Country": "Austria",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -362,6 +398,7 @@
   {
     "Name": "Bad Hall",
     "Alternative_Names": "",
+    "Country": "Austria",
     "Type": "Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -372,6 +409,7 @@
   {
     "Name": "Bad Homburg",
     "Alternative_Names": "",
+    "Country": "Germany",
     "Type": "Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -382,6 +420,7 @@
   {
     "Name": "Bad Ischl",
     "Alternative_Names": "",
+    "Country": "Austria",
     "Type": "Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -392,6 +431,7 @@
   {
     "Name": "Bad Kissingen",
     "Alternative_Names": "Kissingen",
+    "Country": "Germany",
     "Type": "Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -402,6 +442,7 @@
   {
     "Name": "Bad Kohlgrub",
     "Alternative_Names": "",
+    "Country": "Germany",
     "Type": "Other",
     "List_Availability": "",
     "Progress": "",
@@ -412,6 +453,7 @@
   {
     "Name": "Bad Kreuth",
     "Alternative_Names": "",
+    "Country": "Germany",
     "Type": "",
     "List_Availability": "",
     "Progress": "",
@@ -422,6 +464,7 @@
   {
     "Name": "Bad Kreuznach",
     "Alternative_Names": "",
+    "Country": "Germany",
     "Type": "",
     "List_Availability": "",
     "Progress": "",
@@ -432,6 +475,7 @@
   {
     "Name": "Bad Nauheim",
     "Alternative_Names": "",
+    "Country": "Germany",
     "Type": "Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -442,6 +486,7 @@
   {
     "Name": "Bad Neuenahr-Ahrweiler",
     "Alternative_Names": "",
+    "Country": "Germany",
     "Type": "Mineral Spa (Hot), Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -452,6 +497,7 @@
   {
     "Name": "Bad Oeynhausen",
     "Alternative_Names": "",
+    "Country": "Germany",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -462,6 +508,7 @@
   {
     "Name": "Bad Pfäfers",
     "Alternative_Names": "Bad Ragaz",
+    "Country": "Switzerland",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -472,6 +519,7 @@
   {
     "Name": "Bad Pirawarth",
     "Alternative_Names": "Pyrawarth",
+    "Country": "Austria",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -482,6 +530,7 @@
   {
     "Name": "Bad Ragaz",
     "Alternative_Names": "",
+    "Country": "Switzerland",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -492,6 +541,7 @@
   {
     "Name": "Bad Reichenhall",
     "Alternative_Names": "",
+    "Country": "Germany",
     "Type": "Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -502,6 +552,7 @@
   {
     "Name": "Bad Salzig",
     "Alternative_Names": "",
+    "Country": "Germany",
     "Type": "Mineral Spa (Hot), Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -512,6 +563,7 @@
   {
     "Name": "Bad Sassendorf",
     "Alternative_Names": "",
+    "Country": "Germany",
     "Type": "Mineral Spa (Hot), Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -522,6 +574,7 @@
   {
     "Name": "Bad Schlema",
     "Alternative_Names": "",
+    "Country": "Germany",
     "Type": "",
     "List_Availability": "",
     "Progress": "",
@@ -532,6 +585,7 @@
   {
     "Name": "Bad Schwalbach",
     "Alternative_Names": "Langenschwalbach",
+    "Country": "Germany",
     "Type": "Mineral Spa (Hot), Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -542,6 +596,7 @@
   {
     "Name": "Bad Soden",
     "Alternative_Names": "",
+    "Country": "Germany",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -552,6 +607,7 @@
   {
     "Name": "Bad Tölz",
     "Alternative_Names": "Krankenheil-Tölz",
+    "Country": "Germany",
     "Type": "Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -562,6 +618,7 @@
   {
     "Name": "Bad Vöslau",
     "Alternative_Names": "",
+    "Country": "Austria",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -572,6 +629,7 @@
   {
     "Name": "Bad Wiessee",
     "Alternative_Names": "",
+    "Country": "Germany",
     "Type": "Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -582,6 +640,7 @@
   {
     "Name": "Bad Wildbad",
     "Alternative_Names": "",
+    "Country": "Germany",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -592,6 +651,7 @@
   {
     "Name": "Bad Wörishofen",
     "Alternative_Names": "",
+    "Country": "Germany",
     "Type": "Mineral Spa (Hot), Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -602,6 +662,7 @@
   {
     "Name": "Baden bei Wien",
     "Alternative_Names": "",
+    "Country": "Austria",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -612,6 +673,7 @@
   {
     "Name": "Baden bei Zürich",
     "Alternative_Names": "Baden, Baden im Aargau, Aquae Helveticae",
+    "Country": "Switzerland",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -622,6 +684,7 @@
   {
     "Name": "Baden-Baden",
     "Alternative_Names": "",
+    "Country": "Germany",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -632,6 +695,7 @@
   {
     "Name": "Bagnères de Luchon",
     "Alternative_Names": "Balneariea Lixoniensis",
+    "Country": "France",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -642,6 +706,7 @@
   {
     "Name": "Bagnères-de-Bigorre",
     "Alternative_Names": "",
+    "Country": "France",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -652,6 +717,7 @@
   {
     "Name": "Bagni di Lucca",
     "Alternative_Names": "Bagno a Corsena",
+    "Country": "Italy",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -662,6 +728,7 @@
   {
     "Name": "Bagnoles de l'Orne",
     "Alternative_Names": "",
+    "Country": "France",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -672,6 +739,7 @@
   {
     "Name": "Bagnols-les-Bains",
     "Alternative_Names": "",
+    "Country": "France",
     "Type": "Mineral Spa (Hot), Climatic Resort",
     "List_Availability": "",
     "Progress": "",
@@ -682,6 +750,7 @@
   {
     "Name": "Băile 1 Mai",
     "Alternative_Names": "Püspökfürdő, Baile Episcopiei, Május 1 fürdő",
+    "Country": "Romania",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -692,6 +761,7 @@
   {
     "Name": "Băile Călacea",
     "Alternative_Names": "Kalocha",
+    "Country": "Romania",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -702,6 +772,7 @@
   {
     "Name": "Băile Felix",
     "Alternative_Names": "Félixfürdő, Baia lui Felix",
+    "Country": "Romania",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -712,6 +783,7 @@
   {
     "Name": "Baile Govora",
     "Alternative_Names": "",
+    "Country": "Romania",
     "Type": "Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -722,6 +794,7 @@
   {
     "Name": "Băile Herculane",
     "Alternative_Names": "Ad Mediam, Aqua Herculis, Herkulesbad, Herkulesfürdő, Herkulovy Lázně, Lazarethane",
+    "Country": "Romania",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -732,6 +805,7 @@
   {
     "Name": "Baile Olanesti",
     "Alternative_Names": "",
+    "Country": "Romania",
     "Type": "Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -742,6 +816,7 @@
   {
     "Name": "Băile Tusnad",
     "Alternative_Names": "Tusnádfürdő",
+    "Country": "Romania",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -752,6 +827,7 @@
   {
     "Name": "Baldovce",
     "Alternative_Names": "Eckersdorf,Baldowitz,Baldóc,Bužňa",
+    "Country": "Slovakia",
     "Type": "Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -762,6 +838,7 @@
   {
     "Name": "Balf",
     "Alternative_Names": "Wolfs, Sankt Wolfgang, Farkasd, Bolf, Fürdő sor",
+    "Country": "Hungary",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -772,6 +849,7 @@
   {
     "Name": "Balneario de Panticosa",
     "Alternative_Names": "Balneario de Panticosa, Los Lagos",
+    "Country": "Spain",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -782,6 +860,7 @@
   {
     "Name": "Banja Koviljača",
     "Alternative_Names": "Banja Koviljaca, Бања Ковиљача, Kraljevska Banja",
+    "Country": "Serbia",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -792,6 +871,7 @@
   {
     "Name": "Baños de Fitero",
     "Alternative_Names": "Balneario de Fitero",
+    "Country": "Spain",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -802,6 +882,7 @@
   {
     "Name": "Baños de Tredos",
     "Alternative_Names": "",
+    "Country": "Spain",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -812,6 +893,7 @@
   {
     "Name": "Bansin",
     "Alternative_Names": "Banzyno, Banzino",
+    "Country": "Germany",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -822,6 +904,7 @@
   {
     "Name": "Barbazan",
     "Alternative_Names": "",
+    "Country": "France",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -832,6 +915,7 @@
   {
     "Name": "Bardejovské Kúpele",
     "Alternative_Names": "Bartfafürdö, Bartfeld",
+    "Country": "Slovakia",
     "Type": "Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -842,6 +926,7 @@
   {
     "Name": "Barèges",
     "Alternative_Names": "Barèges-Sers-Barzun",
+    "Country": "France",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -852,6 +937,7 @@
   {
     "Name": "Bath",
     "Alternative_Names": "",
+    "Country": "United Kingdom",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -862,6 +948,7 @@
   {
     "Name": "Batumi",
     "Alternative_Names": "",
+    "Country": "Georgia",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -872,6 +959,7 @@
   {
     "Name": "Bazna",
     "Alternative_Names": "",
+    "Country": "Romania",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -882,6 +970,7 @@
   {
     "Name": "Beaucens",
     "Alternative_Names": "",
+    "Country": "France",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -892,6 +981,7 @@
   {
     "Name": "Beaulieu Sur-Mer",
     "Alternative_Names": "",
+    "Country": "France",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -902,6 +992,7 @@
   {
     "Name": "Benasque",
     "Alternative_Names": "",
+    "Country": "Spain",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -912,6 +1003,7 @@
   {
     "Name": "Berck",
     "Alternative_Names": "Berck-sur-Mer",
+    "Country": "France",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -922,6 +1014,7 @@
   {
     "Name": "Berdyansk",
     "Alternative_Names": "Berdiansk, Berdyans'k, Бердянськ",
+    "Country": "Ukraine",
     "Type": "Seaside Resort, Climatic Resort",
     "List_Availability": "",
     "Progress": "",
@@ -932,6 +1025,7 @@
   {
     "Name": "Berehove",
     "Alternative_Names": "Берегове",
+    "Country": "Ukraine",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -942,6 +1036,7 @@
   {
     "Name": "Bertinoro",
     "Alternative_Names": "",
+    "Country": "Italy",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -952,6 +1047,7 @@
   {
     "Name": "Biarritz",
     "Alternative_Names": "Miarritze, Biàrritz",
+    "Country": "France",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -962,6 +1058,7 @@
   {
     "Name": "Bie",
     "Alternative_Names": "",
+    "Country": "Sweden",
     "Type": "Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -972,6 +1069,7 @@
   {
     "Name": "Binz",
     "Alternative_Names": "",
+    "Country": "Germany",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -982,6 +1080,7 @@
   {
     "Name": "Blackpool",
     "Alternative_Names": "",
+    "Country": "United Kingdom",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -992,6 +1091,7 @@
   {
     "Name": "Blankenberge",
     "Alternative_Names": "Blanknberge",
+    "Country": "Belgium",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -1002,6 +1102,7 @@
   {
     "Name": "Bojnice",
     "Alternative_Names": "Weinitz, Bajmóc",
+    "Country": "Slovakia",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -1012,6 +1113,7 @@
   {
     "Name": "Bordighera",
     "Alternative_Names": "",
+    "Country": "Italy",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -1022,6 +1124,7 @@
   {
     "Name": "Borjomi",
     "Alternative_Names": "ბორჯომი",
+    "Country": "Georgia",
     "Type": "Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -1032,6 +1135,7 @@
   {
     "Name": "Borkum",
     "Alternative_Names": "",
+    "Country": "Germany",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -1042,6 +1146,7 @@
   {
     "Name": "Borsec",
     "Alternative_Names": "",
+    "Country": "Romania",
     "Type": "Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -1052,6 +1157,7 @@
   {
     "Name": "Boulogne-sur-Mer",
     "Alternative_Names": "",
+    "Country": "France",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -1062,6 +1168,7 @@
   {
     "Name": "Bournemouth",
     "Alternative_Names": "",
+    "Country": "United Kingdom",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -1072,6 +1179,7 @@
   {
     "Name": "Brighton",
     "Alternative_Names": "",
+    "Country": "United Kingdom",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -1082,6 +1190,7 @@
   {
     "Name": "Brijuni Islands",
     "Alternative_Names": "Brioni",
+    "Country": "Croatia",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -1092,6 +1201,7 @@
   {
     "Name": "Brusno",
     "Alternative_Names": "Brusznó, Borosznó",
+    "Country": "Slovakia",
     "Type": "Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -1102,6 +1212,7 @@
   {
     "Name": "Budapest",
     "Alternative_Names": "",
+    "Country": "Hungary",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -1112,6 +1223,7 @@
   {
     "Name": "Burgas",
     "Alternative_Names": "",
+    "Country": "Bulgaria",
     "Type": "Mineral Spa (Hot), Seaside Resort, Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -1122,6 +1234,7 @@
   {
     "Name": "Burtscheid",
     "Alternative_Names": "Borcette",
+    "Country": "Germany",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -1132,6 +1245,7 @@
   {
     "Name": "Busko-Zdrój",
     "Alternative_Names": "",
+    "Country": "Poland",
     "Type": "Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -1142,6 +1256,7 @@
   {
     "Name": "Büsum",
     "Alternative_Names": "",
+    "Country": "Germany",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -1152,6 +1267,7 @@
   {
     "Name": "Buxton",
     "Alternative_Names": "Aquae Arnemetiae",
+    "Country": "United Kingdom",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -1162,6 +1278,7 @@
   {
     "Name": "Buziaș",
     "Alternative_Names": "Bad Busiasch, Buziás, Buziásfürdő, Бузјаш, Buzjaš, Baile Buziaș, Centum Putei",
+    "Country": "Romania",
     "Type": "Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -1172,6 +1289,7 @@
   {
     "Name": "Cadenabbia",
     "Alternative_Names": "",
+    "Country": "Italy",
     "Type": "Climatic Resort",
     "List_Availability": "",
     "Progress": "",
@@ -1182,6 +1300,7 @@
   {
     "Name": "Cahul",
     "Alternative_Names": "",
+    "Country": "Moldova",
     "Type": "Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -1192,6 +1311,7 @@
   {
     "Name": "Caldas da Rainha",
     "Alternative_Names": "",
+    "Country": "Portugal",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -1202,6 +1322,7 @@
   {
     "Name": "Caldes d'Estrac",
     "Alternative_Names": "Caldetas, Aquae Calidae",
+    "Country": "Spain",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -1212,6 +1333,7 @@
   {
     "Name": "Caldes de Boí",
     "Alternative_Names": "Caldas de Bohí",
+    "Country": "Spain",
     "Type": "Mineral Spa (Hot), Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -1222,6 +1344,7 @@
   {
     "Name": "Caldes de Montbui",
     "Alternative_Names": "Caldas de Montbuy",
+    "Country": "Spain",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -1232,6 +1355,7 @@
   {
     "Name": "Cambo-les-Bains",
     "Alternative_Names": "",
+    "Country": "France",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -1242,6 +1366,7 @@
   {
     "Name": "Cannes",
     "Alternative_Names": "Canas",
+    "Country": "France",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -1252,6 +1377,7 @@
   {
     "Name": "Cap Martin",
     "Alternative_Names": "",
+    "Country": "France",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -1262,6 +1388,7 @@
   {
     "Name": "Capvern-les-Bains",
     "Alternative_Names": "",
+    "Country": "France",
     "Type": "Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -1272,6 +1399,7 @@
   {
     "Name": "Carlsbad",
     "Alternative_Names": "Karlsbad, Karlovy Vary",
+    "Country": "Czechia",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -1282,6 +1410,7 @@
   {
     "Name": "Carratraca",
     "Alternative_Names": "Karr-al-krak",
+    "Country": "Spain",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -1292,6 +1421,7 @@
   {
     "Name": "Castrocaro Terme",
     "Alternative_Names": "",
+    "Country": "Italy",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -1302,6 +1432,7 @@
   {
     "Name": "Cauterets",
     "Alternative_Names": "",
+    "Country": "France",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -1312,6 +1443,7 @@
   {
     "Name": "Châtel-Guyon",
     "Alternative_Names": "",
+    "Country": "France",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -1322,6 +1454,7 @@
   {
     "Name": "Chaudfontaine",
     "Alternative_Names": "",
+    "Country": "Belgium",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -1332,6 +1465,7 @@
   {
     "Name": "Cheltenham",
     "Alternative_Names": "",
+    "Country": "United Kingdom",
     "Type": "",
     "List_Availability": "",
     "Progress": "",
@@ -1342,6 +1476,7 @@
   {
     "Name": "Cherche",
     "Alternative_Names": "",
+    "Country": "Ukraine",
     "Type": "Mineral Spa (Cold), Climatic Resort",
     "List_Availability": "",
     "Progress": "",
@@ -1352,6 +1487,7 @@
   {
     "Name": "Chianciano Terme",
     "Alternative_Names": "",
+    "Country": "Italy",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -1362,6 +1498,7 @@
   {
     "Name": "Chizh",
     "Alternative_Names": "Číž, Csíz, Číž-kúpele",
+    "Country": "Slovakia",
     "Type": "Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -1372,6 +1509,7 @@
   {
     "Name": "Ciechocinek",
     "Alternative_Names": "",
+    "Country": "Poland",
     "Type": "Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -1382,6 +1520,7 @@
   {
     "Name": "Cieplice Ślaskie-Zdrój",
     "Alternative_Names": "Bad Warmbrunn",
+    "Country": "Poland",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -1392,6 +1531,7 @@
   {
     "Name": "Cleethorpes",
     "Alternative_Names": "",
+    "Country": "United Kingdom",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -1402,6 +1542,7 @@
   {
     "Name": "Constanța",
     "Alternative_Names": "Κωνστάντζα, Кюстенджа, Köstence, Custantsa, Tomis, Τόμις",
+    "Country": "Romania",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -1412,6 +1553,7 @@
   {
     "Name": "Contrexéville",
     "Alternative_Names": "",
+    "Country": "France",
     "Type": "Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -1422,6 +1564,7 @@
   {
     "Name": "Cortina d'Ampezzo",
     "Alternative_Names": "",
+    "Country": "Italy",
     "Type": "Climatic Resort",
     "List_Availability": "",
     "Progress": "",
@@ -1432,6 +1575,7 @@
   {
     "Name": "Craiglockhart",
     "Alternative_Names": "",
+    "Country": "United Kingdom",
     "Type": "Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -1442,6 +1586,7 @@
   {
     "Name": "Crieff",
     "Alternative_Names": "",
+    "Country": "United Kingdom",
     "Type": "Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -1452,6 +1597,7 @@
   {
     "Name": "Cromer",
     "Alternative_Names": "",
+    "Country": "United Kingdom",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -1462,6 +1608,7 @@
   {
     "Name": "Cuxhaven",
     "Alternative_Names": "",
+    "Country": "Germany",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -1472,6 +1619,7 @@
   {
     "Name": "Daruvar",
     "Alternative_Names": "Acquae Balissae",
+    "Country": "Croatia",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -1482,6 +1630,7 @@
   {
     "Name": "Davos",
     "Alternative_Names": "",
+    "Country": "Switzerland",
     "Type": "Climatic Resort",
     "List_Availability": "",
     "Progress": "",
@@ -1492,6 +1641,7 @@
   {
     "Name": "Dax",
     "Alternative_Names": "Aquae Tarbellicae",
+    "Country": "France",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -1502,6 +1652,7 @@
   {
     "Name": "De Haan",
     "Alternative_Names": "Le Coq, Le Coq-sur-Mer",
+    "Country": "Belgium",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -1512,6 +1663,7 @@
   {
     "Name": "De Panne",
     "Alternative_Names": "La Panne",
+    "Country": "Belgium",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -1522,6 +1674,7 @@
   {
     "Name": "Deal",
     "Alternative_Names": "",
+    "Country": "United Kingdom",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -1532,6 +1685,7 @@
   {
     "Name": "Děčín",
     "Alternative_Names": "Decin, Tetschen, Tetschen–Bodenbach",
+    "Country": "Czechia",
     "Type": "Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -1542,6 +1696,7 @@
   {
     "Name": "Dieppe",
     "Alternative_Names": "",
+    "Country": "France",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -1552,6 +1707,7 @@
   {
     "Name": "Długopole-Zdrój",
     "Alternative_Names": "Bad Nieder Langenau, Niederlangenau, Dlugopole",
+    "Country": "Poland",
     "Type": "Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -1562,6 +1718,7 @@
   {
     "Name": "Domburg",
     "Alternative_Names": "",
+    "Country": "Netherlands",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -1572,6 +1729,7 @@
   {
     "Name": "Dover",
     "Alternative_Names": "",
+    "Country": "United Kingdom",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -1582,6 +1740,7 @@
   {
     "Name": "Dudince",
     "Alternative_Names": "Gyügy",
+    "Country": "Slovakia",
     "Type": "Mineral Spa (Hot), Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -1592,6 +1751,7 @@
   {
     "Name": "Dunblane",
     "Alternative_Names": "",
+    "Country": "United Kingdom",
     "Type": "Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -1602,6 +1762,7 @@
   {
     "Name": "Dunoon",
     "Alternative_Names": "",
+    "Country": "United Kingdom",
     "Type": "Mineral Spa (Cold), Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -1612,6 +1773,7 @@
   {
     "Name": "East Cowes",
     "Alternative_Names": "",
+    "Country": "United Kingdom",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -1622,6 +1784,7 @@
   {
     "Name": "Eastbourne",
     "Alternative_Names": "",
+    "Country": "United Kingdom",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -1632,6 +1795,7 @@
   {
     "Name": "Eaux-Bonnes",
     "Alternative_Names": "",
+    "Country": "France",
     "Type": "Mineral Spa (Hot), Mineral Spa (Cold), Climatic Resort",
     "List_Availability": "",
     "Progress": "",
@@ -1642,6 +1806,7 @@
   {
     "Name": "Eaux-Chaudes",
     "Alternative_Names": "",
+    "Country": "France",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -1652,6 +1817,7 @@
   {
     "Name": "Eforie Nord",
     "Alternative_Names": "",
+    "Country": "Romania",
     "Type": "Mineral Spa (Hot), Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -1662,6 +1828,7 @@
   {
     "Name": "Enghien-les-Bains",
     "Alternative_Names": "",
+    "Country": "France",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -1672,6 +1839,7 @@
   {
     "Name": "Estoril",
     "Alternative_Names": "",
+    "Country": "Portugal",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -1682,6 +1850,7 @@
   {
     "Name": "Eugénie-les-Bains",
     "Alternative_Names": "Las Aigas",
+    "Country": "France",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -1692,6 +1861,7 @@
   {
     "Name": "Èvian-les-Bains",
     "Alternative_Names": "Aquianum, Vian, Les Vians, and Évians",
+    "Country": "France",
     "Type": "Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -1702,6 +1872,7 @@
   {
     "Name": "Fanø Bad",
     "Alternative_Names": "",
+    "Country": "Denmark",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -1712,6 +1883,7 @@
   {
     "Name": "Feodosiya",
     "Alternative_Names": "Kefe, Theodosia",
+    "Country": "Ukraine",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -1722,6 +1894,7 @@
   {
     "Name": "Flims",
     "Alternative_Names": "",
+    "Country": "Switzerland",
     "Type": "Climatic Resort",
     "List_Availability": "",
     "Progress": "",
@@ -1732,6 +1905,7 @@
   {
     "Name": "Folkestone",
     "Alternative_Names": "",
+    "Country": "United Kingdom",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -1742,6 +1916,7 @@
   {
     "Name": "Forres",
     "Alternative_Names": "",
+    "Country": "United Kingdom",
     "Type": "Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -1752,6 +1927,7 @@
   {
     "Name": "Forte dei Marmi",
     "Alternative_Names": "",
+    "Country": "Italy",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -1762,6 +1938,7 @@
   {
     "Name": "Frantiskovy Lazne",
     "Alternative_Names": "Franzensbad",
+    "Country": "Czechia",
     "Type": "Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -1772,6 +1949,7 @@
   {
     "Name": "Fratta Terme",
     "Alternative_Names": "",
+    "Country": "Italy",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -1782,6 +1960,7 @@
   {
     "Name": "Funchal",
     "Alternative_Names": "",
+    "Country": "Portugal",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -1792,6 +1971,7 @@
   {
     "Name": "Gaspra",
     "Alternative_Names": "Га́спрa, Га́спрa",
+    "Country": "Ukraine",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -1802,6 +1982,7 @@
   {
     "Name": "Genua",
     "Alternative_Names": "Genova",
+    "Country": "Italy",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -1812,6 +1993,7 @@
   {
     "Name": "Gersau",
     "Alternative_Names": "",
+    "Country": "Switzerland",
     "Type": "Climatic Resort",
     "List_Availability": "",
     "Progress": "",
@@ -1822,6 +2004,7 @@
   {
     "Name": "Głębokie",
     "Alternative_Names": "Glemboka, Gleboka",
+    "Country": "Poland",
     "Type": "Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -1832,6 +2015,7 @@
   {
     "Name": "Glücksburg",
     "Alternative_Names": "",
+    "Country": "Germany",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -1842,6 +2026,7 @@
   {
     "Name": "Grasse",
     "Alternative_Names": "",
+    "Country": "France",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -1852,6 +2037,7 @@
   {
     "Name": "Gurzuf",
     "Alternative_Names": "Hurzuf, Γορζουβίται, Гурзуф",
+    "Country": "Ukraine",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -1862,6 +2048,7 @@
   {
     "Name": "Haarlem",
     "Alternative_Names": "",
+    "Country": "Netherlands",
     "Type": "Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -1872,6 +2059,7 @@
   {
     "Name": "Harrogate",
     "Alternative_Names": "",
+    "Country": "United Kingdom",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -1882,6 +2070,7 @@
   {
     "Name": "Heiligendamm",
     "Alternative_Names": "",
+    "Country": "Germany",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -1892,6 +2081,7 @@
   {
     "Name": "Heist-aan-Zee",
     "Alternative_Names": "Heyst",
+    "Country": "Belgium",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -1902,6 +2092,7 @@
   {
     "Name": "Helgoland",
     "Alternative_Names": "",
+    "Country": "Germany",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -1912,6 +2103,7 @@
   {
     "Name": "Hendaye",
     "Alternative_Names": "Hendaia",
+    "Country": "France",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -1922,6 +2114,7 @@
   {
     "Name": "Heringsdorf",
     "Alternative_Names": "",
+    "Country": "Germany",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -1932,6 +2125,7 @@
   {
     "Name": "Hvar",
     "Alternative_Names": "Lesina",
+    "Country": "Croatia",
     "Type": "Seaside Resort, Climatic Resort",
     "List_Availability": "",
     "Progress": "",
@@ -1942,6 +2136,7 @@
   {
     "Name": "Hyères",
     "Alternative_Names": "Leras, Hyères-les-Palmiers",
+    "Country": "France",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -1952,6 +2147,7 @@
   {
     "Name": "Ilidža",
     "Alternative_Names": "Aquae Sulphurae, Banja Ilidža, Bad Ilidža",
+    "Country": "Bosnia and Herzegovina ",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -1962,6 +2158,7 @@
   {
     "Name": "Istarske Toplice",
     "Alternative_Names": "Terme Santo Stefano",
+    "Country": "Croatia",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -1972,6 +2169,7 @@
   {
     "Name": "Iwonicz-Zdroj",
     "Alternative_Names": "Іво́нич-Здруй",
+    "Country": "Poland",
     "Type": "Climatic Resort, Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -1982,6 +2180,7 @@
   {
     "Name": "Jáchymov",
     "Alternative_Names": "Sankt Joachimsthal",
+    "Country": "Czechia",
     "Type": "Other",
     "List_Availability": "",
     "Progress": "",
@@ -1992,6 +2191,7 @@
   {
     "Name": "Jaraba",
     "Alternative_Names": "",
+    "Country": "Spain",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -2002,6 +2202,7 @@
   {
     "Name": "Juan-les-Pins",
     "Alternative_Names": "",
+    "Country": "France",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -2012,6 +2213,7 @@
   {
     "Name": "Kaltenleutgeben",
     "Alternative_Names": "",
+    "Country": "Austria",
     "Type": "Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -2022,6 +2224,7 @@
   {
     "Name": "Karlshagen",
     "Alternative_Names": "Carlshagen",
+    "Country": "Germany",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -2032,6 +2235,7 @@
   {
     "Name": "Katwijk",
     "Alternative_Names": "Katwyk, Katwijk aan Zee",
+    "Country": "Netherlands",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -2042,6 +2246,7 @@
   {
     "Name": "Khmilnyk",
     "Alternative_Names": "Хмільник, Хмельник, Chmielnik",
+    "Country": "Ukraine",
     "Type": "Other",
     "List_Availability": "",
     "Progress": "",
@@ -2052,6 +2257,7 @@
   {
     "Name": "Kiseljak",
     "Alternative_Names": "",
+    "Country": "Bosnia and Herzegovina ",
     "Type": "Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -2062,6 +2268,7 @@
   {
     "Name": "Kislovodsk",
     "Alternative_Names": "Кисловодск",
+    "Country": "Russia",
     "Type": "Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -2072,6 +2279,7 @@
   {
     "Name": "Klampenborg",
     "Alternative_Names": "",
+    "Country": "Denmark",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -2082,6 +2290,7 @@
   {
     "Name": "Klosters",
     "Alternative_Names": "",
+    "Country": "Switzerland",
     "Type": "Climatic Resort",
     "List_Availability": "",
     "Progress": "",
@@ -2092,6 +2301,7 @@
   {
     "Name": "Knokke",
     "Alternative_Names": "Knocke",
+    "Country": "Belgium",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -2102,6 +2312,7 @@
   {
     "Name": "Kołobrzeg",
     "Alternative_Names": "",
+    "Country": "Poland",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -2112,6 +2323,7 @@
   {
     "Name": "Konstancin-Jeziorna",
     "Alternative_Names": "",
+    "Country": "Poland",
     "Type": "Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -2122,6 +2334,7 @@
   {
     "Name": "Korytnica",
     "Alternative_Names": "Korytnicza, Korytnica-kúpele",
+    "Country": "Slovakia",
     "Type": "Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -2132,6 +2345,7 @@
   {
     "Name": "Koserow",
     "Alternative_Names": "",
+    "Country": "Germany",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -2142,6 +2356,7 @@
   {
     "Name": "Kovacova",
     "Alternative_Names": "Kováčová, Kovácsfalva",
+    "Country": "Slovakia",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -2152,6 +2367,7 @@
   {
     "Name": "Krapinske Toplice",
     "Alternative_Names": "",
+    "Country": "Croatia",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -2162,6 +2378,7 @@
   {
     "Name": "Krynica-Zdrój",
     "Alternative_Names": "Krynica, Krynicza",
+    "Country": "Poland",
     "Type": "Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -2172,6 +2389,7 @@
   {
     "Name": "Kúpele Piešťany",
     "Alternative_Names": "Bad Pistyan,Pistian,Püschtin,Pöstyény",
+    "Country": "Slovakia",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -2182,6 +2400,7 @@
   {
     "Name": "Kuyalnik",
     "Alternative_Names": "",
+    "Country": "Ukraine",
     "Type": "Mineral Spa (Cold), Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -2192,6 +2411,7 @@
   {
     "Name": "Kyrylivka",
     "Alternative_Names": "Кирилівка",
+    "Country": "Ukraine",
     "Type": "Climatic Resort, Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -2202,6 +2422,7 @@
   {
     "Name": "Kyustendil",
     "Alternative_Names": "Ulpia Pautalia, Велбъжд, Velbazhd, Кюстендил",
+    "Country": "Bulgaria",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -2212,6 +2433,7 @@
   {
     "Name": "La Bourboule",
     "Alternative_Names": "",
+    "Country": "France",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -2222,6 +2444,7 @@
   {
     "Name": "La Orotava",
     "Alternative_Names": "",
+    "Country": "Spain",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -2232,6 +2455,7 @@
   {
     "Name": "La Spezia",
     "Alternative_Names": "",
+    "Country": "Italy",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -2242,6 +2466,7 @@
   {
     "Name": "Laboe",
     "Alternative_Names": "",
+    "Country": "Germany",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -2252,6 +2477,7 @@
   {
     "Name": "Lacaune-les-Bains",
     "Alternative_Names": "",
+    "Country": "France",
     "Type": "",
     "List_Availability": "",
     "Progress": "",
@@ -2262,6 +2488,7 @@
   {
     "Name": "Lądek-Zdrój",
     "Alternative_Names": "",
+    "Country": "Poland",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -2272,6 +2499,7 @@
   {
     "Name": "Langeoog",
     "Alternative_Names": "",
+    "Country": "Germany",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -2282,6 +2510,7 @@
   {
     "Name": "Las Caldas Villa Termal",
     "Alternative_Names": "",
+    "Country": "Spain",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -2292,6 +2521,7 @@
   {
     "Name": "Lázně Kyselka",
     "Alternative_Names": "Kyselka Spa, Gießhübl-Sauerbrunn, Kysibl",
+    "Country": "Czechia",
     "Type": "Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -2302,6 +2532,7 @@
   {
     "Name": "Le Boulou",
     "Alternative_Names": "",
+    "Country": "France",
     "Type": "Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -2312,6 +2543,7 @@
   {
     "Name": "Le Touquet",
     "Alternative_Names": "Le Touquet Paris-Plage",
+    "Country": "France",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -2322,6 +2554,7 @@
   {
     "Name": "Leamington Spa",
     "Alternative_Names": "",
+    "Country": "United Kingdom",
     "Type": "Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -2332,6 +2565,7 @@
   {
     "Name": "Leukerbad",
     "Alternative_Names": "Loèche-les-Bains, Leiggerbad",
+    "Country": "Switzerland",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -2342,6 +2576,7 @@
   {
     "Name": "Levočské kúpele",
     "Alternative_Names": "Baldócz fürdo",
+    "Country": "Slovakia",
     "Type": "Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -2352,6 +2587,7 @@
   {
     "Name": "Lipik",
     "Alternative_Names": "",
+    "Country": "Croatia",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -2362,6 +2598,7 @@
   {
     "Name": "Liptovsky Jan",
     "Alternative_Names": "Liptovský Ján, St. Johann, Szentiván",
+    "Country": "Slovakia",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -2372,6 +2609,7 @@
   {
     "Name": "Livadiya",
     "Alternative_Names": "Livadia, Ливадия",
+    "Country": "Ukraine",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -2382,6 +2620,7 @@
   {
     "Name": "Lourdes",
     "Alternative_Names": "",
+    "Country": "France",
     "Type": "Other",
     "List_Availability": "",
     "Progress": "",
@@ -2392,6 +2631,7 @@
   {
     "Name": "Loutraki",
     "Alternative_Names": "",
+    "Country": "Greece",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -2402,6 +2642,7 @@
   {
     "Name": "Ľubické Kúpele",
     "Alternative_Names": "Ľubica, Leibitz, Leibic",
+    "Country": "Slovakia",
     "Type": "Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -2412,6 +2653,7 @@
   {
     "Name": "Lubochna",
     "Alternative_Names": "Ľubochňa, Fenyőháza",
+    "Country": "Slovakia",
     "Type": "Climatic Resort",
     "List_Availability": "",
     "Progress": "",
@@ -2422,6 +2664,7 @@
   {
     "Name": "Lucivna",
     "Alternative_Names": "Lučivná, Lautschburg, Leutschburg, Lucsivna",
+    "Country": "Slovakia",
     "Type": "Climatic Resort",
     "List_Availability": "",
     "Progress": "",
@@ -2432,6 +2675,7 @@
   {
     "Name": "Lúčky",
     "Alternative_Names": "Lucski",
+    "Country": "Slovakia",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -2442,6 +2686,7 @@
   {
     "Name": "Luxeuil-les-Bains",
     "Alternative_Names": "",
+    "Country": "France",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -2452,6 +2697,7 @@
   {
     "Name": "Luz Saint Sauveur",
     "Alternative_Names": "",
+    "Country": "France",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -2462,6 +2708,7 @@
   {
     "Name": "Málaga",
     "Alternative_Names": "",
+    "Country": "Spain",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -2472,6 +2719,7 @@
   {
     "Name": "Malvern",
     "Alternative_Names": "",
+    "Country": "United Kingdom",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -2482,6 +2730,7 @@
   {
     "Name": "Mangalia",
     "Alternative_Names": "",
+    "Country": "Romania",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -2492,6 +2741,7 @@
   {
     "Name": "Margate",
     "Alternative_Names": "",
+    "Country": "United Kingdom",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -2502,6 +2752,7 @@
   {
     "Name": "Marianske Lazne",
     "Alternative_Names": "Marienbad",
+    "Country": "Czechia",
     "Type": "Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -2512,6 +2763,7 @@
   {
     "Name": "Marielyst",
     "Alternative_Names": "",
+    "Country": "Denmark",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -2522,6 +2774,7 @@
   {
     "Name": "Martsialnye Vody",
     "Alternative_Names": "Марциальные Воды",
+    "Country": "Russia",
     "Type": "Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -2532,6 +2785,7 @@
   {
     "Name": "Menton",
     "Alternative_Names": "",
+    "Country": "France",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -2542,6 +2796,7 @@
   {
     "Name": "Merano",
     "Alternative_Names": "Meran, Maran, Meranum, Mairania",
+    "Country": "Italy",
     "Type": "Climatic Resort",
     "List_Availability": "",
     "Progress": "",
@@ -2552,6 +2807,7 @@
   {
     "Name": "Misdroy",
     "Alternative_Names": "Miedzyzdroje, Misdroige",
+    "Country": "Poland",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -2562,6 +2818,7 @@
   {
     "Name": "Mitterbad",
     "Alternative_Names": "Bagni di Mezzo",
+    "Country": "Italy",
     "Type": "Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -2572,6 +2829,7 @@
   {
     "Name": "Modum",
     "Alternative_Names": "",
+    "Country": "Norway",
     "Type": "Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -2582,6 +2840,7 @@
   {
     "Name": "Moffat",
     "Alternative_Names": "",
+    "Country": "United Kingdom",
     "Type": "Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -2592,6 +2851,7 @@
   {
     "Name": "Molitg-les-Bains",
     "Alternative_Names": "",
+    "Country": "France",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -2602,6 +2862,7 @@
   {
     "Name": "Mondariz-Balnerio",
     "Alternative_Names": "",
+    "Country": "Spain",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -2612,6 +2873,7 @@
   {
     "Name": "Mondorf-les-Bains",
     "Alternative_Names": "Mondorf-Altwies, Bad Mondorf, Munneref, Mondorff",
+    "Country": "Luxembourg",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -2622,6 +2884,7 @@
   {
     "Name": "Mont-Dore",
     "Alternative_Names": "",
+    "Country": "France",
     "Type": "Mineral Spa (Hot), Climatic Resort",
     "List_Availability": "",
     "Progress": "",
@@ -2632,6 +2895,7 @@
   {
     "Name": "Montana",
     "Alternative_Names": "Crans-Montana",
+    "Country": "Switzerland",
     "Type": "Climatic Resort",
     "List_Availability": "",
     "Progress": "",
@@ -2642,6 +2906,7 @@
   {
     "Name": "Monte Carlo",
     "Alternative_Names": "",
+    "Country": "Monaco",
     "Type": "Seaside Resort, Climatic Resort",
     "List_Availability": "",
     "Progress": "",
@@ -2652,6 +2917,7 @@
   {
     "Name": "Montecatini Terme",
     "Alternative_Names": "",
+    "Country": "Italy",
     "Type": "Mineral Spa (Hot), Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -2662,6 +2928,7 @@
   {
     "Name": "Montegrotto Terme",
     "Alternative_Names": "Mons Aegrotorum, San Pietro Montagnon",
+    "Country": "Italy",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -2672,6 +2939,7 @@
   {
     "Name": "Montreux",
     "Alternative_Names": "",
+    "Country": "Switzerland",
     "Type": "Climatic Resort",
     "List_Availability": "",
     "Progress": "",
@@ -2682,6 +2950,7 @@
   {
     "Name": "Morshyn",
     "Alternative_Names": "Моршин, Morszyn-Zdrój",
+    "Country": "Ukraine",
     "Type": "Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -2692,6 +2961,7 @@
   {
     "Name": "Moss",
     "Alternative_Names": "",
+    "Country": "Norway",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -2702,6 +2972,7 @@
   {
     "Name": "Myrhorod",
     "Alternative_Names": "Ми́ргород, Mirgorod, Ми́ргород",
+    "Country": "Ukraine",
     "Type": "Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -2712,6 +2983,7 @@
   {
     "Name": "Nałęczów",
     "Alternative_Names": "",
+    "Country": "Poland",
     "Type": "Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -2722,6 +2994,7 @@
   {
     "Name": "Nemyriw",
     "Alternative_Names": "Немирів, Nemirow, Niemirów, Niemerow, Niemirow",
+    "Country": "Ukraine",
     "Type": "Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -2732,6 +3005,7 @@
   {
     "Name": "Nesebar",
     "Alternative_Names": "Nessebar, Nesebur, Несебър",
+    "Country": "Bulgaria",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -2742,6 +3016,7 @@
   {
     "Name": "Nice",
     "Alternative_Names": "Nizza",
+    "Country": "France",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -2752,6 +3027,7 @@
   {
     "Name": "Nieuwpoort",
     "Alternative_Names": "Nieuport-les-Bains, Nieuport",
+    "Country": "Belgium",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -2762,6 +3038,7 @@
   {
     "Name": "Nimnica",
     "Alternative_Names": "Nimnicz",
+    "Country": "Slovakia",
     "Type": "Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -2772,6 +3049,7 @@
   {
     "Name": "Norderney",
     "Alternative_Names": "",
+    "Country": "Germany",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -2782,6 +3060,7 @@
   {
     "Name": "Nový Smokovec",
     "Alternative_Names": "Neuschmecks, Újtátrafüred",
+    "Country": "Slovakia",
     "Type": "Climatic Resort",
     "List_Availability": "",
     "Progress": "",
@@ -2792,6 +3071,7 @@
   {
     "Name": "Odessa",
     "Alternative_Names": "",
+    "Country": "Ukraine",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -2802,6 +3082,7 @@
   {
     "Name": "Olovo",
     "Alternative_Names": "",
+    "Country": "Bosnia and Herzegovina ",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -2812,6 +3093,7 @@
   {
     "Name": "Opatija",
     "Alternative_Names": "Abbazia, Sankt Jakobi",
+    "Country": "Croatia",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -2822,6 +3104,7 @@
   {
     "Name": "Ornolac-Ussat-les-Bains",
     "Alternative_Names": "",
+    "Country": "France",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -2832,6 +3115,7 @@
   {
     "Name": "Ostende",
     "Alternative_Names": "Oostende, Ostend",
+    "Country": "Belgium",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -2842,6 +3126,7 @@
   {
     "Name": "Oviedo",
     "Alternative_Names": "",
+    "Country": "Spain",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -2852,6 +3137,7 @@
   {
     "Name": "Palma",
     "Alternative_Names": "Palma de Mallorca, Medina Mayurqa",
+    "Country": "Spain",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -2862,6 +3148,7 @@
   {
     "Name": "Parque Termal do Peso",
     "Alternative_Names": "",
+    "Country": "Portugal",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -2872,6 +3159,7 @@
   {
     "Name": "Pechina",
     "Alternative_Names": "Bajjāna",
+    "Country": "Spain",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -2882,6 +3170,7 @@
   {
     "Name": "Peebles",
     "Alternative_Names": "",
+    "Country": "United Kingdom",
     "Type": "Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -2892,6 +3181,7 @@
   {
     "Name": "Pisarovina",
     "Alternative_Names": "Jamnička Keselica",
+    "Country": "Croatia",
     "Type": "Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -2902,6 +3192,7 @@
   {
     "Name": "Pitlochry",
     "Alternative_Names": "",
+    "Country": "United Kingdom",
     "Type": "Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -2912,6 +3203,7 @@
   {
     "Name": "Plombières-les-Bains",
     "Alternative_Names": "",
+    "Country": "France",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -2922,6 +3214,7 @@
   {
     "Name": "Preste-les-Bains",
     "Alternative_Names": "",
+    "Country": "France",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -2932,6 +3225,7 @@
   {
     "Name": "Pula",
     "Alternative_Names": "Pola",
+    "Country": "Croatia",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -2942,6 +3236,7 @@
   {
     "Name": "Pyatigorsk",
     "Alternative_Names": "Pjatigorsk, Пятиго́рск, Goriatchevodsk",
+    "Country": "Russia",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -2952,6 +3247,7 @@
   {
     "Name": "Pyrmont",
     "Alternative_Names": "Bad Pyrmont",
+    "Country": "Germany",
     "Type": "",
     "List_Availability": "",
     "Progress": "",
@@ -2962,6 +3258,7 @@
   {
     "Name": "Rajecké Teplice",
     "Alternative_Names": "Bad Rajetz, Rajecfürdő",
+    "Country": "Slovakia",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -2972,6 +3269,7 @@
   {
     "Name": "Ramlösa",
     "Alternative_Names": "",
+    "Country": "Sweden",
     "Type": "Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -2982,6 +3280,7 @@
   {
     "Name": "Ramsgate",
     "Alternative_Names": "",
+    "Country": "United Kingdom",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -2992,6 +3291,7 @@
   {
     "Name": "Rapallo",
     "Alternative_Names": "",
+    "Country": "Italy",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -3002,6 +3302,7 @@
   {
     "Name": "Recaore Terme",
     "Alternative_Names": "",
+    "Country": "Italy",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -3012,6 +3313,7 @@
   {
     "Name": "Reichenau an der Rax",
     "Alternative_Names": "",
+    "Country": "Austria",
     "Type": "Climatic Resort",
     "List_Availability": "",
     "Progress": "",
@@ -3022,6 +3324,7 @@
   {
     "Name": "Rennes-les-Bains",
     "Alternative_Names": "",
+    "Country": "France",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -3032,6 +3335,7 @@
   {
     "Name": "Rigi Kaltbad",
     "Alternative_Names": "",
+    "Country": "Switzerland",
     "Type": "Mineral Spa (Cold), Climatic Resort",
     "List_Availability": "",
     "Progress": "",
@@ -3042,6 +3346,7 @@
   {
     "Name": "Rimske Toplice",
     "Alternative_Names": "Toplica, Toplitz",
+    "Country": "Slovenia",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -3052,6 +3357,7 @@
   {
     "Name": "Riva del Garda",
     "Alternative_Names": "Reiff am Gartsee",
+    "Country": "Italy",
     "Type": "Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -3062,6 +3368,7 @@
   {
     "Name": "Rothesay",
     "Alternative_Names": "",
+    "Country": "United Kingdom",
     "Type": "Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -3072,6 +3379,7 @@
   {
     "Name": "Royan",
     "Alternative_Names": "",
+    "Country": "France",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -3082,6 +3390,7 @@
   {
     "Name": "Royat",
     "Alternative_Names": "",
+    "Country": "France",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -3092,6 +3401,7 @@
   {
     "Name": "Ružbachy-kúpele",
     "Alternative_Names": "Oberrauschenbach, Felsőzúgó",
+    "Country": "Slovakia",
     "Type": "Mineral Spa (Hot), Climatic Resort",
     "List_Availability": "",
     "Progress": "",
@@ -3102,6 +3412,7 @@
   {
     "Name": "Rymanów-Zdrój",
     "Alternative_Names": "Риманів-Здрій",
+    "Country": "Poland",
     "Type": "Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -3112,6 +3423,7 @@
   {
     "Name": "Saint Aubin-sur-Mer",
     "Alternative_Names": "",
+    "Country": "France",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -3122,6 +3434,7 @@
   {
     "Name": "Saint-Lary-Soulan",
     "Alternative_Names": "",
+    "Country": "France",
     "Type": "",
     "List_Availability": "",
     "Progress": "",
@@ -3132,6 +3445,7 @@
   {
     "Name": "Saky",
     "Alternative_Names": "Saki, Саки",
+    "Country": "Ukraine",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -3142,6 +3456,7 @@
   {
     "Name": "Salie-de-Béarn",
     "Alternative_Names": "",
+    "Country": "France",
     "Type": "",
     "List_Availability": "",
     "Progress": "",
@@ -3152,6 +3467,7 @@
   {
     "Name": "Salies-du-Salat",
     "Alternative_Names": "",
+    "Country": "France",
     "Type": "",
     "List_Availability": "",
     "Progress": "",
@@ -3162,6 +3478,7 @@
   {
     "Name": "Salsomaggiore Terme",
     "Alternative_Names": "",
+    "Country": "Italy",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -3172,6 +3489,7 @@
   {
     "Name": "San Pellegrino Terme",
     "Alternative_Names": "",
+    "Country": "Italy",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -3182,6 +3500,7 @@
   {
     "Name": "San Sebastian",
     "Alternative_Names": "",
+    "Country": "Spain",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -3192,6 +3511,7 @@
   {
     "Name": "Sandefjord",
     "Alternative_Names": "",
+    "Country": "Norway",
     "Type": "Mineral Spa (Cold), Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -3202,6 +3522,7 @@
   {
     "Name": "Sanlucar de Barrameda",
     "Alternative_Names": "",
+    "Country": "Spain",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -3212,6 +3533,7 @@
   {
     "Name": "Sanremo",
     "Alternative_Names": "San Remo, Sanrémmo, Sanreumo",
+    "Country": "Italy",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -3222,6 +3544,7 @@
   {
     "Name": "Santander",
     "Alternative_Names": "",
+    "Country": "Spain",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -3232,6 +3555,7 @@
   {
     "Name": "Sassetot-le-Mauconduit",
     "Alternative_Names": "",
+    "Country": "France",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -3242,6 +3566,7 @@
   {
     "Name": "Scheveningen",
     "Alternative_Names": "",
+    "Country": "Netherlands",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -3252,6 +3577,7 @@
   {
     "Name": "Schlangenbad",
     "Alternative_Names": "",
+    "Country": "Germany",
     "Type": "Mineral Spa (Cold), Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -3262,6 +3588,7 @@
   {
     "Name": "Schwäbisch Hall",
     "Alternative_Names": "",
+    "Country": "Germany",
     "Type": "Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -3272,6 +3599,7 @@
   {
     "Name": "Scuol-Tarasp",
     "Alternative_Names": "Tarasp",
+    "Country": "Switzerland",
     "Type": "Mineral Spa (Cold), Climatic Resort",
     "List_Availability": "",
     "Progress": "",
@@ -3282,6 +3610,7 @@
   {
     "Name": "Semmering",
     "Alternative_Names": "",
+    "Country": "Austria",
     "Type": "Climatic Resort",
     "List_Availability": "",
     "Progress": "",
@@ -3292,6 +3621,7 @@
   {
     "Name": "Serhiivka",
     "Alternative_Names": "",
+    "Country": "Ukraine",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -3302,6 +3632,7 @@
   {
     "Name": "Sète",
     "Alternative_Names": "",
+    "Country": "France",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -3312,6 +3643,7 @@
   {
     "Name": "Silkeborg",
     "Alternative_Names": "",
+    "Country": "Denmark",
     "Type": "Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -3322,6 +3654,7 @@
   {
     "Name": "Sils Maria",
     "Alternative_Names": "Sils im Engadin",
+    "Country": "Switzerland",
     "Type": "Climatic Resort",
     "List_Availability": "",
     "Progress": "",
@@ -3332,6 +3665,7 @@
   {
     "Name": "Skadovsk",
     "Alternative_Names": "Скадовськ",
+    "Country": "Ukraine",
     "Type": "Climatic Resort, Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -3342,6 +3676,7 @@
   {
     "Name": "Skhidnytsia",
     "Alternative_Names": "Схі́дниця",
+    "Country": "Ukraine",
     "Type": "Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -3352,6 +3687,7 @@
   {
     "Name": "Sklené Teplice",
     "Alternative_Names": "Sklenô, Glashütte, Glaserhey, Szklenófürdó, Barsszklenó, Szklenó",
+    "Country": "Slovakia",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -3362,6 +3698,7 @@
   {
     "Name": "Slanic Moldova",
     "Alternative_Names": "",
+    "Country": "Romania",
     "Type": "Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -3372,6 +3709,7 @@
   {
     "Name": "Sliač",
     "Alternative_Names": "Szliács, Szliácsfürdő",
+    "Country": "Slovakia",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -3382,6 +3720,7 @@
   {
     "Name": "Smrdáky",
     "Alternative_Names": "Büdöskő, Szmrdák",
+    "Country": "Slovakia",
     "Type": "Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -3392,6 +3731,7 @@
   {
     "Name": "Sochi",
     "Alternative_Names": "Со́чи",
+    "Country": "Russia",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -3402,6 +3742,7 @@
   {
     "Name": "Sokobanja",
     "Alternative_Names": "Soko Banja, Сокобања",
+    "Country": "Serbia",
     "Type": "Mineral Spa (Hot), Climatic Resort",
     "List_Availability": "",
     "Progress": "",
@@ -3412,6 +3753,7 @@
   {
     "Name": "Sokołowsko",
     "Alternative_Names": "Görbersdorf",
+    "Country": "Poland",
     "Type": "Climatic Resort",
     "List_Availability": "",
     "Progress": "",
@@ -3422,6 +3764,7 @@
   {
     "Name": "Solbad Wittekind",
     "Alternative_Names": "Solbad Wittekind",
+    "Country": "Germany",
     "Type": "Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -3432,6 +3775,7 @@
   {
     "Name": "Solca",
     "Alternative_Names": "Solka Szolka",
+    "Country": "Romania",
     "Type": "Mineral Spa (Cold), Climatic Resort",
     "List_Availability": "",
     "Progress": "",
@@ -3442,6 +3786,7 @@
   {
     "Name": "Sorrent",
     "Alternative_Names": "Sorrento",
+    "Country": "Italy",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -3452,6 +3797,7 @@
   {
     "Name": "Sovata",
     "Alternative_Names": "",
+    "Country": "Romania",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -3462,6 +3808,7 @@
   {
     "Name": "Sozopol",
     "Alternative_Names": "Созопол, Σωζόπολη, Sozopoli",
+    "Country": "Bulgaria",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -3472,6 +3819,7 @@
   {
     "Name": "Spa",
     "Alternative_Names": "",
+    "Country": "Belgium",
     "Type": "Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -3482,6 +3830,7 @@
   {
     "Name": "St. Moritz",
     "Alternative_Names": "",
+    "Country": "Switzerland",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -3492,6 +3841,7 @@
   {
     "Name": "Starý Smokovec",
     "Alternative_Names": "Altschmecks, Ótátrafüred",
+    "Country": "Slovakia",
     "Type": "Mineral Spa (Cold), Climatic Resort",
     "List_Availability": "",
     "Progress": "",
@@ -3502,6 +3852,7 @@
   {
     "Name": "Štós",
     "Alternative_Names": "Štos, Stoß, Stósz",
+    "Country": "Slovakia",
     "Type": "Climatic Resort",
     "List_Availability": "",
     "Progress": "",
@@ -3512,6 +3863,7 @@
   {
     "Name": "Štrbské Pleso",
     "Alternative_Names": "Tschirmer See, Csorbató",
+    "Country": "Slovakia",
     "Type": "Climatic Resort",
     "List_Availability": "",
     "Progress": "",
@@ -3522,6 +3874,7 @@
   {
     "Name": "Stubicke Toplice",
     "Alternative_Names": "",
+    "Country": "Croatia",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -3532,6 +3885,7 @@
   {
     "Name": "Sviatohirsk",
     "Alternative_Names": "Святогі́рськ",
+    "Country": "Ukraine",
     "Type": "Climatic Resort",
     "List_Availability": "",
     "Progress": "",
@@ -3542,6 +3896,7 @@
   {
     "Name": "Świeradów-Zdrój",
     "Alternative_Names": "Bad Flinsberg",
+    "Country": "Poland",
     "Type": "Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -3552,6 +3907,7 @@
   {
     "Name": "Swinoujscie",
     "Alternative_Names": "Swinemünde",
+    "Country": "Poland",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -3562,6 +3918,7 @@
   {
     "Name": "Sylt",
     "Alternative_Names": "",
+    "Country": "Germany",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -3572,6 +3929,7 @@
   {
     "Name": "Szczawnica",
     "Alternative_Names": "",
+    "Country": "Poland",
     "Type": "Mineral Spa (Hot), Mineral Spa (Cold), Climatic Resort",
     "List_Availability": "",
     "Progress": "",
@@ -3582,6 +3940,7 @@
   {
     "Name": "Szczawno-Zdrój",
     "Alternative_Names": "Solice-Zdrój, Ober Salzbrunn, Bad Salzbrunn",
+    "Country": "Poland",
     "Type": "Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -3592,6 +3951,7 @@
   {
     "Name": "Tatranská Lomnica",
     "Alternative_Names": "Tatralomnitz,Tátralomnic",
+    "Country": "Slovakia",
     "Type": "Climatic Resort",
     "List_Availability": "",
     "Progress": "",
@@ -3602,6 +3962,7 @@
   {
     "Name": "Teplice",
     "Alternative_Names": "Teplitz-Schönau, Töplitz, Teplitz",
+    "Country": "Czechia",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -3612,6 +3973,7 @@
   {
     "Name": "Termas Baronía de Les",
     "Alternative_Names": "",
+    "Country": "Spain",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -3622,6 +3984,7 @@
   {
     "Name": "Thonon-les-Bains",
     "Alternative_Names": "",
+    "Country": "France",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -3632,6 +3995,7 @@
   {
     "Name": "Thuès-les-Bains",
     "Alternative_Names": "",
+    "Country": "France",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -3642,6 +4006,7 @@
   {
     "Name": "Toblach",
     "Alternative_Names": "",
+    "Country": "Italy",
     "Type": "Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -3652,6 +4017,7 @@
   {
     "Name": "Topusko",
     "Alternative_Names": "Ad fines",
+    "Country": "Croatia",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -3662,6 +4028,7 @@
   {
     "Name": "Travemünde",
     "Alternative_Names": "",
+    "Country": "Germany",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -3672,6 +4039,7 @@
   {
     "Name": "Trenčianske Teplice",
     "Alternative_Names": "Trentschin-Teplitz, Trencsénteplic",
+    "Country": "Slovakia",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -3682,6 +4050,7 @@
   {
     "Name": "Trouville-sur-Mer",
     "Alternative_Names": "",
+    "Country": "France",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -3692,6 +4061,7 @@
   {
     "Name": "Truskavets",
     "Alternative_Names": "Трускавець, Truskawiec, טרוסקעוויץ, Truskevitz, Truskovec",
+    "Country": "Ukraine",
     "Type": "Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -3702,6 +4072,7 @@
   {
     "Name": "Tsqaltubo",
     "Alternative_Names": "წყალტუბო, Цхалтубо",
+    "Country": "Georgia",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -3712,6 +4083,7 @@
   {
     "Name": "Tuheljske Toplice",
     "Alternative_Names": "",
+    "Country": "Croatia",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -3722,6 +4094,7 @@
   {
     "Name": "Tunbridge Wells",
     "Alternative_Names": "",
+    "Country": "United Kingdom",
     "Type": "Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -3732,6 +4105,7 @@
   {
     "Name": "Turčianske Teplice",
     "Alternative_Names": "Štubňanské Teplice, Bad Stuben, Stubnyafürdő",
+    "Country": "Slovakia",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -3742,6 +4116,7 @@
   {
     "Name": "Urberuaga de Ubilla",
     "Alternative_Names": "",
+    "Country": "Spain",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -3752,6 +4127,7 @@
   {
     "Name": "Ustka",
     "Alternative_Names": "",
+    "Country": "Poland",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -3762,6 +4138,7 @@
   {
     "Name": "Ustroń",
     "Alternative_Names": "Ustron",
+    "Country": "Poland",
     "Type": "Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -3772,6 +4149,7 @@
   {
     "Name": "Varaždin",
     "Alternative_Names": "Aquae Iasae",
+    "Country": "Croatia",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -3782,6 +4160,7 @@
   {
     "Name": "Varna",
     "Alternative_Names": "Варна",
+    "Country": "Bulgaria",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -3792,6 +4171,7 @@
   {
     "Name": "Vatra Dornei",
     "Alternative_Names": "Dornavátra, Dorna Watra",
+    "Country": "Romania",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -3802,6 +4182,7 @@
   {
     "Name": "Velykyi Lubin",
     "Alternative_Names": "Великий Любінь",
+    "Country": "Ukraine",
     "Type": "Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -3812,6 +4193,7 @@
   {
     "Name": "Venice",
     "Alternative_Names": "",
+    "Country": "Italy",
     "Type": "Seaside Resort, Climatic Resort",
     "List_Availability": "",
     "Progress": "",
@@ -3822,6 +4204,7 @@
   {
     "Name": "Ventimiglia",
     "Alternative_Names": "",
+    "Country": "Italy",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -3832,6 +4215,7 @@
   {
     "Name": "Ventnor (Isle of Wight)",
     "Alternative_Names": "",
+    "Country": "United Kingdom",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -3842,6 +4226,7 @@
   {
     "Name": "Vernet-les-Bains",
     "Alternative_Names": "",
+    "Country": "France",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -3852,6 +4237,7 @@
   {
     "Name": "Vichy",
     "Alternative_Names": "",
+    "Country": "France",
     "Type": "Mineral Spa (Hot), Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -3862,6 +4248,7 @@
   {
     "Name": "Vidago",
     "Alternative_Names": "",
+    "Country": "Portugal",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -3872,6 +4259,7 @@
   {
     "Name": "Vittel",
     "Alternative_Names": "",
+    "Country": "France",
     "Type": "Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -3882,6 +4270,7 @@
   {
     "Name": "Vlissingen",
     "Alternative_Names": "Flushing",
+    "Country": "Netherlands",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -3892,6 +4281,7 @@
   {
     "Name": "Vyšné Hágy",
     "Alternative_Names": "Hochhag, Hochhagi, Felsőhági",
+    "Country": "Slovakia",
     "Type": "Climatic Resort",
     "List_Availability": "",
     "Progress": "",
@@ -3902,6 +4292,7 @@
   {
     "Name": "Warnemünde",
     "Alternative_Names": "",
+    "Country": "Germany",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -3912,6 +4303,7 @@
   {
     "Name": "Westerland",
     "Alternative_Names": "Vesterland, Weesterlön, Westerland-on-Sylt",
+    "Country": "Germany",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -3922,6 +4314,7 @@
   {
     "Name": "Wieliczka",
     "Alternative_Names": "",
+    "Country": "Poland",
     "Type": "Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -3932,6 +4325,7 @@
   {
     "Name": "Wiesbaden",
     "Alternative_Names": "",
+    "Country": "Germany",
     "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
@@ -3942,6 +4336,7 @@
   {
     "Name": "Wisła",
     "Alternative_Names": "",
+    "Country": "Poland",
     "Type": "Mineral Spa (Cold), Climatic Resort",
     "List_Availability": "",
     "Progress": "",
@@ -3952,6 +4347,7 @@
   {
     "Name": "Worthing",
     "Alternative_Names": "",
+    "Country": "United Kingdom",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -3962,6 +4358,7 @@
   {
     "Name": "Yalta",
     "Alternative_Names": "Ялта",
+    "Country": "Ukraine",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -3972,6 +4369,7 @@
   {
     "Name": "Yaremeche",
     "Alternative_Names": "Яремче, Jaremcze, Iaremche",
+    "Country": "Ukraine",
     "Type": "Climatic Resort",
     "List_Availability": "",
     "Progress": "",
@@ -3982,6 +4380,7 @@
   {
     "Name": "Yessentuki",
     "Alternative_Names": "Ессентуки́",
+    "Country": "Russia",
     "Type": "Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -3992,6 +4391,7 @@
   {
     "Name": "Yevpatoriya",
     "Alternative_Names": "Євпаторія, Евпатория, Кезлев",
+    "Country": "Ukraine",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -4002,6 +4402,7 @@
   {
     "Name": "Yurmala",
     "Alternative_Names": "Jūrmala, Riga-Strand, Baltische Riviera, Юрмала",
+    "Country": "Latvia",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -4012,6 +4413,7 @@
   {
     "Name": "Zakopane",
     "Alternative_Names": "",
+    "Country": "Poland",
     "Type": "Mineral Spa (Hot), Climatic Resort",
     "List_Availability": "",
     "Progress": "",
@@ -4022,6 +4424,7 @@
   {
     "Name": "Zandvoort",
     "Alternative_Names": "",
+    "Country": "Netherlands",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -4032,6 +4435,7 @@
   {
     "Name": "Zatoka",
     "Alternative_Names": "Затoка, Zatoca, Bugaz",
+    "Country": "Ukraine",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -4042,6 +4446,7 @@
   {
     "Name": "Żegiestów-Zdrój",
     "Alternative_Names": "Rzegestow, Rzegiestow, Rzegiestów",
+    "Country": "Poland",
     "Type": "Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -4052,6 +4457,7 @@
   {
     "Name": "Zheleznovodsk",
     "Alternative_Names": "Железново́дск",
+    "Country": "Russia",
     "Type": "Mineral Spa (Hot), Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
@@ -4062,6 +4468,7 @@
   {
     "Name": "Zoppot",
     "Alternative_Names": "Sopot",
+    "Country": "Poland",
     "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
@@ -4072,6 +4479,7 @@
   {
     "Name": "Zuoz",
     "Alternative_Names": "",
+    "Country": "Switzerland",
     "Type": "Climatic Resort",
     "List_Availability": "",
     "Progress": "",
