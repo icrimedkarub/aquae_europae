@@ -1,39 +1,65 @@
-import pandas as pd
-import json
-from datetime import date
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Aquae Europae – Spa Towns of Europe</title>
 
-# Load Excel
-df = pd.read_excel("towns.xlsx")
+  <!-- Styles -->
+  <link rel="stylesheet" href="static/style.css">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster/dist/MarkerCluster.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster/dist/MarkerCluster.Default.css" />
 
-# Select and rename columns if needed
-columns_to_keep = [
-    "Name",
-    "Alternative_Names",
-    "Country",
-    "Type",
-    "List_Availability",
-    "Progress",
-    "Link",
-    "Latitude",
-    "Longitude"
-]
+  <!-- Favicon -->
+  <link rel="icon" href="assets/favicon.ico" type="image/x-icon">
+</head>
+<body>
 
-# Filter only existing columns (in case some are missing)
-df = df[[c for c in columns_to_keep if c in df.columns]]
+  <nav class="main-nav">
+    <a href="index.html">Home</a>
+    <a href="about.html">About</a>
+    <a href="contact.html">Contact</a>
+    <a href="imprint.html">Imprint</a>
+  </nav>
+  <hr>
 
-# Replace NaN with empty string
-df = df.fillna("")
+  <main>
+    <h1>Aquae Europae</h1>
+    <p><em>Spa Towns of Europe</em></p>
 
-# Convert to list of dicts
-towns = df.to_dict(orient="records")
+    <input type="text" id="search" placeholder="Search spa towns..." />
 
-# Save JSON
-with open("data/towns.json", "w", encoding="utf-8") as f:
-    json.dump(towns, f, indent=2, ensure_ascii=False)
+    <div id="map"></div>
 
-# Update metadata.json with last_updated date
-metadata = {
-    "last_updated": date.today().isoformat()
-}
-with open("data/metadata.json", "w", encoding="utf-8") as f:
-    json.dump(metadata, f, indent=2)
+    <div id="total-count"></div>
+
+    <table id="spa-table">
+      <thead>
+        <tr>
+          <th>Name</th>
+          <th>Alternative Names</th>
+          <th>Country</th>
+          <th>Type</th>
+          <th>List Availability</th>
+          <th>Link</th>
+          <th>Progress</th>
+        </tr>
+      </thead>
+      <tbody></tbody>
+    </table>
+  </main>
+
+  <footer>
+    <p id="last-updated"></p>
+  </footer>
+
+  <!-- Back to top -->
+  <button id="toTopBtn" title="Back to top">↑</button>
+
+  <!-- Scripts -->
+  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+  <script src="https://unpkg.com/leaflet.markercluster/dist/leaflet.markercluster.js"></script>
+  <script src="static/script.js"></script>
+
+</body>
+</html>

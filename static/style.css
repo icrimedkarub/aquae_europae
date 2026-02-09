@@ -1,36 +1,30 @@
-/* General body styles */
 body {
-  font-family: Arial, sans-serif;
+  font-family: sans-serif;
   margin: 1em;
-  line-height: 1.5;
-  color: #222;
 }
 
-/* Nav menu */
 .main-nav {
-  font-size: 1em;
-  margin-bottom: 1em;
+  display: flex;
+  gap: 1em;
+  margin-bottom: 0.5em;
 }
 
 .main-nav a {
   text-decoration: none;
-  color: #1a1a1a;
-  margin: 0 0.5em;
+  font-weight: bold;
+  color: #333;
 }
 
 .main-nav a:hover {
   text-decoration: underline;
 }
 
-/* Map */
 #map {
   height: 500px;
-  width: 100%;
   margin-bottom: 1em;
   border-radius: 8px;
 }
 
-/* Table styles */
 table {
   width: 100%;
   border-collapse: collapse;
@@ -40,42 +34,21 @@ table {
 th, td {
   border-bottom: 1px solid #ddd;
   padding: 0.5em;
-  text-align: left;
 }
 
-th {
-  cursor: pointer;
-  background-color: #f7f7f7;
-}
-
-th.asc::after {
-  content: " ▲";
-  font-size: 0.7em;
-}
-
-th.desc::after {
-  content: " ▼";
-  font-size: 0.7em;
-}
-
-/* Input search box */
-input[type="text"] {
+input {
   padding: 0.5em;
   margin-bottom: 1em;
   width: 100%;
   max-width: 400px;
-  border: 1px solid #ccc;
-  border-radius: 4px;
 }
 
-/* Footer */
 footer {
   margin-top: 2em;
   font-size: 0.9em;
-  color: #555;
+  color: #666;
 }
 
-/* Back-to-top button */
 #toTopBtn {
   position: fixed;
   bottom: 20px;
@@ -89,8 +62,6 @@ footer {
   height: 40px;
   font-size: 20px;
   cursor: pointer;
-  box-shadow: 0 2px 5px rgba(0,0,0,0.3);
-  transition: background-color 0.3s;
 }
 
 #toTopBtn:hover {
