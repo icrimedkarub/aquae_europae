@@ -1,92 +1,39 @@
-<!DOCTYPE html>
-<html lang="en">
+import pandas as pd
+import json
+from datetime import date
 
-<head>
-  <meta charset="UTF-8">
-  <title>Aquae Europae – Spa Towns of Europe</title>
+# Load Excel
+df = pd.read_excel("towns.xlsx")
 
-  <!-- Styles -->
-  <link rel="stylesheet" href="static/style.css" />
-  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
-  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster/dist/MarkerCluster.css" />
-  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster/dist/MarkerCluster.Default.css" />
+# Select and rename columns if needed
+columns_to_keep = [
+    "Name",
+    "Alternative_Names",
+    "Country",
+    "Type",
+    "List_Availability",
+    "Progress",
+    "Link",
+    "Latitude",
+    "Longitude"
+]
 
-  <!-- Favicon -->
-  <link rel="icon" href="assets/favicon.ico" type="image/x-icon">
-</head>
+# Filter only existing columns (in case some are missing)
+df = df[[c for c in columns_to_keep if c in df.columns]]
 
-<body>
+# Replace NaN with empty string
+df = df.fillna("")
 
-  <nav class="main-nav">
-    <a href="index.html">Home</a> |
-    <a href="about.html">About</a> |
-    <a href="contact.html">Contact</a> |
-    <a href="imprint.html">Imprint</a>
-  </nav>
-  <hr>
+# Convert to list of dicts
+towns = df.to_dict(orient="records")
 
-  <h1>Aquae Europae</h1>
-  <p><em>Spa Towns of Europe</em></p>
+# Save JSON
+with open("data/towns.json", "w", encoding="utf-8") as f:
+    json.dump(towns, f, indent=2, ensure_ascii=False)
 
-  <input type="text" id="search" placeholder="Search spa towns..." />
-
-  <div id="map"></div>
-
-  <div id="total-count" style="margin-bottom: 10px; font-weight: bold;"></div>
-
-  <table id="spa-table">
-    <thead>
-      <tr>
-        <th>Name</th>
-        <th>Alternative Names</th>
-        <th>Country</th>
-        <th>Type</th>
-        <th>List Availability</th>
-        <th>Link</th>
-        <th>Progress</th>
-      </tr>
-    </thead>
-    <tbody></tbody>
-  </table>
-
-  <footer id="footer">
-    <p id="last-updated"></p>
-  </footer>
-
-  <!-- Back to top -->
-  <button id="toTopBtn" title="Back to top">↑</button>
-
-  <!-- Scripts -->
-  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
-  <script src="https://unpkg.com/leaflet.markercluster/dist/leaflet.markercluster.js"></script>
-  <script src="static/script.js"></script>
-
-  <!-- Last updated (static JSON) -->
-  <script>
-document.addEventListener("DOMContentLoaded", async () => {
-  try {
-    const res = await fetch("data/metadata.json");
-    const data = await res.json();
-    if (data.last_updated) {
-      document.getElementById("last-updated").textContent =
-        `Data last updated: ${data.last_updated}`;
-    }
-  } catch (err) {
-    console.warn("No last-updated info found.");
-  }
-});
-</script>
-
-  <!-- Back to top behavior -->
-  <script>
-    const toTopBtn = document.getElementById("toTopBtn");
-    window.addEventListener("scroll", () => {
-      toTopBtn.style.display = window.scrollY > 750 ? "block" : "none";
-    });
-    toTopBtn.addEventListener("click", () => {
-      window.scrollTo({ top: 0, behavior: "smooth" });
-    });
-  </script>
-
-</body>
-</html>
+# Update metadata.json with last_updated date
+metadata = {
+    "last_updated": date.today().isoformat()
+}
+with open("data/metadata.json", "w", encoding="utf-8") as f:
+    json.dump(metadata, f, indent=2)
