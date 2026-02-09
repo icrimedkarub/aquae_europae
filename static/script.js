@@ -1,6 +1,4 @@
-// This is without marker clustering
-
-// Debounce helper: delays function execution until user stops typing
+// Debounce helper
 function debounce(func, wait) {
   let timeout;
   return function (...args) {
@@ -18,6 +16,7 @@ async function loadSpaTowns() {
   L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
     attribution: "© OpenStreetMap contributors",
   }).addTo(map);
+
   const markers = L.layerGroup().addTo(map);
 
   function updateMap(filteredTowns) {
@@ -31,12 +30,9 @@ async function loadSpaTowns() {
         bounds.push([t.Latitude, t.Longitude]);
       }
     });
-    if (bounds.length) {
-      map.fitBounds(bounds, { padding: [50, 50] });
-    }
+    if (bounds.length) map.fitBounds(bounds, { padding: [50, 50] });
   }
 
-  // Update table and total count
   function displayTable(filteredTowns) {
     const tbody = document.querySelector("#spa-table tbody");
     tbody.innerHTML = "";
@@ -47,8 +43,8 @@ async function loadSpaTowns() {
         <td>${t.Country || ""}</td>
         <td>${t.Type || ""}</td>
         <td>${t.List_Availability || ""}</td>
-        <td>${t.Progress || ""}</td>
         <td>${t.Link || ""}</td>
+        <td>${t.Progress || ""}</td>
       </tr>`;
       tbody.insertAdjacentHTML("beforeend", row);
     });
@@ -57,19 +53,10 @@ async function loadSpaTowns() {
     totalDiv.textContent = `Showing ${filteredTowns.length} spa towns`;
   }
 
-  // Filter function across all columns
   function filterTowns(term) {
     term = term.toLowerCase();
     return towns.filter((t) =>
-      [
-        "Name",
-        "Alternative_Names",
-        "Country",
-        "Type",
-        "List_Availability",
-        "Progress",
-        "Link",
-      ].some(
+      ["Name","Alternative_Names","Country","Type","List_Availability","Progress","Link"].some(
         (key) => t[key] && t[key].toLowerCase().includes(term)
       )
     );
@@ -93,7 +80,6 @@ async function loadSpaTowns() {
   // Table sorting
   const headers = document.querySelectorAll("#spa-table th");
   headers.forEach((th, index) => {
-    th.style.cursor = "pointer";
     th.addEventListener("click", () => {
       const sorted = [...document.querySelectorAll("#spa-table tbody tr")];
       const ascending = !th.classList.contains("asc");
