@@ -63,20 +63,19 @@
 
   <!-- Last updated (static JSON) -->
   <script>
-    async function showLastUpdated() {
-      try {
-        const res = await fetch("data/metadata.json");
-        const data = await res.json();
-        if (data.last_updated) {
-          document.getElementById("last-updated").textContent =
-            `Data last updated: ${data.last_updated}`;
-        }
-      } catch (err) {
-        console.warn("No last-updated info found.");
-      }
+document.addEventListener("DOMContentLoaded", async () => {
+  try {
+    const res = await fetch("data/metadata.json");
+    const data = await res.json();
+    if (data.last_updated) {
+      document.getElementById("last-updated").textContent =
+        `Data last updated: ${data.last_updated}`;
     }
-    showLastUpdated();
-  </script>
+  } catch (err) {
+    console.warn("No last-updated info found.");
+  }
+});
+</script>
 
   <!-- Back to top behavior -->
   <script>

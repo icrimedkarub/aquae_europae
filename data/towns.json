@@ -1,588 +1,8 @@
 [
   {
-    "Name": "Luz Saint Sauveur",
-    "Alternative_Names": "",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 42.8721142,
-    "Longitude": -0.0043418
-  },
-  {
-    "Name": "Cleethorpes",
-    "Alternative_Names": "",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 53.5572068,
-    "Longitude": -0.0289969
-  },
-  {
-    "Name": "Lourdes",
-    "Alternative_Names": "",
-    "Type": "E: Other",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 43.0940904,
-    "Longitude": -0.0464975
-  },
-  {
-    "Name": "Beaucens",
-    "Alternative_Names": "",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 42.9753808,
-    "Longitude": -0.059774
-  },
-  {
-    "Name": "Cauterets",
-    "Alternative_Names": "",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 42.8893451,
-    "Longitude": -0.114546
-  },
-  {
-    "Name": "Brighton",
-    "Alternative_Names": "",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 50.8214626,
-    "Longitude": -0.1400561
-  },
-  {
-    "Name": "Balneario de Panticosa",
-    "Alternative_Names": "Balneario de Panticosa - Los Lagos",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 42.7236963,
-    "Longitude": -0.2843924
-  },
-  {
-    "Name": "Worthing",
-    "Alternative_Names": "",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 50.8115402,
-    "Longitude": -0.3699697
-  },
-  {
-    "Name": "Eugénie-les-Bains",
-    "Alternative_Names": "Las Aigas",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 43.6974341,
-    "Longitude": -0.3797706
-  },
-  {
-    "Name": "Eaux-Bonnes",
-    "Alternative_Names": "",
-    "Type": "A: Mineral Spa / Hot Springs, B: Mineral Spa / Cold Springs, D: Climatic Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 42.9728589,
-    "Longitude": -0.3927499
-  },
-  {
-    "Name": "Bagnoles de l'Orne",
-    "Alternative_Names": "",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 48.5279194,
-    "Longitude": -0.3970796
-  },
-  {
-    "Name": "Alicante",
-    "Alternative_Names": "",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 38.3436365,
-    "Longitude": -0.4881708
-  },
-  {
-    "Name": "Arromanches-les-Bains",
-    "Alternative_Names": "",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 49.3369603,
-    "Longitude": -0.6221294
-  },
-  {
-    "Name": "Salie-de-Béarn",
-    "Alternative_Names": "",
-    "Type": "",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 43.4703515,
-    "Longitude": -0.9234025
-  },
-  {
-    "Name": "Royan",
-    "Alternative_Names": "",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 45.6245332,
-    "Longitude": -1.0287636
-  },
-  {
-    "Name": "Dax",
-    "Alternative_Names": "Aquae Tarbellicae",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 43.7084065,
-    "Longitude": -1.0518771
-  },
-  {
-    "Name": "Arcachon",
-    "Alternative_Names": "",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 44.6616428,
-    "Longitude": -1.1700018
-  },
-  {
-    "Name": "Ventnor (Isle of Wight)",
-    "Alternative_Names": "",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 50.594976,
-    "Longitude": -1.2029747
-  },
-  {
-    "Name": "East Cowes",
-    "Alternative_Names": "",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 50.7594841,
-    "Longitude": -1.2852106
-  },
-  {
-    "Name": "Archena",
-    "Alternative_Names": "",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 38.1178119,
-    "Longitude": -1.3025236
-  },
-  {
-    "Name": "Cambo-les-Bains",
-    "Alternative_Names": "",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 43.3609139,
-    "Longitude": -1.3994687
-  },
-  {
-    "Name": "Leamington Spa",
-    "Alternative_Names": "",
-    "Type": "B: Mineral Spa / Cold Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 52.2913394,
-    "Longitude": -1.536404
-  },
-  {
-    "Name": "Harrogate",
-    "Alternative_Names": "",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 53.9921491,
-    "Longitude": -1.5391039
-  },
-  {
-    "Name": "Biarritz",
-    "Alternative_Names": "Miarritze, Biàrritz",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 43.4832523,
-    "Longitude": -1.5592776
-  },
-  {
-    "Name": "Hendaye",
-    "Alternative_Names": "Hendaia",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 43.3641518,
-    "Longitude": -1.7616499
-  },
-  {
-    "Name": "Baños de Fitero",
-    "Alternative_Names": "Balneario de Fitero",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 42.0557224,
-    "Longitude": -1.8565659
-  },
-  {
-    "Name": "Bournemouth",
-    "Alternative_Names": "",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 50.7201514,
-    "Longitude": -1.8799118
-  },
-  {
-    "Name": "Jaraba",
-    "Alternative_Names": "",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 41.1901172,
-    "Longitude": -1.8840541
-  },
-  {
-    "Name": "Alhama de Aragón",
-    "Alternative_Names": "Aquae Bilbilitanae, Aquae Bilbilitanorum",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 41.2965036,
-    "Longitude": -1.8949513
-  },
-  {
-    "Name": "Buxton",
-    "Alternative_Names": "Aquae Arnemetiae",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 53.2593422,
-    "Longitude": -1.9100768
-  },
-  {
-    "Name": "San Sebastian",
-    "Alternative_Names": "",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 43.3224219,
-    "Longitude": -1.9838889
-  },
-  {
-    "Name": "La Orotava",
-    "Alternative_Names": "",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 28.3898829,
-    "Longitude": -16.5235692
-  },
-  {
-    "Name": "Funchal",
-    "Alternative_Names": "",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 32.6496497,
-    "Longitude": -16.9086783
-  },
-  {
-    "Name": "Cheltenham",
-    "Alternative_Names": "",
-    "Type": "",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 51.8995685,
-    "Longitude": -2.0711559
-  },
-  {
-    "Name": "Aberdeen",
-    "Alternative_Names": "",
-    "Type": "B: Mineral Spa / Cold Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 57.1482429,
-    "Longitude": -2.0928095
-  },
-  {
-    "Name": "Malvern",
-    "Alternative_Names": "",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 52.1109798,
-    "Longitude": -2.3285836
-  },
-  {
-    "Name": "Bath",
-    "Alternative_Names": "",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 51.3813864,
-    "Longitude": -2.3596963
-  },
-  {
-    "Name": "Pechina",
-    "Alternative_Names": "Bajjāna",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 36.916512,
-    "Longitude": -2.4402474
-  },
-  {
-    "Name": "Urberuaga de Ubilla",
-    "Alternative_Names": "",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 43.2675586,
-    "Longitude": -2.4974864
-  },
-  {
-    "Name": "Blackpool",
-    "Alternative_Names": "",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 53.8179442,
-    "Longitude": -3.0509812
-  },
-  {
-    "Name": "Peebles",
-    "Alternative_Names": "",
-    "Type": "B: Mineral Spa / Cold Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 55.6517553,
-    "Longitude": -3.1885456
-  },
-  {
-    "Name": "Craiglockhart",
-    "Alternative_Names": "",
-    "Type": "B: Mineral Spa / Cold Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 55.9202844,
-    "Longitude": -3.2428436
-  },
-  {
-    "Name": "Moffat",
-    "Alternative_Names": "",
-    "Type": "B: Mineral Spa / Cold Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 55.3332407,
-    "Longitude": -3.444357
-  },
-  {
-    "Name": "Forres",
-    "Alternative_Names": "",
-    "Type": "B: Mineral Spa / Cold Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 57.609864,
-    "Longitude": -3.613215
-  },
-  {
-    "Name": "Pitlochry",
-    "Alternative_Names": "",
-    "Type": "B: Mineral Spa / Cold Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 56.701969,
-    "Longitude": -3.7306846
-  },
-  {
-    "Name": "Santander",
-    "Alternative_Names": "",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 43.4618932,
-    "Longitude": -3.8100255
-  },
-  {
-    "Name": "Crieff",
-    "Alternative_Names": "",
-    "Type": "B: Mineral Spa / Cold Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 56.372717,
-    "Longitude": -3.8397453
-  },
-  {
-    "Name": "Dunblane",
-    "Alternative_Names": "",
-    "Type": "B: Mineral Spa / Cold Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 56.1883108,
-    "Longitude": -3.9640877
-  },
-  {
-    "Name": "Málaga",
-    "Alternative_Names": "",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 36.7213028,
-    "Longitude": -4.4216366
-  },
-  {
-    "Name": "Carratraca",
-    "Alternative_Names": "Karr-al-krak",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 36.8539382,
-    "Longitude": -4.8209062
-  },
-  {
-    "Name": "Dunoon",
-    "Alternative_Names": "",
-    "Type": "B: Mineral Spa / Cold Springs, C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 55.9481104,
-    "Longitude": -4.9244868
-  },
-  {
-    "Name": "Rothesay",
-    "Alternative_Names": "",
-    "Type": "B: Mineral Spa / Cold Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 55.8373085,
-    "Longitude": -5.0522439
-  },
-  {
-    "Name": "Oviedo",
-    "Alternative_Names": "",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 43.3618625,
-    "Longitude": -5.8483581
-  },
-  {
-    "Name": "Las Caldas Villa Termal",
-    "Alternative_Names": "",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 43.3321488,
-    "Longitude": -5.9256166
-  },
-  {
-    "Name": "Sanlucar de Barrameda",
-    "Alternative_Names": "",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 36.7761393,
-    "Longitude": -6.3534794
-  },
-  {
-    "Name": "Vidago",
-    "Alternative_Names": "",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 41.7399003,
-    "Longitude": -7.4715213
-  },
-  {
-    "Name": "Albufeira",
-    "Alternative_Names": "",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 37.088241,
-    "Longitude": -8.2526339
-  },
-  {
-    "Name": "Parque Termal do Peso",
-    "Alternative_Names": "",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 42.1130412,
-    "Longitude": -8.2593422
-  },
-  {
     "Name": "A Coruña",
     "Alternative_Names": "La Coruña",
-    "Type": "C: Seaside Resort",
+    "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
     "Link": "",
@@ -590,2749 +10,9 @@
     "Longitude": -8.3959425
   },
   {
-    "Name": "Mondariz-Balnerio",
-    "Alternative_Names": "",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 42.2194134,
-    "Longitude": -8.4713577
-  },
-  {
-    "Name": "Caldas da Rainha",
-    "Alternative_Names": "",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 39.4071857,
-    "Longitude": -9.1346004
-  },
-  {
-    "Name": "Estoril",
-    "Alternative_Names": "",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 38.7095707,
-    "Longitude": -9.3901368
-  },
-  {
-    "Name": "Lucky",
-    "Alternative_Names": "Lúčky, Lucski",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 32.2551572,
-    "Longitude": -92.9968268
-  },
-  {
-    "Name": "Barèges",
-    "Alternative_Names": "Barèges-Sers-Barzun",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 42.8958816,
-    "Longitude": 0.0622368
-  },
-  {
-    "Name": "Trouville-sur-Mer",
-    "Alternative_Names": "",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 49.3679823,
-    "Longitude": 0.0809113
-  },
-  {
-    "Name": "Barbazan",
-    "Alternative_Names": "",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 43.1964736,
-    "Longitude": 0.1176276
-  },
-  {
-    "Name": "Bagnères-de-Bigorre",
-    "Alternative_Names": "",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 43.0658212,
-    "Longitude": 0.1530914
-  },
-  {
-    "Name": "Tunbridge Wells",
-    "Alternative_Names": "",
-    "Type": "B: Mineral Spa / Cold Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 51.1371483,
-    "Longitude": 0.2673446
-  },
-  {
-    "Name": "Eastbourne",
-    "Alternative_Names": "",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 50.7664372,
-    "Longitude": 0.2781546
-  },
-  {
-    "Name": "Capvern-les-Bains",
-    "Alternative_Names": "",
-    "Type": "B: Mineral Spa / Cold Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 43.1023576,
-    "Longitude": 0.316218
-  },
-  {
-    "Name": "Saint-Lary-Soulan",
-    "Alternative_Names": "",
-    "Type": "",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 42.816936,
-    "Longitude": 0.3219538
-  },
-  {
-    "Name": "Benasque",
-    "Alternative_Names": "",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 42.6052663,
-    "Longitude": 0.5237318
-  },
-  {
-    "Name": "Sassetot-le-Mauconduit",
-    "Alternative_Names": "",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 49.8023407,
-    "Longitude": 0.5297357
-  },
-  {
-    "Name": "Bagnères de Luchon",
-    "Alternative_Names": "Balneariea Lixoniensis",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 42.7910617,
-    "Longitude": 0.5912279
-  },
-  {
-    "Name": "Termas Baronía de Les",
-    "Alternative_Names": "",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 42.8126854,
-    "Longitude": 0.7118311
-  },
-  {
-    "Name": "Caldes de Boí",
-    "Alternative_Names": "Caldas de Bohí",
-    "Type": "A: Mineral Spa / Hot Springs, B: Mineral Spa / Cold Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 42.5220588,
-    "Longitude": 0.8350645
-  },
-  {
-    "Name": "Saint Aubin-sur-Mer",
-    "Alternative_Names": "",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 49.8889942,
-    "Longitude": 0.8768462
-  },
-  {
-    "Name": "Baños de Tredos",
-    "Alternative_Names": "",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 42.7020287,
-    "Longitude": 0.9159365
-  },
-  {
-    "Name": "Salies-du-Salat",
-    "Alternative_Names": "",
-    "Type": "",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 43.1017772,
-    "Longitude": 0.9581831
-  },
-  {
-    "Name": "Dieppe",
-    "Alternative_Names": "",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 49.9246182,
-    "Longitude": 1.0791444
-  },
-  {
-    "Name": "Folkestone",
-    "Alternative_Names": "",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 51.0791335,
-    "Longitude": 1.1794073
-  },
-  {
-    "Name": "Cromer",
-    "Alternative_Names": "",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 52.9311367,
-    "Longitude": 1.3012758
-  },
-  {
-    "Name": "Dover",
-    "Alternative_Names": "",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 51.1251275,
-    "Longitude": 1.3134228
-  },
-  {
-    "Name": "Aulus-les-Bains",
-    "Alternative_Names": "",
-    "Type": "B: Mineral Spa / Cold Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 42.7907439,
-    "Longitude": 1.339303
-  },
-  {
-    "Name": "Margate",
-    "Alternative_Names": "",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 51.3878174,
-    "Longitude": 1.3819699
-  },
-  {
-    "Name": "Deal",
-    "Alternative_Names": "",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 51.2239544,
-    "Longitude": 1.4027344
-  },
-  {
-    "Name": "Ramsgate",
-    "Alternative_Names": "",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 51.3334726,
-    "Longitude": 1.4196476
-  },
-  {
-    "Name": "Berck",
-    "Alternative_Names": "Berck-sur-Mer",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 50.4052576,
-    "Longitude": 1.5711617
-  },
-  {
-    "Name": "Le Touquet",
-    "Alternative_Names": "Le Touquet Paris-Plage",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 50.5200083,
-    "Longitude": 1.5864532
-  },
-  {
-    "Name": "Boulogne-sur-Mer",
-    "Alternative_Names": "",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 50.7259985,
-    "Longitude": 1.6118771
-  },
-  {
-    "Name": "Ornolac-Ussat-les-Bains",
-    "Alternative_Names": "",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 42.8199863,
-    "Longitude": 1.6314458
-  },
-  {
-    "Name": "Ax-les-Thermes",
-    "Alternative_Names": "",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 42.7193011,
-    "Longitude": 1.83784
-  },
-  {
-    "Name": "Modum",
-    "Alternative_Names": "",
-    "Type": "B: Mineral Spa / Cold Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 60.0105117,
-    "Longitude": 10.0191632
-  },
-  {
-    "Name": "Bad Kissingen",
-    "Alternative_Names": "Kissingen",
-    "Type": "B: Mineral Spa / Cold Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 50.1999412,
-    "Longitude": 10.0767379
-  },
-  {
-    "Name": "Bad Bocklet",
-    "Alternative_Names": "",
-    "Type": "A: Mineral Spa / Hot Springs, B: Mineral Spa / Cold Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 50.2675049,
-    "Longitude": 10.0787044
-  },
-  {
-    "Name": "Forte dei Marmi",
-    "Alternative_Names": "",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 43.9595891,
-    "Longitude": 10.1699392
-  },
-  {
-    "Name": "Laboe",
-    "Alternative_Names": "",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 54.4022528,
-    "Longitude": 10.2256616
-  },
-  {
-    "Name": "Sandefjord",
-    "Alternative_Names": "",
-    "Type": "B: Mineral Spa / Cold Springs, C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 59.0799004,
-    "Longitude": 10.2804322
-  },
-  {
-    "Name": "Scuol-Tarasp",
-    "Alternative_Names": "Tarasp",
-    "Type": "B: Mineral Spa / Cold Springs, D: Climatic Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 46.7976371,
-    "Longitude": 10.2996234
-  },
-  {
-    "Name": "Bagni di Lucca",
-    "Alternative_Names": "Bagno a Corsena",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 44.0099818,
-    "Longitude": 10.590633
-  },
-  {
-    "Name": "Bad Wörishofen",
-    "Alternative_Names": "",
-    "Type": "A: Mineral Spa / Hot Springs, B: Mineral Spa / Cold Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 48.0059852,
-    "Longitude": 10.5921263
-  },
-  {
-    "Name": "Moss",
-    "Alternative_Names": "",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 59.4146675,
-    "Longitude": 10.6596578
-  },
-  {
-    "Name": "Montecatini Terme",
-    "Alternative_Names": "",
-    "Type": "A: Mineral Spa / Hot Springs, B: Mineral Spa / Cold Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 43.883179,
-    "Longitude": 10.7709533
-  },
-  {
-    "Name": "Riva del Garda",
-    "Alternative_Names": "Reiff am Gartsee",
-    "Type": "B: Mineral Spa / Cold Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 45.8847708,
-    "Longitude": 10.8396942
-  },
-  {
-    "Name": "Travemünde",
-    "Alternative_Names": "",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 53.939609,
-    "Longitude": 10.8587192
-  },
-  {
-    "Name": "Bad Kohlgrub",
-    "Alternative_Names": "",
-    "Type": "E: Other",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 47.6659196,
-    "Longitude": 11.0519029
-  },
-  {
-    "Name": "Bad Egart",
-    "Alternative_Names": "",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 46.6721451,
-    "Longitude": 11.0812196
-  },
-  {
-    "Name": "Mitterbad",
-    "Alternative_Names": "Bagni di Mezzo",
-    "Type": "B: Mineral Spa / Cold Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 46.5940644,
-    "Longitude": 11.0927595
-  },
-  {
-    "Name": "Merano",
-    "Alternative_Names": "Meran, Maran, Meranum, Mairania",
-    "Type": "D: Climatic Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 46.6713536,
-    "Longitude": 11.1646348
-  },
-  {
-    "Name": "Recaore Terme",
-    "Alternative_Names": "",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 45.7051709,
-    "Longitude": 11.2249347
-  },
-  {
-    "Name": "Bad Berka",
-    "Alternative_Names": "",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 50.9002644,
-    "Longitude": 11.2829778
-  },
-  {
-    "Name": "Bad Tölz",
-    "Alternative_Names": "Krankenheil-Tölz",
-    "Type": "B: Mineral Spa / Cold Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 47.7610013,
-    "Longitude": 11.559607
-  },
-  {
-    "Name": "Bad Wiessee",
-    "Alternative_Names": "",
-    "Type": "B: Mineral Spa / Cold Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 47.7128111,
-    "Longitude": 11.7254859
-  },
-  {
-    "Name": "Abano Terme",
-    "Alternative_Names": "Abano Bagno",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 45.3603142,
-    "Longitude": 11.7897833
-  },
-  {
-    "Name": "Montegrotto Terme",
-    "Alternative_Names": "Mons Aegrotorum, San Pietro Montagnon",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 45.331491,
-    "Longitude": 11.791208
-  },
-  {
-    "Name": "Chianciano Terme",
-    "Alternative_Names": "",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 43.0582549,
-    "Longitude": 11.8284293
-  },
-  {
-    "Name": "Heiligendamm",
-    "Alternative_Names": "",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 54.1423664,
-    "Longitude": 11.842199
-  },
-  {
-    "Name": "Marielyst",
-    "Alternative_Names": "",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 54.7646137,
-    "Longitude": 11.8709918
-  },
-  {
-    "Name": "Bad Kreuth",
-    "Alternative_Names": "",
-    "Type": "",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 49.3221567,
-    "Longitude": 11.9462366
-  },
-  {
-    "Name": "Castrocaro Terme",
-    "Alternative_Names": "",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 44.182365,
-    "Longitude": 11.955631
-  },
-  {
-    "Name": "Solbad Wittekind",
-    "Alternative_Names": "Solbad Wittekind",
-    "Type": "B: Mineral Spa / Cold Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 51.4824354,
-    "Longitude": 11.9712985
-  },
-  {
-    "Name": "Bad Feilnbach",
-    "Alternative_Names": "",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 47.7745858,
-    "Longitude": 12.0070798
-  },
-  {
-    "Name": "Warnemünde",
-    "Alternative_Names": "",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 54.1779039,
-    "Longitude": 12.0812875
-  },
-  {
-    "Name": "Fratta Terme",
-    "Alternative_Names": "",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 44.1438029,
-    "Longitude": 12.1015912
-  },
-  {
-    "Name": "Bertinoro",
-    "Alternative_Names": "",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 44.148665,
-    "Longitude": 12.134235
-  },
-  {
-    "Name": "Cortina d'Ampezzo",
-    "Alternative_Names": "",
-    "Type": "D: Climatic Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 46.5383332,
-    "Longitude": 12.1373506
-  },
-  {
-    "Name": "Toblach",
-    "Alternative_Names": "",
-    "Type": "B: Mineral Spa / Cold Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 46.735425,
-    "Longitude": 12.2242801
-  },
-  {
-    "Name": "Venice",
-    "Alternative_Names": "",
-    "Type": "C: Seaside Resort, D: Climatic Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 45.4371908,
-    "Longitude": 12.3345898
-  },
-  {
-    "Name": "Frantiskovy Lazne",
-    "Alternative_Names": "Franzensbad",
-    "Type": "B: Mineral Spa / Cold Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 50.1223741,
-    "Longitude": 12.3488519
-  },
-  {
-    "Name": "Klampenborg",
-    "Alternative_Names": "",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 55.6867243,
-    "Longitude": 12.5700724
-  },
-  {
-    "Name": "Bad Schlema",
-    "Alternative_Names": "",
-    "Type": "",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 50.6024795,
-    "Longitude": 12.6665631
-  },
-  {
-    "Name": "Marianske Lazne",
-    "Alternative_Names": "Marienbad",
-    "Type": "B: Mineral Spa / Cold Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 49.9739518,
-    "Longitude": 12.703319
-  },
-  {
-    "Name": "Ramlösa",
-    "Alternative_Names": "",
-    "Type": "B: Mineral Spa / Cold Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 56.0236621,
-    "Longitude": 12.7277133
-  },
-  {
-    "Name": "Bad Fusch",
-    "Alternative_Names": "",
-    "Type": "D: Climatic Resort, B: Mineral Spa / Cold Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 47.1999677,
-    "Longitude": 12.8555787
-  },
-  {
-    "Name": "Carlsbad",
-    "Alternative_Names": "Karlsbad, Karlovy Vary",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 50.2306216,
-    "Longitude": 12.8701437
-  },
-  {
-    "Name": "Bad Reichenhall",
-    "Alternative_Names": "",
-    "Type": "B: Mineral Spa / Cold Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 47.7222676,
-    "Longitude": 12.8760923
-  },
-  {
-    "Name": "Jáchymov",
-    "Alternative_Names": "Sankt Joachimsthal",
-    "Type": "E: Other",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 50.3629787,
-    "Longitude": 12.9299257
-  },
-  {
-    "Name": "Lázně Kyselka",
-    "Alternative_Names": "Kyselka Spa, Gießhübl-Sauerbrunn, Kysibl",
-    "Type": "B: Mineral Spa / Cold Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 50.2588112,
-    "Longitude": 13.0002774
-  },
-  {
-    "Name": "Arta Terme",
-    "Alternative_Names": "",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 46.4723796,
-    "Longitude": 13.0266746
-  },
-  {
-    "Name": "Bad Gastein",
-    "Alternative_Names": "",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 47.0871124,
-    "Longitude": 13.160853
-  },
-  {
-    "Name": "Binz",
-    "Alternative_Names": "",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 54.4010291,
-    "Longitude": 13.6076477
-  },
-  {
-    "Name": "Bad Ischl",
-    "Alternative_Names": "",
-    "Type": "B: Mineral Spa / Cold Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 47.7115299,
-    "Longitude": 13.6239333
-  },
-  {
-    "Name": "Baabe",
-    "Alternative_Names": "",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 54.3602126,
-    "Longitude": 13.7043671
-  },
-  {
-    "Name": "Brijuni Islands",
-    "Alternative_Names": "Brioni",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 44.9076113,
-    "Longitude": 13.7731544
-  },
-  {
-    "Name": "Bad Aussee",
-    "Alternative_Names": "",
-    "Type": "B: Mineral Spa / Cold Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 47.6094985,
-    "Longitude": 13.7835784
-  },
-  {
-    "Name": "Teplice",
-    "Alternative_Names": "Teplitz-Schönau, Töplitz, Teplitz",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 50.6406644,
-    "Longitude": 13.8244461
-  },
-  {
-    "Name": "Karlshagen",
-    "Alternative_Names": "Carlshagen",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 54.1166965,
-    "Longitude": 13.8291312
-  },
-  {
-    "Name": "Pula",
-    "Alternative_Names": "Pola",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 44.8702281,
-    "Longitude": 13.8455311
-  },
-  {
-    "Name": "Istarske Toplice",
-    "Alternative_Names": "Terme Santo Stefano",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 45.3778685,
-    "Longitude": 13.8831818
-  },
-  {
-    "Name": "Koserow",
-    "Alternative_Names": "",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 54.0510368,
-    "Longitude": 13.9990573
-  },
-  {
-    "Name": "Bansin",
-    "Alternative_Names": "Banzyno, Banzino",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 53.9645224,
-    "Longitude": 14.1288542
-  },
-  {
-    "Name": "Heringsdorf",
-    "Alternative_Names": "",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 53.9491799,
-    "Longitude": 14.1708237
-  },
-  {
-    "Name": "Ahlbeck",
-    "Alternative_Names": "",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 53.6704395,
-    "Longitude": 14.1862434
-  },
-  {
-    "Name": "Bad Hall",
-    "Alternative_Names": "",
-    "Type": "B: Mineral Spa / Cold Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 48.0348017,
-    "Longitude": 14.2091385
-  },
-  {
-    "Name": "Děčín",
-    "Alternative_Names": "Decin, Tetschen, Tetschen–Bodenbach",
-    "Type": "B: Mineral Spa / Cold Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 50.7824196,
-    "Longitude": 14.2147221
-  },
-  {
-    "Name": "Opatija",
-    "Alternative_Names": "Abbazia, Sankt Jakobi",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 45.3349238,
-    "Longitude": 14.3067834
-  },
-  {
-    "Name": "Swinoujscie",
-    "Alternative_Names": "Swinemünde",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 53.8270329,
-    "Longitude": 14.3356892
-  },
-  {
-    "Name": "Sorrent",
-    "Alternative_Names": "Sorrento",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 40.624906,
-    "Longitude": 14.374836
-  },
-  {
-    "Name": "Misdroy",
-    "Alternative_Names": "Miedzyzdroje, Misdroige",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 53.9282745,
-    "Longitude": 14.448903
-  },
-  {
-    "Name": "Rimske Toplice",
-    "Alternative_Names": "Toplica, Toplitz",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 46.123666,
-    "Longitude": 15.203051
-  },
-  {
-    "Name": "Świeradów-Zdrój",
-    "Alternative_Names": "Bad Flinsberg",
-    "Type": "B: Mineral Spa / Cold Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 50.9093388,
-    "Longitude": 15.3332153
-  },
-  {
-    "Name": "Kołobrzeg",
-    "Alternative_Names": "",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 54.1759614,
-    "Longitude": 15.5764209
-  },
-  {
-    "Name": "Cieplice Ślaskie-Zdrój",
-    "Alternative_Names": "Bad Warmbrunn",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 50.8652778,
-    "Longitude": 15.6775
-  },
-  {
-    "Name": "Tuheljske Toplice",
-    "Alternative_Names": "",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 46.0673346,
-    "Longitude": 15.7862547
-  },
-  {
-    "Name": "Semmering",
-    "Alternative_Names": "",
-    "Type": "D: Climatic Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 47.6377254,
-    "Longitude": 15.8072348
-  },
-  {
-    "Name": "Krapinske Toplice",
-    "Alternative_Names": "",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 46.0921849,
-    "Longitude": 15.8376747
-  },
-  {
-    "Name": "Reichenau an der Rax",
-    "Alternative_Names": "",
-    "Type": "D: Climatic Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 47.6975452,
-    "Longitude": 15.838266
-  },
-  {
-    "Name": "Pisarovina",
-    "Alternative_Names": "Jamnička Keselica",
-    "Type": "B: Mineral Spa / Cold Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 45.5854674,
-    "Longitude": 15.860017
-  },
-  {
-    "Name": "Stubicke Toplice",
-    "Alternative_Names": "",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 45.9774054,
-    "Longitude": 15.931548
-  },
-  {
-    "Name": "Topusko",
-    "Alternative_Names": "Ad fines",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 45.2943011,
-    "Longitude": 15.9707037
-  },
-  {
-    "Name": "Kaltenleutgeben",
-    "Alternative_Names": "",
-    "Type": "B: Mineral Spa / Cold Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 48.117198,
-    "Longitude": 16.200044
-  },
-  {
-    "Name": "Bad Vöslau",
-    "Alternative_Names": "",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 47.9655519,
-    "Longitude": 16.2148073
-  },
-  {
-    "Name": "Szczawno-Zdrój",
-    "Alternative_Names": "Solice-Zdrój, Ober Salzbrunn, Bad Salzbrunn",
-    "Type": "B: Mineral Spa / Cold Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 50.7951667,
-    "Longitude": 16.2232713
-  },
-  {
-    "Name": "Sokołowsko",
-    "Alternative_Names": "Görbersdorf",
-    "Type": "D: Climatic Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 50.6852363,
-    "Longitude": 16.2333222
-  },
-  {
-    "Name": "Baden bei Wien",
-    "Alternative_Names": "",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 48.0076713,
-    "Longitude": 16.2343693
-  },
-  {
-    "Name": "Baden",
-    "Alternative_Names": "",
-    "Type": "",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 48.0076713,
-    "Longitude": 16.2343693
-  },
-  {
-    "Name": "Varaždin",
-    "Alternative_Names": "Aquae Iasae",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 46.2092637,
-    "Longitude": 16.4211576
-  },
-  {
-    "Name": "Hvar",
-    "Alternative_Names": "Lesina",
-    "Type": "C: Seaside Resort, D: Climatic Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 43.1739411,
-    "Longitude": 16.5565161
-  },
-  {
-    "Name": "Bad Pirawarth",
-    "Alternative_Names": "Pyrawarth",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 48.4526989,
-    "Longitude": 16.6002397
-  },
-  {
-    "Name": "Długopole-Zdrój",
-    "Alternative_Names": "Bad Nieder Langenau, Niederlangenau, Dlugopole",
-    "Type": "B: Mineral Spa / Cold Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 50.2457746,
-    "Longitude": 16.6308336
-  },
-  {
-    "Name": "Balf",
-    "Alternative_Names": "Wolfs, Sankt Wolfgang, Farkasd, Bolf, Fürdő sor",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 47.6505188,
-    "Longitude": 16.6658567
-  },
-  {
-    "Name": "Ustka",
-    "Alternative_Names": "",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 54.5734467,
-    "Longitude": 16.8591806
-  },
-  {
-    "Name": "Lądek-Zdrój",
-    "Alternative_Names": "",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 50.3458254,
-    "Longitude": 16.8725948
-  },
-  {
-    "Name": "Bad Deutsch-Altenburg",
-    "Alternative_Names": "Németóvár",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 48.1341577,
-    "Longitude": 16.9059472
-  },
-  {
-    "Name": "Lipik",
-    "Alternative_Names": "",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 45.4134223,
-    "Longitude": 17.1634285
-  },
-  {
-    "Name": "Daruvar",
-    "Alternative_Names": "Acquae Balissae",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 45.5928272,
-    "Longitude": 17.2237617
-  },
-  {
-    "Name": "Smrdáky",
-    "Alternative_Names": "Büdöskő, Szmrdák",
-    "Type": "B: Mineral Spa / Cold Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 48.7219541,
-    "Longitude": 17.3027341
-  },
-  {
-    "Name": "Bie",
-    "Alternative_Names": "",
-    "Type": "B: Mineral Spa / Cold Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": -12.2630485,
-    "Longitude": 17.4967812
-  },
-  {
-    "Name": "Kúpele Piešťany",
-    "Alternative_Names": "Bad Pistyan,Pistian,Püschtin,Pöstyény",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 48.5895247,
-    "Longitude": 17.8213848
-  },
-  {
-    "Name": "Kiseljak",
-    "Alternative_Names": "",
-    "Type": "B: Mineral Spa / Cold Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 43.9431668,
-    "Longitude": 18.0774711
-  },
-  {
-    "Name": "Trenčianske Teplice",
-    "Alternative_Names": "Trentschin-Teplitz, Trencsénteplic",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 48.9094451,
-    "Longitude": 18.1702976
-  },
-  {
-    "Name": "Ilidža",
-    "Alternative_Names": "Aquae Sulphurae, Banja Ilidža, Bad Ilidža",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 43.8306182,
-    "Longitude": 18.3077357
-  },
-  {
-    "Name": "Nimnica",
-    "Alternative_Names": "Nimnicz",
-    "Type": "B: Mineral Spa / Cold Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 49.123928,
-    "Longitude": 18.3239559
-  },
-  {
-    "Name": "Sokobanja",
-    "Alternative_Names": "Soko Banja, Сокобања",
-    "Type": "A: Mineral Spa / Hot Springs, D: Climatic Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 43.8238015,
-    "Longitude": 18.3620805
-  },
-  {
-    "Name": "Zoppot",
-    "Alternative_Names": "Sopot",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 54.4430399,
-    "Longitude": 18.5613095
-  },
-  {
-    "Name": "Olovo",
-    "Alternative_Names": "",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 44.1269033,
-    "Longitude": 18.580233
-  },
-  {
-    "Name": "Bojnice",
-    "Alternative_Names": "Weinitz, Bajmóc",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 48.7799591,
-    "Longitude": 18.5821986
-  },
-  {
-    "Name": "Rajecké Teplice",
-    "Alternative_Names": "Bad Rajetz,Rajecfürdő",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 49.0886262,
-    "Longitude": 18.6352209
-  },
-  {
-    "Name": "Ciechocinek",
-    "Alternative_Names": "",
-    "Type": "B: Mineral Spa / Cold Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 52.8839413,
-    "Longitude": 18.8032683
-  },
-  {
-    "Name": "Ustroń",
-    "Alternative_Names": "Ustron",
-    "Type": "B: Mineral Spa / Cold Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 49.7186488,
-    "Longitude": 18.8251075
-  },
-  {
-    "Name": "Turčianske Teplice",
-    "Alternative_Names": "Štubňanské Teplice, Bad Stuben, Stubnyafürdő",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 48.8614083,
-    "Longitude": 18.8608115
-  },
-  {
-    "Name": "Sklené Teplice",
-    "Alternative_Names": "Sklenô, Glashütte, Glaserhey, Szklenófürdó, Barsszklenó, Szklenó",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 48.5272532,
-    "Longitude": 18.8637828
-  },
-  {
-    "Name": "Dudince",
-    "Alternative_Names": "Gyügy",
-    "Type": "A: Mineral Spa / Hot Springs, B: Mineral Spa / Cold Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 48.1691898,
-    "Longitude": 18.8823161
-  },
-  {
-    "Name": "Budapest",
-    "Alternative_Names": "",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 47.4978789,
-    "Longitude": 19.0402383
-  },
-  {
-    "Name": "Kovacova",
-    "Alternative_Names": "Kováčová, Kovácsfalva",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 48.5782517,
-    "Longitude": 19.1247135
-  },
-  {
-    "Name": "Sliač",
-    "Alternative_Names": "Szliács, Szliácsfürdő",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 48.6131806,
-    "Longitude": 19.1423663
-  },
-  {
-    "Name": "Lubochna",
-    "Alternative_Names": "Ľubochňa, Fenyőháza",
-    "Type": "D: Climatic Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 49.1200064,
-    "Longitude": 19.1675231
-  },
-  {
-    "Name": "Banja Koviljača",
-    "Alternative_Names": "Banja Koviljaca, Бања Ковиљача, Kraljevska Banja",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 44.5309221,
-    "Longitude": 19.2237478
-  },
-  {
-    "Name": "Korytnica",
-    "Alternative_Names": "Korytnicza, Korytnica-kúpele",
-    "Type": "B: Mineral Spa / Cold Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 48.8896159,
-    "Longitude": 19.2846583
-  },
-  {
-    "Name": "Brusno",
-    "Alternative_Names": "Brusznó, Borosznó",
-    "Type": "B: Mineral Spa / Cold Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 48.8053349,
-    "Longitude": 19.6409612
-  },
-  {
-    "Name": "Liptovsky Jan",
-    "Alternative_Names": "Liptovský Ján, St. Johann, Szentiván",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 49.0371787,
-    "Longitude": 19.7217331
-  },
-  {
-    "Name": "Zakopane",
-    "Alternative_Names": "",
-    "Type": "A: Mineral Spa / Hot Springs, D: Climatic Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 49.2757934,
-    "Longitude": 19.9692811
-  },
-  {
-    "Name": "Eaux-Chaudes",
-    "Alternative_Names": "",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 42.7335498,
-    "Longitude": 2.0998263
-  },
-  {
-    "Name": "Caldes de Montbui",
-    "Alternative_Names": "Caldas de Montbuy",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 41.632265,
-    "Longitude": 2.1676442
-  },
-  {
-    "Name": "Thuès-les-Bains",
-    "Alternative_Names": "",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 42.5287969,
-    "Longitude": 2.2490886
-  },
-  {
-    "Name": "Alet-les-bains",
-    "Alternative_Names": "",
-    "Type": "A: Mineral Spa / Hot Springs, B: Mineral Spa / Cold Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 42.9967236,
-    "Longitude": 2.255835
-  },
-  {
-    "Name": "Enghien-les-Bains",
-    "Alternative_Names": "",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 48.9699732,
-    "Longitude": 2.3068482
-  },
-  {
-    "Name": "Rennes-les-Bains",
-    "Alternative_Names": "",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 42.9213749,
-    "Longitude": 2.3206938
-  },
-  {
-    "Name": "Vernet-les-Bains",
-    "Alternative_Names": "",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 42.5484832,
-    "Longitude": 2.3878706
-  },
-  {
-    "Name": "Molitg-les-Bains",
-    "Alternative_Names": "",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 42.6524451,
-    "Longitude": 2.3880537
-  },
-  {
-    "Name": "Preste-les-Bains",
-    "Alternative_Names": "",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 42.4025997,
-    "Longitude": 2.481412
-  },
-  {
-    "Name": "Caldes d'Estrac",
-    "Alternative_Names": "Caldetas, Aquae Calidae",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 41.5719788,
-    "Longitude": 2.5277607
-  },
-  {
-    "Name": "De Panne",
-    "Alternative_Names": "La Panne",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 51.0799951,
-    "Longitude": 2.5929082
-  },
-  {
-    "Name": "Amelie-les-Bains",
-    "Alternative_Names": "Els Banys d'Arles, Arles-les-Bains",
-    "Type": "A: Mineral Spa / Hot Springs, D: Climatic Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 42.4741898,
-    "Longitude": 2.6653321
-  },
-  {
-    "Name": "Lacaune-les-Bains",
-    "Alternative_Names": "",
-    "Type": "",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 43.7069971,
-    "Longitude": 2.6908815
-  },
-  {
-    "Name": "Palma",
-    "Alternative_Names": "Palma de Mallorca, Medina Mayurqa",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 39.5812525,
-    "Longitude": 2.7092683
-  },
-  {
-    "Name": "La Bourboule",
-    "Alternative_Names": "",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 45.5892481,
-    "Longitude": 2.7401614
-  },
-  {
-    "Name": "Nieuwpoort",
-    "Alternative_Names": "Nieuport-les-Bains, Nieuport",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 51.1294306,
-    "Longitude": 2.751666
-  },
-  {
-    "Name": "Mont-Dore",
-    "Alternative_Names": "",
-    "Type": "A: Mineral Spa / Hot Springs, D: Climatic Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 45.5749966,
-    "Longitude": 2.8094117
-  },
-  {
-    "Name": "Le Boulou",
-    "Alternative_Names": "",
-    "Type": "B: Mineral Spa / Cold Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 42.5259989,
-    "Longitude": 2.8337158
-  },
-  {
-    "Name": "Ostende",
-    "Alternative_Names": "Oostende, Ostend",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 51.2258565,
-    "Longitude": 2.919496
-  },
-  {
-    "Name": "Wieliczka",
-    "Alternative_Names": "",
-    "Type": "B: Mineral Spa / Cold Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 49.9823773,
-    "Longitude": 20.0602114
-  },
-  {
-    "Name": "Štrbské Pleso",
-    "Alternative_Names": "Tschirmer See, Csorbató",
-    "Type": "D: Climatic Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 49.1191897,
-    "Longitude": 20.063955
-  },
-  {
-    "Name": "Wisła",
-    "Alternative_Names": "",
-    "Type": "B: Mineral Spa / Cold Springs, D: Climatic Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 52.380897,
-    "Longitude": 20.0867774
-  },
-  {
-    "Name": "Vyšné Hágy",
-    "Alternative_Names": "Hochhag, Hochhagi, Felsőhági",
-    "Type": "D: Climatic Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 49.1186786,
-    "Longitude": 20.12556
-  },
-  {
-    "Name": "Lucivna",
-    "Alternative_Names": "Lučivná, Lautschburg, Leutschburg, Lucsivna",
-    "Type": "D: Climatic Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 49.0582357,
-    "Longitude": 20.1965291
-  },
-  {
-    "Name": "Nový Smokovec",
-    "Alternative_Names": "Neuschmecks, Újtátrafüred",
-    "Type": "D: Climatic Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 49.1342458,
-    "Longitude": 20.2105004
-  },
-  {
-    "Name": "Starý Smokovec",
-    "Alternative_Names": "Altschmecks, Ótátrafüred",
-    "Type": "B: Mineral Spa / Cold Springs, D: Climatic Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 49.1414836,
-    "Longitude": 20.2221042
-  },
-  {
-    "Name": "Tatranská Lomnica",
-    "Alternative_Names": "Tatralomnitz,Tátralomnic",
-    "Type": "D: Climatic Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 49.1645786,
-    "Longitude": 20.280602
-  },
-  {
-    "Name": "Ľubické Kúpele",
-    "Alternative_Names": "Ľubica, Leibitz, Leibic",
-    "Type": "B: Mineral Spa / Cold Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 49.1195968,
-    "Longitude": 20.4475831
-  },
-  {
-    "Name": "Szczawnica",
-    "Alternative_Names": "",
-    "Type": "A: Mineral Spa / Hot Springs, B: Mineral Spa / Cold Springs, D: Climatic Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 49.4266299,
-    "Longitude": 20.4761439
-  },
-  {
-    "Name": "Ružbachy-kúpele",
-    "Alternative_Names": "Oberrauschenbach, Felsőzúgó",
-    "Type": "A: Mineral Spa / Hot Springs, D: Climatic Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 49.3042641,
-    "Longitude": 20.5648591
-  },
-  {
-    "Name": "Levočské kúpele",
-    "Alternative_Names": "Baldócz fürdo",
-    "Type": "B: Mineral Spa / Cold Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 49.025087,
-    "Longitude": 20.5887098
-  },
-  {
-    "Name": "Baldovce",
-    "Alternative_Names": "Eckersdorf,Baldowitz,Baldóc,Bužňa",
-    "Type": "B: Mineral Spa / Cold Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 48.9922749,
-    "Longitude": 20.714067
-  },
-  {
-    "Name": "Głębokie",
-    "Alternative_Names": "Glemboka, Gleboka",
-    "Type": "B: Mineral Spa / Cold Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 49.4406462,
-    "Longitude": 20.7142303
-  },
-  {
-    "Name": "Busko-Zdrój",
-    "Alternative_Names": "",
-    "Type": "B: Mineral Spa / Cold Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 50.46759,
-    "Longitude": 20.71919
-  },
-  {
-    "Name": "Štós",
-    "Alternative_Names": "Štos, Stoß, Stósz",
-    "Type": "D: Climatic Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 48.7092719,
-    "Longitude": 20.7868713
-  },
-  {
-    "Name": "Żegiestów-Zdrój",
-    "Alternative_Names": "Rzegestow, Rzegiestow, Rzegiestów",
-    "Type": "B: Mineral Spa / Cold Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 49.3561684,
-    "Longitude": 20.8967477
-  },
-  {
-    "Name": "Krynica-Zdrój",
-    "Alternative_Names": "Krynica, Krynicza",
-    "Type": "B: Mineral Spa / Cold Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 49.4206138,
-    "Longitude": 20.9594176
-  },
-  {
-    "Name": "Konstancin-Jeziorna",
-    "Alternative_Names": "",
-    "Type": "B: Mineral Spa / Cold Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 52.0834787,
-    "Longitude": 21.1208073
-  },
-  {
-    "Name": "Băile Călacea",
-    "Alternative_Names": "Kalocha",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 45.9636056,
-    "Longitude": 21.1983354
-  },
-  {
-    "Name": "Bardejovské Kúpele",
-    "Alternative_Names": "Bartfafürdö, Bartfeld",
-    "Type": "B: Mineral Spa / Cold Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 49.3273239,
-    "Longitude": 21.2739014
-  },
-  {
-    "Name": "Buziaș",
-    "Alternative_Names": "Bad Busiasch, Buziás, Buziásfürdő, Бузјаш, Buzjaš, Baile Buziaș, Centum Putei.",
-    "Type": "B: Mineral Spa / Cold Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 45.64921,
-    "Longitude": 21.6042462
-  },
-  {
-    "Name": "Iwonicz-Zdroj",
-    "Alternative_Names": "Іво́нич-Здруй",
-    "Type": "D: Climatic Resort, B: Mineral Spa / Cold Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 49.5696688,
-    "Longitude": 21.7932328
-  },
-  {
-    "Name": "Rymanów-Zdrój",
-    "Alternative_Names": "Риманів-Здрій",
-    "Type": "B: Mineral Spa / Cold Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 49.54975,
-    "Longitude": 21.85129
-  },
-  {
-    "Name": "Băile 1 Mai",
-    "Alternative_Names": "Püspökfürdő, Baile Episcopiei, Május 1 fürdő",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 47.0549163,
-    "Longitude": 21.9285231
-  },
-  {
-    "Name": "Baile Felix",
-    "Alternative_Names": "Félixfürdő, Baia lui Felix",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 46.9896227,
-    "Longitude": 21.9812623
-  },
-  {
-    "Name": "Nałęczów",
-    "Alternative_Names": "",
-    "Type": "B: Mineral Spa / Cold Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 51.2876064,
-    "Longitude": 22.214792
-  },
-  {
-    "Name": "Băile Herculane",
-    "Alternative_Names": "Ad Mediam, Aqua Herculis, Herkulesbad, Herkulesfürdő, Herkulovy Lázně, Lazarethane",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 44.8785058,
-    "Longitude": 22.4143883
-  },
-  {
-    "Name": "Berehove",
-    "Alternative_Names": "Берегове",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 48.2050985,
-    "Longitude": 22.6453246
-  },
-  {
-    "Name": "Kyustendil",
-    "Alternative_Names": "Ulpia Pautalia, Велбъжд, Velbazhd, Кюстендил",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 42.3349428,
-    "Longitude": 22.8884116
-  },
-  {
-    "Name": "Loutraki",
-    "Alternative_Names": "",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 37.9743673,
-    "Longitude": 22.9777228
-  },
-  {
-    "Name": "Augustów",
-    "Alternative_Names": "Augustavas",
-    "Type": "D: Climatic Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 53.8437331,
-    "Longitude": 22.9802357
-  },
-  {
-    "Name": "Skhidnytsia",
-    "Alternative_Names": "Схі́дниця",
-    "Type": "B: Mineral Spa / Cold Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 49.2380556,
-    "Longitude": 23.3610092
-  },
-  {
-    "Name": "Truskavets",
-    "Alternative_Names": "Трускавець, Truskawiec, טרוסקעוויץ, Truskevitz, Truskovec",
-    "Type": "B: Mineral Spa / Cold Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 49.2782012,
-    "Longitude": 23.5059668
-  },
-  {
-    "Name": "Velykyi Lubin",
-    "Alternative_Names": "Великий Любінь",
-    "Type": "B: Mineral Spa / Cold Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 49.7217329,
-    "Longitude": 23.7302119
-  },
-  {
-    "Name": "Yurmala",
-    "Alternative_Names": "Jūrmala, Riga-Strand, Baltische Riviera, Юрмала",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 56.9727164,
-    "Longitude": 23.7886979
-  },
-  {
-    "Name": "Baile Govora",
-    "Alternative_Names": "",
-    "Type": "B: Mineral Spa / Cold Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 45.079229,
-    "Longitude": 24.1840221
-  },
-  {
-    "Name": "Baile Olanesti",
-    "Alternative_Names": "",
-    "Type": "B: Mineral Spa / Cold Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 45.2050901,
-    "Longitude": 24.2419916
-  },
-  {
-    "Name": "Bazna",
-    "Alternative_Names": "",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 46.2006511,
-    "Longitude": 24.2834268
-  },
-  {
-    "Name": "Yaremeche",
-    "Alternative_Names": "Яремче, Jaremcze, Iaremche",
-    "Type": "D: Climatic Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 48.4504129,
-    "Longitude": 24.550955
-  },
-  {
-    "Name": "Cherche",
-    "Alternative_Names": "",
-    "Type": "B: Mineral Spa / Cold Springs, D: Climatic Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 49.4014009,
-    "Longitude": 24.6177768
-  },
-  {
-    "Name": "Sovata",
-    "Alternative_Names": "",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 46.5971683,
-    "Longitude": 25.07328
-  },
-  {
-    "Name": "Vatra Dornei",
-    "Alternative_Names": "Dornavátra, Dorna Watra",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 47.3469264,
-    "Longitude": 25.3557638
-  },
-  {
-    "Name": "Borsec",
-    "Alternative_Names": "",
-    "Type": "B: Mineral Spa / Cold Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 46.9639588,
-    "Longitude": 25.5609031
-  },
-  {
-    "Name": "Solca",
-    "Alternative_Names": "Solka Szolka",
-    "Type": "B: Mineral Spa / Cold Springs, D: Climatic Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 47.699949,
-    "Longitude": 25.8373688
-  },
-  {
-    "Name": "Băile Tusnad",
-    "Alternative_Names": "Tusnádfürdő",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 46.1440473,
-    "Longitude": 25.8587996
-  },
-  {
-    "Name": "Slanic Moldova",
-    "Alternative_Names": "",
-    "Type": "B: Mineral Spa / Cold Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 46.2066318,
-    "Longitude": 26.438397
-  },
-  {
-    "Name": "Amara",
-    "Alternative_Names": "",
-    "Type": "E: Other",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 44.6173543,
-    "Longitude": 27.314991
-  },
-  {
-    "Name": "Burgas",
-    "Alternative_Names": "",
-    "Type": "A: Mineral Spa / Hot Springs, C: Seaside Resort, B: Mineral Spa / Cold Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 42.4936616,
-    "Longitude": 27.4721276
-  },
-  {
-    "Name": "Sozopol",
-    "Alternative_Names": "Созопол, Σωζόπολη, Sozopoli",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 42.4181556,
-    "Longitude": 27.6943124
-  },
-  {
-    "Name": "Nesebar",
-    "Alternative_Names": "Nessebar, Nesebur, Несебър",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 42.6607865,
-    "Longitude": 27.7167464
-  },
-  {
-    "Name": "Varna",
-    "Alternative_Names": "Варна",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 43.2073873,
-    "Longitude": 27.9166653
-  },
-  {
-    "Name": "Albena",
-    "Alternative_Names": "Албена",
-    "Type": "C: Seaside Resort, D: Climatic Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 43.4259186,
-    "Longitude": 28.1602967
-  },
-  {
-    "Name": "Cahul",
-    "Alternative_Names": "",
-    "Type": "B: Mineral Spa / Cold Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 45.9137395,
-    "Longitude": 28.2378724
-  },
-  {
-    "Name": "Mangalia",
-    "Alternative_Names": "",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 43.8150793,
-    "Longitude": 28.5830306
-  },
-  {
-    "Name": "Eforie Nord",
-    "Alternative_Names": "",
-    "Type": "A: Mineral Spa / Hot Springs, C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 44.0278741,
-    "Longitude": 28.650451
-  },
-  {
-    "Name": "Constanța",
-    "Alternative_Names": "Κωνστάντζα, Кюстенджа, Köstence, Custantsa, Tomis, Τόμις",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 44.1767161,
-    "Longitude": 28.6507598
-  },
-  {
-    "Name": "Nemyriw",
-    "Alternative_Names": "Немирів, Nemirow, Niemirów, Niemerow, Niemirow",
-    "Type": "B: Mineral Spa / Cold Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 48.9654035,
-    "Longitude": 28.8430131
-  },
-  {
-    "Name": "De Haan",
-    "Alternative_Names": "Le Coq, Le Coq-sur-Mer",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 51.2671194,
-    "Longitude": 3.0408427
-  },
-  {
-    "Name": "Royat",
-    "Alternative_Names": "",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 45.7643631,
-    "Longitude": 3.0477919
-  },
-  {
-    "Name": "Châtel-Guyon",
-    "Alternative_Names": "",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 45.9205,
-    "Longitude": 3.06111
-  },
-  {
-    "Name": "Blankenberge",
-    "Alternative_Names": "Blanknberge",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 51.3112589,
-    "Longitude": 3.1323429
-  },
-  {
-    "Name": "Heist-aan-Zee",
-    "Alternative_Names": "Heyst",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 51.3374355,
-    "Longitude": 3.2399794
-  },
-  {
-    "Name": "Knokke",
-    "Alternative_Names": "Knocke",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 51.3433866,
-    "Longitude": 3.2884738
-  },
-  {
-    "Name": "Vichy",
-    "Alternative_Names": "",
-    "Type": "A: Mineral Spa / Hot Springs, B: Mineral Spa / Cold Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 46.124017,
-    "Longitude": 3.4203658
-  },
-  {
-    "Name": "Domburg",
-    "Alternative_Names": "",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 51.5632141,
-    "Longitude": 3.4967277
-  },
-  {
-    "Name": "Vlissingen",
-    "Alternative_Names": "Flushing",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 51.4480929,
-    "Longitude": 3.5697992
-  },
-  {
-    "Name": "Bagnols-les-Bains",
-    "Alternative_Names": "",
-    "Type": "A: Mineral Spa / Hot Springs, D: Climatic Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 44.511909,
-    "Longitude": 3.6644854
-  },
-  {
-    "Name": "Sète",
-    "Alternative_Names": "",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 43.4014434,
-    "Longitude": 3.6959771
-  },
-  {
-    "Name": "Serhiivka",
-    "Alternative_Names": "",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 46.02756,
-    "Longitude": 30.37273
-  },
-  {
-    "Name": "Zatoka",
-    "Alternative_Names": "Затoка, Zatoca, Bugaz",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 46.06396,
-    "Longitude": 30.45033
-  },
-  {
-    "Name": "Kuyalnik",
-    "Alternative_Names": "",
-    "Type": "B: Mineral Spa / Cold Springs, C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 46.6541131,
-    "Longitude": 30.7205994
-  },
-  {
-    "Name": "Odessa",
-    "Alternative_Names": "",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 46.4843023,
-    "Longitude": 30.7322878
-  },
-  {
-    "Name": "Skadovsk",
-    "Alternative_Names": "Скадовськ",
-    "Type": "D: Climatic Resort, C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 46.1203932,
-    "Longitude": 32.910339
-  },
-  {
-    "Name": "Yevpatoriya",
-    "Alternative_Names": "Євпаторія, Евпатория, Кезлев",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 45.1907635,
-    "Longitude": 33.3679049
-  },
-  {
-    "Name": "Saky",
-    "Alternative_Names": "Saki, Саки",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 45.1319466,
-    "Longitude": 33.6001281
-  },
-  {
-    "Name": "Myrhorod",
-    "Alternative_Names": "Ми́ргород, Mirgorod, Ми́ргород",
-    "Type": "B: Mineral Spa / Cold Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 49.9568658,
-    "Longitude": 33.6153865
-  },
-  {
-    "Name": "Alupka",
-    "Alternative_Names": "",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 44.4203817,
-    "Longitude": 34.0484042
-  },
-  {
-    "Name": "Gaspra",
-    "Alternative_Names": "Га́спрa, Га́спрa",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 44.4306924,
-    "Longitude": 34.1051589
-  },
-  {
-    "Name": "Livadiya",
-    "Alternative_Names": "Livadia, Ливадия",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 44.46648,
-    "Longitude": 34.14104
-  },
-  {
-    "Name": "Yalta",
-    "Alternative_Names": "Ялта",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 44.4987874,
-    "Longitude": 34.1689358
-  },
-  {
-    "Name": "Gurzuf",
-    "Alternative_Names": "Hurzuf, Γορζουβίται, Гурзуф",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 44.5479215,
-    "Longitude": 34.2736976
-  },
-  {
-    "Name": "Alushta",
-    "Alternative_Names": "Алушта, Aluşta",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 44.677112,
-    "Longitude": 34.4095393
-  },
-  {
-    "Name": "Kyrylivka",
-    "Alternative_Names": "Кирилівка",
-    "Type": "D: Climatic Resort, C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 46.3717985,
-    "Longitude": 35.3696143
-  },
-  {
-    "Name": "Feodosiya",
-    "Alternative_Names": "Kefe, Theodosia",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 45.033669,
-    "Longitude": 35.3753628
-  },
-  {
-    "Name": "Sochi",
-    "Alternative_Names": "Со́чи",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 43.5854823,
-    "Longitude": 39.723109
-  },
-  {
-    "Name": "Scheveningen",
-    "Alternative_Names": "",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 52.1067449,
-    "Longitude": 4.2736937
-  },
-  {
-    "Name": "Katwijk",
-    "Alternative_Names": "Katwyk, Katwijk aan Zee",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 52.2048978,
-    "Longitude": 4.3965975
-  },
-  {
-    "Name": "Zandvoort",
-    "Alternative_Names": "",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 52.3719838,
-    "Longitude": 4.5302209
-  },
-  {
-    "Name": "Haarlem",
-    "Alternative_Names": "",
-    "Type": "B: Mineral Spa / Cold Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 52.3885317,
-    "Longitude": 4.6388048
-  },
-  {
-    "Name": "Tsqaltubo",
-    "Alternative_Names": "წყალტუბო, Цхалтубо",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 42.3253518,
-    "Longitude": 42.5979488
-  },
-  {
-    "Name": "Kislovodsk",
-    "Alternative_Names": "Кисловодск",
-    "Type": "B: Mineral Spa / Cold Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 43.9055311,
-    "Longitude": 42.7157283
-  },
-  {
-    "Name": "Abastumani",
-    "Alternative_Names": "Abbas-Tuman, Абастуман, აბასთუმანი",
-    "Type": "A: Mineral Spa / Hot Springs, D: Climatic Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 41.7535704,
-    "Longitude": 42.8319346
-  },
-  {
-    "Name": "Yessentuki",
-    "Alternative_Names": "Ессентуки́",
-    "Type": "B: Mineral Spa / Cold Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 44.0470042,
-    "Longitude": 42.8576575
-  },
-  {
-    "Name": "Zheleznovodsk",
-    "Alternative_Names": "Железново́дск",
-    "Type": "A: Mineral Spa / Hot Springs, B: Mineral Spa / Cold Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 44.1424034,
-    "Longitude": 43.0090751
-  },
-  {
-    "Name": "Pyatigorsk",
-    "Alternative_Names": "Pjatigorsk, Пятиго́рск, Goriatchevodsk",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 44.0375437,
-    "Longitude": 43.0363667
-  },
-  {
-    "Name": "Borjomi",
-    "Alternative_Names": "ბორჯომი",
-    "Type": "B: Mineral Spa / Cold Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 41.8412404,
-    "Longitude": 43.3838704
-  },
-  {
-    "Name": "Chaudfontaine",
-    "Alternative_Names": "",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 50.5847922,
-    "Longitude": 5.6469688
-  },
-  {
-    "Name": "Spa",
-    "Alternative_Names": "",
-    "Type": "B: Mineral Spa / Cold Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 50.4920654,
-    "Longitude": 5.8627569
-  },
-  {
-    "Name": "Contrexéville",
-    "Alternative_Names": "",
-    "Type": "B: Mineral Spa / Cold Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 48.180496,
-    "Longitude": 5.8946281
-  },
-  {
-    "Name": "Aix-les-Bains",
-    "Alternative_Names": "Èx-én-Savouè",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 45.6886292,
-    "Longitude": 5.9146362
-  },
-  {
-    "Name": "Vittel",
-    "Alternative_Names": "",
-    "Type": "B: Mineral Spa / Cold Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 48.2020717,
-    "Longitude": 5.9418851
-  },
-  {
     "Name": "Aachen",
     "Alternative_Names": "Aix-la-Chapelle, Aken",
-    "Type": "A: Mineral Spa / Hot Springs",
+    "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
     "Link": "",
@@ -3340,409 +20,39 @@
     "Longitude": 6.083862
   },
   {
-    "Name": "Hyères",
-    "Alternative_Names": "Leras, Hyères-les-Palmiers",
-    "Type": "C: Seaside Resort",
+    "Name": "Abano Terme",
+    "Alternative_Names": "Abano Bagno",
+    "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
     "Link": "",
-    "Latitude": 43.1202573,
-    "Longitude": 6.1301614
+    "Latitude": 45.3603142,
+    "Longitude": 11.7897833
   },
   {
-    "Name": "Mondorf-les-Bains",
-    "Alternative_Names": "Mondorf-Altwies, Bad Mondorf, Munneref, Mondorff",
-    "Type": "A: Mineral Spa / Hot Springs",
+    "Name": "Abastumani",
+    "Alternative_Names": "Abbas-Tuman, Абастуман, აბასთუმანი",
+    "Type": "Mineral Spa (Hot), Climatic Resort",
     "List_Availability": "",
     "Progress": "",
     "Link": "",
-    "Latitude": 49.5071747,
-    "Longitude": 6.2814238
+    "Latitude": 41.7535704,
+    "Longitude": 42.8319346
   },
   {
-    "Name": "Luxeuil-les-Bains",
+    "Name": "Aberdeen",
     "Alternative_Names": "",
-    "Type": "A: Mineral Spa / Hot Springs",
+    "Type": "Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
     "Link": "",
-    "Latitude": 47.817177,
-    "Longitude": 6.3808865
-  },
-  {
-    "Name": "Plombières-les-Bains",
-    "Alternative_Names": "",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 47.9641254,
-    "Longitude": 6.4564439
-  },
-  {
-    "Name": "Thonon-les-Bains",
-    "Alternative_Names": "",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 46.3731303,
-    "Longitude": 6.4779448
-  },
-  {
-    "Name": "Èvian-les-Bains",
-    "Alternative_Names": "Aquianum, Vian, Les Vians, and Évians",
-    "Type": "B: Mineral Spa / Cold Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 46.400979,
-    "Longitude": 6.5897931
-  },
-  {
-    "Name": "Borkum",
-    "Alternative_Names": "",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 53.5862669,
-    "Longitude": 6.6917449
-  },
-  {
-    "Name": "Montreux",
-    "Alternative_Names": "",
-    "Type": "D: Climatic Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 46.4310831,
-    "Longitude": 6.9129921
-  },
-  {
-    "Name": "Grasse",
-    "Alternative_Names": "",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 43.6589011,
-    "Longitude": 6.9239103
-  },
-  {
-    "Name": "Burtscheid",
-    "Alternative_Names": "Borcette",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 49.732051,
-    "Longitude": 6.9574283
-  },
-  {
-    "Name": "Cannes",
-    "Alternative_Names": "Canas",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 43.5515198,
-    "Longitude": 7.0134418
-  },
-  {
-    "Name": "Juan-les-Pins",
-    "Alternative_Names": "",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 43.5676357,
-    "Longitude": 7.1141716
-  },
-  {
-    "Name": "Bad Neuenahr-Ahrweiler",
-    "Alternative_Names": "",
-    "Type": "A: Mineral Spa / Hot Springs, B: Mineral Spa / Cold Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 50.5444551,
-    "Longitude": 7.1186671
-  },
-  {
-    "Name": "Norderney",
-    "Alternative_Names": "",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 53.7056126,
-    "Longitude": 7.1438175
-  },
-  {
-    "Name": "Nice",
-    "Alternative_Names": "Nizza",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 43.7009358,
-    "Longitude": 7.2683912
-  },
-  {
-    "Name": "Beaulieu Sur-Mer",
-    "Alternative_Names": "",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 43.7088,
-    "Longitude": 7.33375
-  },
-  {
-    "Name": "Monte Carlo",
-    "Alternative_Names": "",
-    "Type": "C: Seaside Resort, D: Climatic Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 43.7323492,
-    "Longitude": 7.4276832
-  },
-  {
-    "Name": "Cap Martin",
-    "Alternative_Names": "",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 43.7641047,
-    "Longitude": 7.4565697
-  },
-  {
-    "Name": "Montana",
-    "Alternative_Names": "Crans-Montana",
-    "Type": "D: Climatic Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 46.3125537,
-    "Longitude": 7.4823938
-  },
-  {
-    "Name": "Langeoog",
-    "Alternative_Names": "",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 53.7408705,
-    "Longitude": 7.4859169
-  },
-  {
-    "Name": "Menton",
-    "Alternative_Names": "",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 43.7753495,
-    "Longitude": 7.5029213
-  },
-  {
-    "Name": "Bad Salzig",
-    "Alternative_Names": "",
-    "Type": "A: Mineral Spa / Hot Springs, B: Mineral Spa / Cold Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 50.2312823,
-    "Longitude": 7.5885884
-  },
-  {
-    "Name": "Ventimiglia",
-    "Alternative_Names": "",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 43.7917623,
-    "Longitude": 7.6033131
-  },
-  {
-    "Name": "Leukerbad",
-    "Alternative_Names": "Loèche-les-Bains, Leiggerbad",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 46.3793158,
-    "Longitude": 7.6267416
-  },
-  {
-    "Name": "Bordighera",
-    "Alternative_Names": "",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 43.7850512,
-    "Longitude": 7.6591094
-  },
-  {
-    "Name": "Bad Ems",
-    "Alternative_Names": "",
-    "Type": "A: Mineral Spa / Hot Springs, B: Mineral Spa / Cold Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 50.3352062,
-    "Longitude": 7.7128538
-  },
-  {
-    "Name": "Sanremo",
-    "Alternative_Names": "San Remo, Sanrémmo, Sanreumo",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 43.8198253,
-    "Longitude": 7.7748827
-  },
-  {
-    "Name": "Bad Kreuznach",
-    "Alternative_Names": "",
-    "Type": "",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 49.8490413,
-    "Longitude": 7.8626661
-  },
-  {
-    "Name": "Helgoland",
-    "Alternative_Names": "",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 54.1820608,
-    "Longitude": 7.8876314
-  },
-  {
-    "Name": "Schlangenbad",
-    "Alternative_Names": "",
-    "Type": "B: Mineral Spa / Cold Springs, A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 50.09487,
-    "Longitude": 8.04375
-  },
-  {
-    "Name": "Bad Schwalbach",
-    "Alternative_Names": "Langenschwalbach",
-    "Type": "A: Mineral Spa / Hot Springs, B: Mineral Spa / Cold Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 50.13355,
-    "Longitude": 8.04872
-  },
-  {
-    "Name": "Bad Sassendorf",
-    "Alternative_Names": "",
-    "Type": "A: Mineral Spa / Hot Springs, B: Mineral Spa / Cold Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 51.5858518,
-    "Longitude": 8.1692402
-  },
-  {
-    "Name": "Alassio",
-    "Alternative_Names": "",
-    "Type": "C: Seaside Resort, D: Climatic Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 44.0080109,
-    "Longitude": 8.1730265
-  },
-  {
-    "Name": "Baden-Baden",
-    "Alternative_Names": "",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 48.7610716,
-    "Longitude": 8.239959
-  },
-  {
-    "Name": "Wiesbaden",
-    "Alternative_Names": "",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 50.0820384,
-    "Longitude": 8.2416556
-  },
-  {
-    "Name": "Westerland",
-    "Alternative_Names": "Vesterland, Weesterlön, Westerland-on-Sylt",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 54.9064856,
-    "Longitude": 8.3071734
-  },
-  {
-    "Name": "Baden bei Zürich",
-    "Alternative_Names": "Baden, Baden im Aargau, Aquae Helveticae",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 47.4736827,
-    "Longitude": 8.3086822
-  },
-  {
-    "Name": "Sylt",
-    "Alternative_Names": "",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 54.8968232,
-    "Longitude": 8.3528588
-  },
-  {
-    "Name": "Fanø Bad",
-    "Alternative_Names": "",
-    "Type": "C: Seaside Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 55.4453884,
-    "Longitude": 8.3961159
-  },
-  {
-    "Name": "Rigi Kaltbad",
-    "Alternative_Names": "",
-    "Type": "B: Mineral Spa / Cold Springs, D: Climatic Resort",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 47.0322545,
-    "Longitude": 8.4346408
+    "Latitude": 57.1482429,
+    "Longitude": -2.0928095
   },
   {
     "Name": "Acqui Terme",
     "Alternative_Names": "",
-    "Type": "A: Mineral Spa / Hot Springs",
+    "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
     "Link": "",
@@ -3750,204 +60,234 @@
     "Longitude": 8.467546
   },
   {
-    "Name": "Bad Soden",
+    "Name": "Ahlbeck",
     "Alternative_Names": "",
-    "Type": "A: Mineral Spa / Hot Springs",
+    "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
     "Link": "",
-    "Latitude": 50.1517006,
-    "Longitude": 8.4899671
+    "Latitude": 53.6704395,
+    "Longitude": 14.1862434
   },
   {
-    "Name": "Gersau",
+    "Name": "Aix-les-Bains",
+    "Alternative_Names": "Èx-én-Savouè",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 45.6886292,
+    "Longitude": 5.9146362
+  },
+  {
+    "Name": "Alassio",
     "Alternative_Names": "",
-    "Type": "D: Climatic Resort",
+    "Type": "Seaside Resort, Climatic Resort",
     "List_Availability": "",
     "Progress": "",
     "Link": "",
-    "Latitude": 46.9923,
-    "Longitude": 8.5264727
+    "Latitude": 44.0080109,
+    "Longitude": 8.1730265
   },
   {
-    "Name": "Bad Homburg",
+    "Name": "Albena",
+    "Alternative_Names": "Албена",
+    "Type": "Seaside Resort, Climatic Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 43.4259186,
+    "Longitude": 28.1602967
+  },
+  {
+    "Name": "Albufeira",
     "Alternative_Names": "",
-    "Type": "B: Mineral Spa / Cold Springs",
+    "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
     "Link": "",
-    "Latitude": 50.2363508,
-    "Longitude": 8.5980265
+    "Latitude": 37.088241,
+    "Longitude": -8.2526339
   },
   {
-    "Name": "Cuxhaven",
+    "Name": "Alet-les-bains",
     "Alternative_Names": "",
-    "Type": "C: Seaside Resort",
+    "Type": "Mineral Spa (Hot), Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
     "Link": "",
-    "Latitude": 53.86878,
-    "Longitude": 8.698286
+    "Latitude": 42.9967236,
+    "Longitude": 2.255835
   },
   {
-    "Name": "Bad Nauheim",
+    "Name": "Alhama de Aragón",
+    "Alternative_Names": "Aquae Bilbilitanae, Aquae Bilbilitanorum",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 41.2965036,
+    "Longitude": -1.8949513
+  },
+  {
+    "Name": "Alicante",
     "Alternative_Names": "",
-    "Type": "B: Mineral Spa / Cold Springs",
+    "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
     "Link": "",
-    "Latitude": 50.40015,
-    "Longitude": 8.7461314
+    "Latitude": 38.3436365,
+    "Longitude": -0.4881708
   },
   {
-    "Name": "Bad Oeynhausen",
+    "Name": "Alupka",
     "Alternative_Names": "",
-    "Type": "A: Mineral Spa / Hot Springs",
+    "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
     "Link": "",
-    "Latitude": 52.2014399,
-    "Longitude": 8.7981244
+    "Latitude": 44.4203817,
+    "Longitude": 34.0484042
   },
   {
-    "Name": "Büsum",
+    "Name": "Alushta",
+    "Alternative_Names": "Алушта, Aluşta",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 44.677112,
+    "Longitude": 34.4095393
+  },
+  {
+    "Name": "Amara",
     "Alternative_Names": "",
-    "Type": "C: Seaside Resort",
+    "Type": "Other",
     "List_Availability": "",
     "Progress": "",
     "Link": "",
-    "Latitude": 54.1298489,
-    "Longitude": 8.8586989
+    "Latitude": 44.6173543,
+    "Longitude": 27.314991
   },
   {
-    "Name": "Genua",
-    "Alternative_Names": "Genova",
-    "Type": "C: Seaside Resort",
+    "Name": "Amelie-les-Bains",
+    "Alternative_Names": "Els Banys d'Arles, Arles-les-Bains",
+    "Type": "Mineral Spa (Hot), Climatic Resort",
     "List_Availability": "",
     "Progress": "",
     "Link": "",
-    "Latitude": 44.40726,
-    "Longitude": 8.9338624
+    "Latitude": 42.4741898,
+    "Longitude": 2.6653321
   },
   {
-    "Name": "Rapallo",
+    "Name": "Arcachon",
     "Alternative_Names": "",
-    "Type": "C: Seaside Resort",
+    "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
     "Link": "",
-    "Latitude": 44.3511473,
-    "Longitude": 9.229671
+    "Latitude": 44.6616428,
+    "Longitude": -1.1700018
   },
   {
-    "Name": "Cadenabbia",
+    "Name": "Archena",
     "Alternative_Names": "",
-    "Type": "D: Climatic Resort",
+    "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
     "Link": "",
-    "Latitude": 45.9912752,
-    "Longitude": 9.2370248
+    "Latitude": 38.1178119,
+    "Longitude": -1.3025236
   },
   {
-    "Name": "Pyrmont",
-    "Alternative_Names": "Bad Pyrmont",
-    "Type": "",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 51.9850503,
-    "Longitude": 9.2434635
-  },
-  {
-    "Name": "Flims",
+    "Name": "Arromanches-les-Bains",
     "Alternative_Names": "",
-    "Type": "D: Climatic Resort",
+    "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
     "Link": "",
-    "Latitude": 46.8332439,
-    "Longitude": 9.2834557
+    "Latitude": 49.3369603,
+    "Longitude": -0.6221294
   },
   {
-    "Name": "Bad Pfäfers",
-    "Alternative_Names": "Bad Ragaz",
-    "Type": "A: Mineral Spa / Hot Springs",
-    "List_Availability": "",
-    "Progress": "",
-    "Link": "",
-    "Latitude": 46.9908765,
-    "Longitude": 9.5012318
-  },
-  {
-    "Name": "Bad Ragaz",
+    "Name": "Arta Terme",
     "Alternative_Names": "",
-    "Type": "A: Mineral Spa / Hot Springs",
+    "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
     "Link": "",
-    "Latitude": 47.0025282,
-    "Longitude": 9.5016438
+    "Latitude": 46.4723796,
+    "Longitude": 13.0266746
   },
   {
-    "Name": "Silkeborg",
+    "Name": "Augustów",
+    "Alternative_Names": "Augustavas",
+    "Type": "Climatic Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 53.8437331,
+    "Longitude": 22.9802357
+  },
+  {
+    "Name": "Aulus-les-Bains",
     "Alternative_Names": "",
-    "Type": "B: Mineral Spa / Cold Springs",
+    "Type": "Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
     "Link": "",
-    "Latitude": 56.169453,
-    "Longitude": 9.5495141
+    "Latitude": 42.7907439,
+    "Longitude": 1.339303
   },
   {
-    "Name": "Glücksburg",
+    "Name": "Ax-les-Thermes",
     "Alternative_Names": "",
-    "Type": "C: Seaside Resort",
+    "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
     "Link": "",
-    "Latitude": 54.8454449,
-    "Longitude": 9.5620334
+    "Latitude": 42.7193011,
+    "Longitude": 1.83784
   },
   {
-    "Name": "San Pellegrino Terme",
+    "Name": "Baabe",
     "Alternative_Names": "",
-    "Type": "A: Mineral Spa / Hot Springs",
+    "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
     "Link": "",
-    "Latitude": 45.8386307,
-    "Longitude": 9.6647313
+    "Latitude": 54.3602126,
+    "Longitude": 13.7043671
   },
   {
-    "Name": "La Spezia",
+    "Name": "Bad Aussee",
     "Alternative_Names": "",
-    "Type": "C: Seaside Resort",
+    "Type": "Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
     "Link": "",
-    "Latitude": 44.238366,
-    "Longitude": 9.6912326
+    "Latitude": 47.6094985,
+    "Longitude": 13.7835784
   },
   {
-    "Name": "Schwäbisch Hall",
+    "Name": "Bad Berka",
     "Alternative_Names": "",
-    "Type": "B: Mineral Spa / Cold Springs",
+    "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
     "Link": "",
-    "Latitude": 49.1123963,
-    "Longitude": 9.7369047
+    "Latitude": 50.9002644,
+    "Longitude": 11.2829778
   },
   {
-    "Name": "Sils Maria",
-    "Alternative_Names": "Sils im Engadin",
-    "Type": "D: Climatic Resort",
+    "Name": "Bad Bocklet",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Hot), Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
     "Link": "",
-    "Latitude": 46.4291565,
-    "Longitude": 9.7637877
+    "Latitude": 50.2675049,
+    "Longitude": 10.0787044
   },
   {
     "Name": "Bad Brückenau",
@@ -3960,59 +300,289 @@
     "Longitude": 9.7912176
   },
   {
-    "Name": "Davos",
-    "Alternative_Names": "",
-    "Type": "D: Climatic Resort",
+    "Name": "Bad Deutsch-Altenburg",
+    "Alternative_Names": "Németóvár",
+    "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
     "Link": "",
-    "Latitude": 46.796198,
-    "Longitude": 9.8236892
+    "Latitude": 48.1341577,
+    "Longitude": 16.9059472
   },
   {
-    "Name": "St. Moritz",
+    "Name": "Bad Egart",
     "Alternative_Names": "",
-    "Type": "A: Mineral Spa / Hot Springs",
+    "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
     "Link": "",
-    "Latitude": 46.4978958,
-    "Longitude": 9.8392428
+    "Latitude": 46.6721451,
+    "Longitude": 11.0812196
   },
   {
-    "Name": "Klosters",
+    "Name": "Bad Ems",
     "Alternative_Names": "",
-    "Type": "D: Climatic Resort",
+    "Type": "Mineral Spa (Hot), Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
     "Link": "",
-    "Latitude": 46.8703868,
-    "Longitude": 9.8825627
+    "Latitude": 50.3352062,
+    "Longitude": 7.7128538
   },
   {
-    "Name": "Zuoz",
+    "Name": "Bad Feilnbach",
     "Alternative_Names": "",
-    "Type": "D: Climatic Resort",
+    "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
     "Link": "",
-    "Latitude": 46.6012885,
-    "Longitude": 9.9608039
+    "Latitude": 47.7745858,
+    "Longitude": 12.0070798
   },
   {
-    "Name": "Salsomaggiore Terme",
+    "Name": "Bad Fusch",
     "Alternative_Names": "",
-    "Type": "A: Mineral Spa / Hot Springs",
+    "Type": "Climatic Resort, Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
     "Link": "",
-    "Latitude": 44.814762,
-    "Longitude": 9.979576
+    "Latitude": 47.1999677,
+    "Longitude": 12.8555787
+  },
+  {
+    "Name": "Bad Gastein",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 47.0871124,
+    "Longitude": 13.160853
+  },
+  {
+    "Name": "Bad Hall",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Cold)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 48.0348017,
+    "Longitude": 14.2091385
+  },
+  {
+    "Name": "Bad Homburg",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Cold)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 50.2363508,
+    "Longitude": 8.5980265
+  },
+  {
+    "Name": "Bad Ischl",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Cold)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 47.7115299,
+    "Longitude": 13.6239333
+  },
+  {
+    "Name": "Bad Kissingen",
+    "Alternative_Names": "Kissingen",
+    "Type": "Mineral Spa (Cold)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 50.1999412,
+    "Longitude": 10.0767379
+  },
+  {
+    "Name": "Bad Kohlgrub",
+    "Alternative_Names": "",
+    "Type": "Other",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 47.6659196,
+    "Longitude": 11.0519029
+  },
+  {
+    "Name": "Bad Kreuth",
+    "Alternative_Names": "",
+    "Type": "",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 49.3221567,
+    "Longitude": 11.9462366
+  },
+  {
+    "Name": "Bad Kreuznach",
+    "Alternative_Names": "",
+    "Type": "",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 49.8490413,
+    "Longitude": 7.8626661
+  },
+  {
+    "Name": "Bad Nauheim",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Cold)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 50.40015,
+    "Longitude": 8.7461314
+  },
+  {
+    "Name": "Bad Neuenahr-Ahrweiler",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Hot), Mineral Spa (Cold)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 50.5444551,
+    "Longitude": 7.1186671
+  },
+  {
+    "Name": "Bad Oeynhausen",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 52.2014399,
+    "Longitude": 8.7981244
+  },
+  {
+    "Name": "Bad Pfäfers",
+    "Alternative_Names": "Bad Ragaz",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 46.9908765,
+    "Longitude": 9.5012318
+  },
+  {
+    "Name": "Bad Pirawarth",
+    "Alternative_Names": "Pyrawarth",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 48.4526989,
+    "Longitude": 16.6002397
+  },
+  {
+    "Name": "Bad Ragaz",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 47.0025282,
+    "Longitude": 9.5016438
+  },
+  {
+    "Name": "Bad Reichenhall",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Cold)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 47.7222676,
+    "Longitude": 12.8760923
+  },
+  {
+    "Name": "Bad Salzig",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Hot), Mineral Spa (Cold)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 50.2312823,
+    "Longitude": 7.5885884
+  },
+  {
+    "Name": "Bad Sassendorf",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Hot), Mineral Spa (Cold)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 51.5858518,
+    "Longitude": 8.1692402
+  },
+  {
+    "Name": "Bad Schlema",
+    "Alternative_Names": "",
+    "Type": "",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 50.6024795,
+    "Longitude": 12.6665631
+  },
+  {
+    "Name": "Bad Schwalbach",
+    "Alternative_Names": "Langenschwalbach",
+    "Type": "Mineral Spa (Hot), Mineral Spa (Cold)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 50.13355,
+    "Longitude": 8.04872
+  },
+  {
+    "Name": "Bad Soden",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 50.1517006,
+    "Longitude": 8.4899671
+  },
+  {
+    "Name": "Bad Tölz",
+    "Alternative_Names": "Krankenheil-Tölz",
+    "Type": "Mineral Spa (Cold)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 47.7610013,
+    "Longitude": 11.559607
+  },
+  {
+    "Name": "Bad Vöslau",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 47.9655519,
+    "Longitude": 16.2148073
+  },
+  {
+    "Name": "Bad Wiessee",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Cold)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 47.7128111,
+    "Longitude": 11.7254859
   },
   {
     "Name": "Bad Wildbad",
     "Alternative_Names": "",
-    "Type": "A: Mineral Spa / Hot Springs",
+    "Type": "Mineral Spa (Hot)",
     "List_Availability": "",
     "Progress": "",
     "Link": "",
@@ -4020,9 +590,279 @@
     "Longitude": 8.55039978
   },
   {
+    "Name": "Bad Wörishofen",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Hot), Mineral Spa (Cold)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 48.0059852,
+    "Longitude": 10.5921263
+  },
+  {
+    "Name": "Baden bei Wien",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 48.0076713,
+    "Longitude": 16.2343693
+  },
+  {
+    "Name": "Baden bei Zürich",
+    "Alternative_Names": "Baden, Baden im Aargau, Aquae Helveticae",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 47.4736827,
+    "Longitude": 8.3086822
+  },
+  {
+    "Name": "Baden-Baden",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 48.7610716,
+    "Longitude": 8.239959
+  },
+  {
+    "Name": "Bagnères de Luchon",
+    "Alternative_Names": "Balneariea Lixoniensis",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 42.7910617,
+    "Longitude": 0.5912279
+  },
+  {
+    "Name": "Bagnères-de-Bigorre",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 43.0658212,
+    "Longitude": 0.1530914
+  },
+  {
+    "Name": "Bagni di Lucca",
+    "Alternative_Names": "Bagno a Corsena",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 44.0099818,
+    "Longitude": 10.590633
+  },
+  {
+    "Name": "Bagnoles de l'Orne",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 48.5279194,
+    "Longitude": -0.3970796
+  },
+  {
+    "Name": "Bagnols-les-Bains",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Hot), Climatic Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 44.511909,
+    "Longitude": 3.6644854
+  },
+  {
+    "Name": "Băile 1 Mai",
+    "Alternative_Names": "Püspökfürdő, Baile Episcopiei, Május 1 fürdő",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 47.0549163,
+    "Longitude": 21.9285231
+  },
+  {
+    "Name": "Băile Călacea",
+    "Alternative_Names": "Kalocha",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 45.9636056,
+    "Longitude": 21.1983354
+  },
+  {
+    "Name": "Băile Felix",
+    "Alternative_Names": "Félixfürdő, Baia lui Felix",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 46.9896227,
+    "Longitude": 21.9812623
+  },
+  {
+    "Name": "Baile Govora",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Cold)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 45.079229,
+    "Longitude": 24.1840221
+  },
+  {
+    "Name": "Băile Herculane",
+    "Alternative_Names": "Ad Mediam, Aqua Herculis, Herkulesbad, Herkulesfürdő, Herkulovy Lázně, Lazarethane",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 44.8785058,
+    "Longitude": 22.4143883
+  },
+  {
+    "Name": "Baile Olanesti",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Cold)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 45.2050901,
+    "Longitude": 24.2419916
+  },
+  {
+    "Name": "Băile Tusnad",
+    "Alternative_Names": "Tusnádfürdő",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 46.1440473,
+    "Longitude": 25.8587996
+  },
+  {
+    "Name": "Baldovce",
+    "Alternative_Names": "Eckersdorf,Baldowitz,Baldóc,Bužňa",
+    "Type": "Mineral Spa (Cold)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 48.9922749,
+    "Longitude": 20.714067
+  },
+  {
+    "Name": "Balf",
+    "Alternative_Names": "Wolfs, Sankt Wolfgang, Farkasd, Bolf, Fürdő sor",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 47.6505188,
+    "Longitude": 16.6658567
+  },
+  {
+    "Name": "Balneario de Panticosa",
+    "Alternative_Names": "Balneario de Panticosa, Los Lagos",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 42.7236963,
+    "Longitude": -0.2843924
+  },
+  {
+    "Name": "Banja Koviljača",
+    "Alternative_Names": "Banja Koviljaca, Бања Ковиљача, Kraljevska Banja",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 44.5309221,
+    "Longitude": 19.2237478
+  },
+  {
+    "Name": "Baños de Fitero",
+    "Alternative_Names": "Balneario de Fitero",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 42.0557224,
+    "Longitude": -1.8565659
+  },
+  {
+    "Name": "Baños de Tredos",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 42.7020287,
+    "Longitude": 0.9159365
+  },
+  {
+    "Name": "Bansin",
+    "Alternative_Names": "Banzyno, Banzino",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 53.9645224,
+    "Longitude": 14.1288542
+  },
+  {
+    "Name": "Barbazan",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 43.1964736,
+    "Longitude": 0.1176276
+  },
+  {
+    "Name": "Bardejovské Kúpele",
+    "Alternative_Names": "Bartfafürdö, Bartfeld",
+    "Type": "Mineral Spa (Cold)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 49.3273239,
+    "Longitude": 21.2739014
+  },
+  {
+    "Name": "Barèges",
+    "Alternative_Names": "Barèges-Sers-Barzun",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 42.8958816,
+    "Longitude": 0.0622368
+  },
+  {
+    "Name": "Bath",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 51.3813864,
+    "Longitude": -2.3596963
+  },
+  {
     "Name": "Batumi",
     "Alternative_Names": "",
-    "Type": "C: Seaside Resort",
+    "Type": "Seaside Resort",
     "List_Availability": "",
     "Progress": "",
     "Link": "",
@@ -4030,9 +870,59 @@
     "Longitude": 41.63592911
   },
   {
+    "Name": "Bazna",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 46.2006511,
+    "Longitude": 24.2834268
+  },
+  {
+    "Name": "Beaucens",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 42.9753808,
+    "Longitude": -0.059774
+  },
+  {
+    "Name": "Beaulieu Sur-Mer",
+    "Alternative_Names": "",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 43.7088,
+    "Longitude": 7.33375
+  },
+  {
+    "Name": "Benasque",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 42.6052663,
+    "Longitude": 0.5237318
+  },
+  {
+    "Name": "Berck",
+    "Alternative_Names": "Berck-sur-Mer",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 50.4052576,
+    "Longitude": 1.5711617
+  },
+  {
     "Name": "Berdyansk",
     "Alternative_Names": "Berdiansk, Berdyans'k, Бердянськ",
-    "Type": "C: Seaside Resort, D: Climatic Resort",
+    "Type": "Seaside Resort, Climatic Resort",
     "List_Availability": "",
     "Progress": "",
     "Link": "",
@@ -4040,9 +930,1119 @@
     "Longitude": 36.7988205
   },
   {
+    "Name": "Berehove",
+    "Alternative_Names": "Берегове",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 48.2050985,
+    "Longitude": 22.6453246
+  },
+  {
+    "Name": "Bertinoro",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 44.148665,
+    "Longitude": 12.134235
+  },
+  {
+    "Name": "Biarritz",
+    "Alternative_Names": "Miarritze, Biàrritz",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 43.4832523,
+    "Longitude": -1.5592776
+  },
+  {
+    "Name": "Bie",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Cold)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 59.083333,
+    "Longitude": 16.2
+  },
+  {
+    "Name": "Binz",
+    "Alternative_Names": "",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 54.4010291,
+    "Longitude": 13.6076477
+  },
+  {
+    "Name": "Blackpool",
+    "Alternative_Names": "",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 53.8179442,
+    "Longitude": -3.0509812
+  },
+  {
+    "Name": "Blankenberge",
+    "Alternative_Names": "Blanknberge",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 51.3112589,
+    "Longitude": 3.1323429
+  },
+  {
+    "Name": "Bojnice",
+    "Alternative_Names": "Weinitz, Bajmóc",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 48.7799591,
+    "Longitude": 18.5821986
+  },
+  {
+    "Name": "Bordighera",
+    "Alternative_Names": "",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 43.7850512,
+    "Longitude": 7.6591094
+  },
+  {
+    "Name": "Borjomi",
+    "Alternative_Names": "ბორჯომი",
+    "Type": "Mineral Spa (Cold)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 41.8412404,
+    "Longitude": 43.3838704
+  },
+  {
+    "Name": "Borkum",
+    "Alternative_Names": "",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 53.5862669,
+    "Longitude": 6.6917449
+  },
+  {
+    "Name": "Borsec",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Cold)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 46.9639588,
+    "Longitude": 25.5609031
+  },
+  {
+    "Name": "Boulogne-sur-Mer",
+    "Alternative_Names": "",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 50.7259985,
+    "Longitude": 1.6118771
+  },
+  {
+    "Name": "Bournemouth",
+    "Alternative_Names": "",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 50.7201514,
+    "Longitude": -1.8799118
+  },
+  {
+    "Name": "Brighton",
+    "Alternative_Names": "",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 50.8214626,
+    "Longitude": -0.1400561
+  },
+  {
+    "Name": "Brijuni Islands",
+    "Alternative_Names": "Brioni",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 44.9076113,
+    "Longitude": 13.7731544
+  },
+  {
+    "Name": "Brusno",
+    "Alternative_Names": "Brusznó, Borosznó",
+    "Type": "Mineral Spa (Cold)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 48.8053349,
+    "Longitude": 19.6409612
+  },
+  {
+    "Name": "Budapest",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 47.4978789,
+    "Longitude": 19.0402383
+  },
+  {
+    "Name": "Burgas",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Hot), Seaside Resort, Mineral Spa (Cold)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 42.4936616,
+    "Longitude": 27.4721276
+  },
+  {
+    "Name": "Burtscheid",
+    "Alternative_Names": "Borcette",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 49.732051,
+    "Longitude": 6.9574283
+  },
+  {
+    "Name": "Busko-Zdrój",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Cold)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 50.46759,
+    "Longitude": 20.71919
+  },
+  {
+    "Name": "Büsum",
+    "Alternative_Names": "",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 54.1298489,
+    "Longitude": 8.8586989
+  },
+  {
+    "Name": "Buxton",
+    "Alternative_Names": "Aquae Arnemetiae",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 53.2593422,
+    "Longitude": -1.9100768
+  },
+  {
+    "Name": "Buziaș",
+    "Alternative_Names": "Bad Busiasch, Buziás, Buziásfürdő, Бузјаш, Buzjaš, Baile Buziaș, Centum Putei",
+    "Type": "Mineral Spa (Cold)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 45.64921,
+    "Longitude": 21.6042462
+  },
+  {
+    "Name": "Cadenabbia",
+    "Alternative_Names": "",
+    "Type": "Climatic Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 45.9912752,
+    "Longitude": 9.2370248
+  },
+  {
+    "Name": "Cahul",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Cold)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 45.9137395,
+    "Longitude": 28.2378724
+  },
+  {
+    "Name": "Caldas da Rainha",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 39.4071857,
+    "Longitude": -9.1346004
+  },
+  {
+    "Name": "Caldes d'Estrac",
+    "Alternative_Names": "Caldetas, Aquae Calidae",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 41.5719788,
+    "Longitude": 2.5277607
+  },
+  {
+    "Name": "Caldes de Boí",
+    "Alternative_Names": "Caldas de Bohí",
+    "Type": "Mineral Spa (Hot), Mineral Spa (Cold)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 42.5220588,
+    "Longitude": 0.8350645
+  },
+  {
+    "Name": "Caldes de Montbui",
+    "Alternative_Names": "Caldas de Montbuy",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 41.632265,
+    "Longitude": 2.1676442
+  },
+  {
+    "Name": "Cambo-les-Bains",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 43.3609139,
+    "Longitude": -1.3994687
+  },
+  {
+    "Name": "Cannes",
+    "Alternative_Names": "Canas",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 43.5515198,
+    "Longitude": 7.0134418
+  },
+  {
+    "Name": "Cap Martin",
+    "Alternative_Names": "",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 43.7641047,
+    "Longitude": 7.4565697
+  },
+  {
+    "Name": "Capvern-les-Bains",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Cold)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 43.1023576,
+    "Longitude": 0.316218
+  },
+  {
+    "Name": "Carlsbad",
+    "Alternative_Names": "Karlsbad, Karlovy Vary",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 50.2306216,
+    "Longitude": 12.8701437
+  },
+  {
+    "Name": "Carratraca",
+    "Alternative_Names": "Karr-al-krak",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 36.8539382,
+    "Longitude": -4.8209062
+  },
+  {
+    "Name": "Castrocaro Terme",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 44.182365,
+    "Longitude": 11.955631
+  },
+  {
+    "Name": "Cauterets",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 42.8893451,
+    "Longitude": -0.114546
+  },
+  {
+    "Name": "Châtel-Guyon",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 45.9205,
+    "Longitude": 3.06111
+  },
+  {
+    "Name": "Chaudfontaine",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 50.5847922,
+    "Longitude": 5.6469688
+  },
+  {
+    "Name": "Cheltenham",
+    "Alternative_Names": "",
+    "Type": "",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 51.8995685,
+    "Longitude": -2.0711559
+  },
+  {
+    "Name": "Cherche",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Cold), Climatic Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 49.4014009,
+    "Longitude": 24.6177768
+  },
+  {
+    "Name": "Chianciano Terme",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 43.0582549,
+    "Longitude": 11.8284293
+  },
+  {
+    "Name": "Chizh",
+    "Alternative_Names": "Číž, Csíz, Číž-kúpele",
+    "Type": "Mineral Spa (Cold)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 48.31362891903478,
+    "Longitude": 20.28042715832509
+  },
+  {
+    "Name": "Ciechocinek",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Cold)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 52.8839413,
+    "Longitude": 18.8032683
+  },
+  {
+    "Name": "Cieplice Ślaskie-Zdrój",
+    "Alternative_Names": "Bad Warmbrunn",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 50.8652778,
+    "Longitude": 15.6775
+  },
+  {
+    "Name": "Cleethorpes",
+    "Alternative_Names": "",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 53.5572068,
+    "Longitude": -0.0289969
+  },
+  {
+    "Name": "Constanța",
+    "Alternative_Names": "Κωνστάντζα, Кюстенджа, Köstence, Custantsa, Tomis, Τόμις",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 44.1767161,
+    "Longitude": 28.6507598
+  },
+  {
+    "Name": "Contrexéville",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Cold)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 48.180496,
+    "Longitude": 5.8946281
+  },
+  {
+    "Name": "Cortina d'Ampezzo",
+    "Alternative_Names": "",
+    "Type": "Climatic Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 46.5383332,
+    "Longitude": 12.1373506
+  },
+  {
+    "Name": "Craiglockhart",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Cold)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 55.9202844,
+    "Longitude": -3.2428436
+  },
+  {
+    "Name": "Crieff",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Cold)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 56.372717,
+    "Longitude": -3.8397453
+  },
+  {
+    "Name": "Cromer",
+    "Alternative_Names": "",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 52.9311367,
+    "Longitude": 1.3012758
+  },
+  {
+    "Name": "Cuxhaven",
+    "Alternative_Names": "",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 53.86878,
+    "Longitude": 8.698286
+  },
+  {
+    "Name": "Daruvar",
+    "Alternative_Names": "Acquae Balissae",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 45.5928272,
+    "Longitude": 17.2237617
+  },
+  {
+    "Name": "Davos",
+    "Alternative_Names": "",
+    "Type": "Climatic Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 46.796198,
+    "Longitude": 9.8236892
+  },
+  {
+    "Name": "Dax",
+    "Alternative_Names": "Aquae Tarbellicae",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 43.7084065,
+    "Longitude": -1.0518771
+  },
+  {
+    "Name": "De Haan",
+    "Alternative_Names": "Le Coq, Le Coq-sur-Mer",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 51.2671194,
+    "Longitude": 3.0408427
+  },
+  {
+    "Name": "De Panne",
+    "Alternative_Names": "La Panne",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 51.0799951,
+    "Longitude": 2.5929082
+  },
+  {
+    "Name": "Deal",
+    "Alternative_Names": "",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 51.2239544,
+    "Longitude": 1.4027344
+  },
+  {
+    "Name": "Děčín",
+    "Alternative_Names": "Decin, Tetschen, Tetschen–Bodenbach",
+    "Type": "Mineral Spa (Cold)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 50.7824196,
+    "Longitude": 14.2147221
+  },
+  {
+    "Name": "Dieppe",
+    "Alternative_Names": "",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 49.9246182,
+    "Longitude": 1.0791444
+  },
+  {
+    "Name": "Długopole-Zdrój",
+    "Alternative_Names": "Bad Nieder Langenau, Niederlangenau, Dlugopole",
+    "Type": "Mineral Spa (Cold)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 50.2457746,
+    "Longitude": 16.6308336
+  },
+  {
+    "Name": "Domburg",
+    "Alternative_Names": "",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 51.5632141,
+    "Longitude": 3.4967277
+  },
+  {
+    "Name": "Dover",
+    "Alternative_Names": "",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 51.1251275,
+    "Longitude": 1.3134228
+  },
+  {
+    "Name": "Dudince",
+    "Alternative_Names": "Gyügy",
+    "Type": "Mineral Spa (Hot), Mineral Spa (Cold)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 48.1691898,
+    "Longitude": 18.8823161
+  },
+  {
+    "Name": "Dunblane",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Cold)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 56.1883108,
+    "Longitude": -3.9640877
+  },
+  {
+    "Name": "Dunoon",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Cold), Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 55.9481104,
+    "Longitude": -4.9244868
+  },
+  {
+    "Name": "East Cowes",
+    "Alternative_Names": "",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 50.7594841,
+    "Longitude": -1.2852106
+  },
+  {
+    "Name": "Eastbourne",
+    "Alternative_Names": "",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 50.7664372,
+    "Longitude": 0.2781546
+  },
+  {
+    "Name": "Eaux-Bonnes",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Hot), Mineral Spa (Cold), Climatic Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 42.9728589,
+    "Longitude": -0.3927499
+  },
+  {
+    "Name": "Eaux-Chaudes",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 42.7335498,
+    "Longitude": 2.0998263
+  },
+  {
+    "Name": "Eforie Nord",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Hot), Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 44.0278741,
+    "Longitude": 28.650451
+  },
+  {
+    "Name": "Enghien-les-Bains",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 48.9699732,
+    "Longitude": 2.3068482
+  },
+  {
+    "Name": "Estoril",
+    "Alternative_Names": "",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 38.7095707,
+    "Longitude": -9.3901368
+  },
+  {
+    "Name": "Eugénie-les-Bains",
+    "Alternative_Names": "Las Aigas",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 43.6974341,
+    "Longitude": -0.3797706
+  },
+  {
+    "Name": "Èvian-les-Bains",
+    "Alternative_Names": "Aquianum, Vian, Les Vians, and Évians",
+    "Type": "Mineral Spa (Cold)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 46.400979,
+    "Longitude": 6.5897931
+  },
+  {
+    "Name": "Fanø Bad",
+    "Alternative_Names": "",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 55.4453884,
+    "Longitude": 8.3961159
+  },
+  {
+    "Name": "Feodosiya",
+    "Alternative_Names": "Kefe, Theodosia",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 45.033669,
+    "Longitude": 35.3753628
+  },
+  {
+    "Name": "Flims",
+    "Alternative_Names": "",
+    "Type": "Climatic Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 46.8332439,
+    "Longitude": 9.2834557
+  },
+  {
+    "Name": "Folkestone",
+    "Alternative_Names": "",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 51.0791335,
+    "Longitude": 1.1794073
+  },
+  {
+    "Name": "Forres",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Cold)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 57.609864,
+    "Longitude": -3.613215
+  },
+  {
+    "Name": "Forte dei Marmi",
+    "Alternative_Names": "",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 43.9595891,
+    "Longitude": 10.1699392
+  },
+  {
+    "Name": "Frantiskovy Lazne",
+    "Alternative_Names": "Franzensbad",
+    "Type": "Mineral Spa (Cold)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 50.1223741,
+    "Longitude": 12.3488519
+  },
+  {
+    "Name": "Fratta Terme",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 44.1438029,
+    "Longitude": 12.1015912
+  },
+  {
+    "Name": "Funchal",
+    "Alternative_Names": "",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 32.6496497,
+    "Longitude": -16.9086783
+  },
+  {
+    "Name": "Gaspra",
+    "Alternative_Names": "Га́спрa, Га́спрa",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 44.4306924,
+    "Longitude": 34.1051589
+  },
+  {
+    "Name": "Genua",
+    "Alternative_Names": "Genova",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 44.40726,
+    "Longitude": 8.9338624
+  },
+  {
+    "Name": "Gersau",
+    "Alternative_Names": "",
+    "Type": "Climatic Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 46.9923,
+    "Longitude": 8.5264727
+  },
+  {
+    "Name": "Głębokie",
+    "Alternative_Names": "Glemboka, Gleboka",
+    "Type": "Mineral Spa (Cold)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 49.4406462,
+    "Longitude": 20.7142303
+  },
+  {
+    "Name": "Glücksburg",
+    "Alternative_Names": "",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 54.8454449,
+    "Longitude": 9.5620334
+  },
+  {
+    "Name": "Grasse",
+    "Alternative_Names": "",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 43.6589011,
+    "Longitude": 6.9239103
+  },
+  {
+    "Name": "Gurzuf",
+    "Alternative_Names": "Hurzuf, Γορζουβίται, Гурзуф",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 44.5479215,
+    "Longitude": 34.2736976
+  },
+  {
+    "Name": "Haarlem",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Cold)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 52.3885317,
+    "Longitude": 4.6388048
+  },
+  {
+    "Name": "Harrogate",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 53.9921491,
+    "Longitude": -1.5391039
+  },
+  {
+    "Name": "Heiligendamm",
+    "Alternative_Names": "",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 54.1423664,
+    "Longitude": 11.842199
+  },
+  {
+    "Name": "Heist-aan-Zee",
+    "Alternative_Names": "Heyst",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 51.3374355,
+    "Longitude": 3.2399794
+  },
+  {
+    "Name": "Helgoland",
+    "Alternative_Names": "",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 54.1820608,
+    "Longitude": 7.8876314
+  },
+  {
+    "Name": "Hendaye",
+    "Alternative_Names": "Hendaia",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 43.3641518,
+    "Longitude": -1.7616499
+  },
+  {
+    "Name": "Heringsdorf",
+    "Alternative_Names": "",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 53.9491799,
+    "Longitude": 14.1708237
+  },
+  {
+    "Name": "Hvar",
+    "Alternative_Names": "Lesina",
+    "Type": "Seaside Resort, Climatic Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 43.1739411,
+    "Longitude": 16.5565161
+  },
+  {
+    "Name": "Hyères",
+    "Alternative_Names": "Leras, Hyères-les-Palmiers",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 43.1202573,
+    "Longitude": 6.1301614
+  },
+  {
+    "Name": "Ilidža",
+    "Alternative_Names": "Aquae Sulphurae, Banja Ilidža, Bad Ilidža",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 43.8306182,
+    "Longitude": 18.3077357
+  },
+  {
+    "Name": "Istarske Toplice",
+    "Alternative_Names": "Terme Santo Stefano",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 45.3778685,
+    "Longitude": 13.8831818
+  },
+  {
+    "Name": "Iwonicz-Zdroj",
+    "Alternative_Names": "Іво́нич-Здруй",
+    "Type": "Climatic Resort, Mineral Spa (Cold)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 49.5696688,
+    "Longitude": 21.7932328
+  },
+  {
+    "Name": "Jáchymov",
+    "Alternative_Names": "Sankt Joachimsthal",
+    "Type": "Other",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 50.3629787,
+    "Longitude": 12.9299257
+  },
+  {
+    "Name": "Jaraba",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 41.1901172,
+    "Longitude": -1.8840541
+  },
+  {
+    "Name": "Juan-les-Pins",
+    "Alternative_Names": "",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 43.5676357,
+    "Longitude": 7.1141716
+  },
+  {
+    "Name": "Kaltenleutgeben",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Cold)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 48.117198,
+    "Longitude": 16.200044
+  },
+  {
+    "Name": "Karlshagen",
+    "Alternative_Names": "Carlshagen",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 54.1166965,
+    "Longitude": 13.8291312
+  },
+  {
+    "Name": "Katwijk",
+    "Alternative_Names": "Katwyk, Katwijk aan Zee",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 52.2048978,
+    "Longitude": 4.3965975
+  },
+  {
     "Name": "Khmilnyk",
     "Alternative_Names": "Хмільник, Хмельник, Chmielnik",
-    "Type": "E: Other",
+    "Type": "Other",
     "List_Availability": "",
     "Progress": "",
     "Link": "",
@@ -4050,9 +2050,479 @@
     "Longitude": 27.95754051
   },
   {
+    "Name": "Kiseljak",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Cold)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 43.9431668,
+    "Longitude": 18.0774711
+  },
+  {
+    "Name": "Kislovodsk",
+    "Alternative_Names": "Кисловодск",
+    "Type": "Mineral Spa (Cold)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 43.9055311,
+    "Longitude": 42.7157283
+  },
+  {
+    "Name": "Klampenborg",
+    "Alternative_Names": "",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 55.6867243,
+    "Longitude": 12.5700724
+  },
+  {
+    "Name": "Klosters",
+    "Alternative_Names": "",
+    "Type": "Climatic Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 46.8703868,
+    "Longitude": 9.8825627
+  },
+  {
+    "Name": "Knokke",
+    "Alternative_Names": "Knocke",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 51.3433866,
+    "Longitude": 3.2884738
+  },
+  {
+    "Name": "Kołobrzeg",
+    "Alternative_Names": "",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 54.1759614,
+    "Longitude": 15.5764209
+  },
+  {
+    "Name": "Konstancin-Jeziorna",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Cold)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 52.0834787,
+    "Longitude": 21.1208073
+  },
+  {
+    "Name": "Korytnica",
+    "Alternative_Names": "Korytnicza, Korytnica-kúpele",
+    "Type": "Mineral Spa (Cold)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 48.8896159,
+    "Longitude": 19.2846583
+  },
+  {
+    "Name": "Koserow",
+    "Alternative_Names": "",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 54.0510368,
+    "Longitude": 13.9990573
+  },
+  {
+    "Name": "Kovacova",
+    "Alternative_Names": "Kováčová, Kovácsfalva",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 48.5782517,
+    "Longitude": 19.1247135
+  },
+  {
+    "Name": "Krapinske Toplice",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 46.0921849,
+    "Longitude": 15.8376747
+  },
+  {
+    "Name": "Krynica-Zdrój",
+    "Alternative_Names": "Krynica, Krynicza",
+    "Type": "Mineral Spa (Cold)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 49.4206138,
+    "Longitude": 20.9594176
+  },
+  {
+    "Name": "Kúpele Piešťany",
+    "Alternative_Names": "Bad Pistyan,Pistian,Püschtin,Pöstyény",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 48.5895247,
+    "Longitude": 17.8213848
+  },
+  {
+    "Name": "Kuyalnik",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Cold), Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 46.562439,
+    "Longitude": 30.731236
+  },
+  {
+    "Name": "Kyrylivka",
+    "Alternative_Names": "Кирилівка",
+    "Type": "Climatic Resort, Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 46.3717985,
+    "Longitude": 35.3696143
+  },
+  {
+    "Name": "Kyustendil",
+    "Alternative_Names": "Ulpia Pautalia, Велбъжд, Velbazhd, Кюстендил",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 42.3349428,
+    "Longitude": 22.8884116
+  },
+  {
+    "Name": "La Bourboule",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 45.5892481,
+    "Longitude": 2.7401614
+  },
+  {
+    "Name": "La Orotava",
+    "Alternative_Names": "",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 28.3898829,
+    "Longitude": -16.5235692
+  },
+  {
+    "Name": "La Spezia",
+    "Alternative_Names": "",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 44.238366,
+    "Longitude": 9.6912326
+  },
+  {
+    "Name": "Laboe",
+    "Alternative_Names": "",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 54.4022528,
+    "Longitude": 10.2256616
+  },
+  {
+    "Name": "Lacaune-les-Bains",
+    "Alternative_Names": "",
+    "Type": "",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 43.7069971,
+    "Longitude": 2.6908815
+  },
+  {
+    "Name": "Lądek-Zdrój",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 50.3458254,
+    "Longitude": 16.8725948
+  },
+  {
+    "Name": "Langeoog",
+    "Alternative_Names": "",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 53.7408705,
+    "Longitude": 7.4859169
+  },
+  {
+    "Name": "Las Caldas Villa Termal",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 43.3321488,
+    "Longitude": -5.9256166
+  },
+  {
+    "Name": "Lázně Kyselka",
+    "Alternative_Names": "Kyselka Spa, Gießhübl-Sauerbrunn, Kysibl",
+    "Type": "Mineral Spa (Cold)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 50.2588112,
+    "Longitude": 13.0002774
+  },
+  {
+    "Name": "Le Boulou",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Cold)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 42.5259989,
+    "Longitude": 2.8337158
+  },
+  {
+    "Name": "Le Touquet",
+    "Alternative_Names": "Le Touquet Paris-Plage",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 50.5200083,
+    "Longitude": 1.5864532
+  },
+  {
+    "Name": "Leamington Spa",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Cold)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 52.2913394,
+    "Longitude": -1.536404
+  },
+  {
+    "Name": "Leukerbad",
+    "Alternative_Names": "Loèche-les-Bains, Leiggerbad",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 46.3793158,
+    "Longitude": 7.6267416
+  },
+  {
+    "Name": "Levočské kúpele",
+    "Alternative_Names": "Baldócz fürdo",
+    "Type": "Mineral Spa (Cold)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 49.025087,
+    "Longitude": 20.5887098
+  },
+  {
+    "Name": "Lipik",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 45.4134223,
+    "Longitude": 17.1634285
+  },
+  {
+    "Name": "Liptovsky Jan",
+    "Alternative_Names": "Liptovský Ján, St. Johann, Szentiván",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 49.0371787,
+    "Longitude": 19.7217331
+  },
+  {
+    "Name": "Livadiya",
+    "Alternative_Names": "Livadia, Ливадия",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 44.46648,
+    "Longitude": 34.14104
+  },
+  {
+    "Name": "Lourdes",
+    "Alternative_Names": "",
+    "Type": "Other",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 43.0940904,
+    "Longitude": -0.0464975
+  },
+  {
+    "Name": "Loutraki",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 37.9743673,
+    "Longitude": 22.9777228
+  },
+  {
+    "Name": "Ľubické Kúpele",
+    "Alternative_Names": "Ľubica, Leibitz, Leibic",
+    "Type": "Mineral Spa (Cold)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 49.1195968,
+    "Longitude": 20.4475831
+  },
+  {
+    "Name": "Lubochna",
+    "Alternative_Names": "Ľubochňa, Fenyőháza",
+    "Type": "Climatic Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 49.1200064,
+    "Longitude": 19.1675231
+  },
+  {
+    "Name": "Lucivna",
+    "Alternative_Names": "Lučivná, Lautschburg, Leutschburg, Lucsivna",
+    "Type": "Climatic Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 49.0582357,
+    "Longitude": 20.1965291
+  },
+  {
+    "Name": "Lúčky",
+    "Alternative_Names": "Lucski",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 49.122222,
+    "Longitude": 19.408333
+  },
+  {
+    "Name": "Luxeuil-les-Bains",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 47.817177,
+    "Longitude": 6.3808865
+  },
+  {
+    "Name": "Luz Saint Sauveur",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 42.8721142,
+    "Longitude": -0.0043418
+  },
+  {
+    "Name": "Málaga",
+    "Alternative_Names": "",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 36.7213028,
+    "Longitude": -4.4216366
+  },
+  {
+    "Name": "Malvern",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 52.1109798,
+    "Longitude": -2.3285836
+  },
+  {
+    "Name": "Mangalia",
+    "Alternative_Names": "",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 43.8150793,
+    "Longitude": 28.5830306
+  },
+  {
+    "Name": "Margate",
+    "Alternative_Names": "",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 51.3878174,
+    "Longitude": 1.3819699
+  },
+  {
+    "Name": "Marianske Lazne",
+    "Alternative_Names": "Marienbad",
+    "Type": "Mineral Spa (Cold)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 49.9739518,
+    "Longitude": 12.703319
+  },
+  {
+    "Name": "Marielyst",
+    "Alternative_Names": "",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 54.7646137,
+    "Longitude": 11.8709918
+  },
+  {
     "Name": "Martsialnye Vody",
     "Alternative_Names": "Марциальные Воды",
-    "Type": "B: Mineral Spa / Cold Springs",
+    "Type": "Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
     "Link": "",
@@ -4060,9 +2530,159 @@
     "Longitude": 33.8977
   },
   {
+    "Name": "Menton",
+    "Alternative_Names": "",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 43.7753495,
+    "Longitude": 7.5029213
+  },
+  {
+    "Name": "Merano",
+    "Alternative_Names": "Meran, Maran, Meranum, Mairania",
+    "Type": "Climatic Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 46.6713536,
+    "Longitude": 11.1646348
+  },
+  {
+    "Name": "Misdroy",
+    "Alternative_Names": "Miedzyzdroje, Misdroige",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 53.9282745,
+    "Longitude": 14.448903
+  },
+  {
+    "Name": "Mitterbad",
+    "Alternative_Names": "Bagni di Mezzo",
+    "Type": "Mineral Spa (Cold)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 46.5940644,
+    "Longitude": 11.0927595
+  },
+  {
+    "Name": "Modum",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Cold)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 60.0105117,
+    "Longitude": 10.0191632
+  },
+  {
+    "Name": "Moffat",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Cold)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 55.3332407,
+    "Longitude": -3.444357
+  },
+  {
+    "Name": "Molitg-les-Bains",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 42.6524451,
+    "Longitude": 2.3880537
+  },
+  {
+    "Name": "Mondariz-Balnerio",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 42.2194134,
+    "Longitude": -8.4713577
+  },
+  {
+    "Name": "Mondorf-les-Bains",
+    "Alternative_Names": "Mondorf-Altwies, Bad Mondorf, Munneref, Mondorff",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 49.5071747,
+    "Longitude": 6.2814238
+  },
+  {
+    "Name": "Mont-Dore",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Hot), Climatic Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 45.5749966,
+    "Longitude": 2.8094117
+  },
+  {
+    "Name": "Montana",
+    "Alternative_Names": "Crans-Montana",
+    "Type": "Climatic Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 46.3125537,
+    "Longitude": 7.4823938
+  },
+  {
+    "Name": "Monte Carlo",
+    "Alternative_Names": "",
+    "Type": "Seaside Resort, Climatic Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 43.7323492,
+    "Longitude": 7.4276832
+  },
+  {
+    "Name": "Montecatini Terme",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Hot), Mineral Spa (Cold)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 43.883179,
+    "Longitude": 10.7709533
+  },
+  {
+    "Name": "Montegrotto Terme",
+    "Alternative_Names": "Mons Aegrotorum, San Pietro Montagnon",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 45.331491,
+    "Longitude": 11.791208
+  },
+  {
+    "Name": "Montreux",
+    "Alternative_Names": "",
+    "Type": "Climatic Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 46.4310831,
+    "Longitude": 6.9129921
+  },
+  {
     "Name": "Morshyn",
     "Alternative_Names": "Моршин, Morszyn-Zdrój",
-    "Type": "B: Mineral Spa / Cold Springs",
+    "Type": "Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
     "Link": "",
@@ -4070,9 +2690,849 @@
     "Longitude": 23.87232018
   },
   {
+    "Name": "Moss",
+    "Alternative_Names": "",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 59.4146675,
+    "Longitude": 10.6596578
+  },
+  {
+    "Name": "Myrhorod",
+    "Alternative_Names": "Ми́ргород, Mirgorod, Ми́ргород",
+    "Type": "Mineral Spa (Cold)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 49.9568658,
+    "Longitude": 33.6153865
+  },
+  {
+    "Name": "Nałęczów",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Cold)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 51.2876064,
+    "Longitude": 22.214792
+  },
+  {
+    "Name": "Nemyriw",
+    "Alternative_Names": "Немирів, Nemirow, Niemirów, Niemerow, Niemirow",
+    "Type": "Mineral Spa (Cold)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 48.9654035,
+    "Longitude": 28.8430131
+  },
+  {
+    "Name": "Nesebar",
+    "Alternative_Names": "Nessebar, Nesebur, Несебър",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 42.6607865,
+    "Longitude": 27.7167464
+  },
+  {
+    "Name": "Nice",
+    "Alternative_Names": "Nizza",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 43.7009358,
+    "Longitude": 7.2683912
+  },
+  {
+    "Name": "Nieuwpoort",
+    "Alternative_Names": "Nieuport-les-Bains, Nieuport",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 51.1294306,
+    "Longitude": 2.751666
+  },
+  {
+    "Name": "Nimnica",
+    "Alternative_Names": "Nimnicz",
+    "Type": "Mineral Spa (Cold)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 49.123928,
+    "Longitude": 18.3239559
+  },
+  {
+    "Name": "Norderney",
+    "Alternative_Names": "",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 53.7056126,
+    "Longitude": 7.1438175
+  },
+  {
+    "Name": "Nový Smokovec",
+    "Alternative_Names": "Neuschmecks, Újtátrafüred",
+    "Type": "Climatic Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 49.1342458,
+    "Longitude": 20.2105004
+  },
+  {
+    "Name": "Odessa",
+    "Alternative_Names": "",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 46.4843023,
+    "Longitude": 30.7322878
+  },
+  {
+    "Name": "Olovo",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 44.1269033,
+    "Longitude": 18.580233
+  },
+  {
+    "Name": "Opatija",
+    "Alternative_Names": "Abbazia, Sankt Jakobi",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 45.3349238,
+    "Longitude": 14.3067834
+  },
+  {
+    "Name": "Ornolac-Ussat-les-Bains",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 42.8199863,
+    "Longitude": 1.6314458
+  },
+  {
+    "Name": "Ostende",
+    "Alternative_Names": "Oostende, Ostend",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 51.2258565,
+    "Longitude": 2.919496
+  },
+  {
+    "Name": "Oviedo",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 43.3618625,
+    "Longitude": -5.8483581
+  },
+  {
+    "Name": "Palma",
+    "Alternative_Names": "Palma de Mallorca, Medina Mayurqa",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 39.5812525,
+    "Longitude": 2.7092683
+  },
+  {
+    "Name": "Parque Termal do Peso",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 42.1130412,
+    "Longitude": -8.2593422
+  },
+  {
+    "Name": "Pechina",
+    "Alternative_Names": "Bajjāna",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 36.916512,
+    "Longitude": -2.4402474
+  },
+  {
+    "Name": "Peebles",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Cold)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 55.6517553,
+    "Longitude": -3.1885456
+  },
+  {
+    "Name": "Pisarovina",
+    "Alternative_Names": "Jamnička Keselica",
+    "Type": "Mineral Spa (Cold)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 45.5854674,
+    "Longitude": 15.860017
+  },
+  {
+    "Name": "Pitlochry",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Cold)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 56.701969,
+    "Longitude": -3.7306846
+  },
+  {
+    "Name": "Plombières-les-Bains",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 47.9641254,
+    "Longitude": 6.4564439
+  },
+  {
+    "Name": "Preste-les-Bains",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 42.4025997,
+    "Longitude": 2.481412
+  },
+  {
+    "Name": "Pula",
+    "Alternative_Names": "Pola",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 44.8702281,
+    "Longitude": 13.8455311
+  },
+  {
+    "Name": "Pyatigorsk",
+    "Alternative_Names": "Pjatigorsk, Пятиго́рск, Goriatchevodsk",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 44.0375437,
+    "Longitude": 43.0363667
+  },
+  {
+    "Name": "Pyrmont",
+    "Alternative_Names": "Bad Pyrmont",
+    "Type": "",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 51.9850503,
+    "Longitude": 9.2434635
+  },
+  {
+    "Name": "Rajecké Teplice",
+    "Alternative_Names": "Bad Rajetz, Rajecfürdő",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 49.0886262,
+    "Longitude": 18.6352209
+  },
+  {
+    "Name": "Ramlösa",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Cold)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 56.0236621,
+    "Longitude": 12.7277133
+  },
+  {
+    "Name": "Ramsgate",
+    "Alternative_Names": "",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 51.3334726,
+    "Longitude": 1.4196476
+  },
+  {
+    "Name": "Rapallo",
+    "Alternative_Names": "",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 44.3511473,
+    "Longitude": 9.229671
+  },
+  {
+    "Name": "Recaore Terme",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 45.7051709,
+    "Longitude": 11.2249347
+  },
+  {
+    "Name": "Reichenau an der Rax",
+    "Alternative_Names": "",
+    "Type": "Climatic Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 47.6975452,
+    "Longitude": 15.838266
+  },
+  {
+    "Name": "Rennes-les-Bains",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 42.9213749,
+    "Longitude": 2.3206938
+  },
+  {
+    "Name": "Rigi Kaltbad",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Cold), Climatic Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 47.0322545,
+    "Longitude": 8.4346408
+  },
+  {
+    "Name": "Rimske Toplice",
+    "Alternative_Names": "Toplica, Toplitz",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 46.123666,
+    "Longitude": 15.203051
+  },
+  {
+    "Name": "Riva del Garda",
+    "Alternative_Names": "Reiff am Gartsee",
+    "Type": "Mineral Spa (Cold)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 45.8847708,
+    "Longitude": 10.8396942
+  },
+  {
+    "Name": "Rothesay",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Cold)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 55.8373085,
+    "Longitude": -5.0522439
+  },
+  {
+    "Name": "Royan",
+    "Alternative_Names": "",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 45.6245332,
+    "Longitude": -1.0287636
+  },
+  {
+    "Name": "Royat",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 45.7643631,
+    "Longitude": 3.0477919
+  },
+  {
+    "Name": "Ružbachy-kúpele",
+    "Alternative_Names": "Oberrauschenbach, Felsőzúgó",
+    "Type": "Mineral Spa (Hot), Climatic Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 49.3042641,
+    "Longitude": 20.5648591
+  },
+  {
+    "Name": "Rymanów-Zdrój",
+    "Alternative_Names": "Риманів-Здрій",
+    "Type": "Mineral Spa (Cold)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 49.54975,
+    "Longitude": 21.85129
+  },
+  {
+    "Name": "Saint Aubin-sur-Mer",
+    "Alternative_Names": "",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 49.8889942,
+    "Longitude": 0.8768462
+  },
+  {
+    "Name": "Saint-Lary-Soulan",
+    "Alternative_Names": "",
+    "Type": "",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 42.816936,
+    "Longitude": 0.3219538
+  },
+  {
+    "Name": "Saky",
+    "Alternative_Names": "Saki, Саки",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 45.1319466,
+    "Longitude": 33.6001281
+  },
+  {
+    "Name": "Salie-de-Béarn",
+    "Alternative_Names": "",
+    "Type": "",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 43.4703515,
+    "Longitude": -0.9234025
+  },
+  {
+    "Name": "Salies-du-Salat",
+    "Alternative_Names": "",
+    "Type": "",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 43.1017772,
+    "Longitude": 0.9581831
+  },
+  {
+    "Name": "Salsomaggiore Terme",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 44.814762,
+    "Longitude": 9.979576
+  },
+  {
+    "Name": "San Pellegrino Terme",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 45.8386307,
+    "Longitude": 9.6647313
+  },
+  {
+    "Name": "San Sebastian",
+    "Alternative_Names": "",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 43.3224219,
+    "Longitude": -1.9838889
+  },
+  {
+    "Name": "Sandefjord",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Cold), Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 59.0799004,
+    "Longitude": 10.2804322
+  },
+  {
+    "Name": "Sanlucar de Barrameda",
+    "Alternative_Names": "",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 36.7761393,
+    "Longitude": -6.3534794
+  },
+  {
+    "Name": "Sanremo",
+    "Alternative_Names": "San Remo, Sanrémmo, Sanreumo",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 43.8198253,
+    "Longitude": 7.7748827
+  },
+  {
+    "Name": "Santander",
+    "Alternative_Names": "",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 43.4618932,
+    "Longitude": -3.8100255
+  },
+  {
+    "Name": "Sassetot-le-Mauconduit",
+    "Alternative_Names": "",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 49.8023407,
+    "Longitude": 0.5297357
+  },
+  {
+    "Name": "Scheveningen",
+    "Alternative_Names": "",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 52.1067449,
+    "Longitude": 4.2736937
+  },
+  {
+    "Name": "Schlangenbad",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Cold), Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 50.09487,
+    "Longitude": 8.04375
+  },
+  {
+    "Name": "Schwäbisch Hall",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Cold)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 49.1123963,
+    "Longitude": 9.7369047
+  },
+  {
+    "Name": "Scuol-Tarasp",
+    "Alternative_Names": "Tarasp",
+    "Type": "Mineral Spa (Cold), Climatic Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 46.7976371,
+    "Longitude": 10.2996234
+  },
+  {
+    "Name": "Semmering",
+    "Alternative_Names": "",
+    "Type": "Climatic Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 47.6377254,
+    "Longitude": 15.8072348
+  },
+  {
+    "Name": "Serhiivka",
+    "Alternative_Names": "",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 46.02756,
+    "Longitude": 30.37273
+  },
+  {
+    "Name": "Sète",
+    "Alternative_Names": "",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 43.4014434,
+    "Longitude": 3.6959771
+  },
+  {
+    "Name": "Silkeborg",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Cold)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 56.169453,
+    "Longitude": 9.5495141
+  },
+  {
+    "Name": "Sils Maria",
+    "Alternative_Names": "Sils im Engadin",
+    "Type": "Climatic Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 46.4291565,
+    "Longitude": 9.7637877
+  },
+  {
+    "Name": "Skadovsk",
+    "Alternative_Names": "Скадовськ",
+    "Type": "Climatic Resort, Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 46.1203932,
+    "Longitude": 32.910339
+  },
+  {
+    "Name": "Skhidnytsia",
+    "Alternative_Names": "Схі́дниця",
+    "Type": "Mineral Spa (Cold)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 49.2380556,
+    "Longitude": 23.3610092
+  },
+  {
+    "Name": "Sklené Teplice",
+    "Alternative_Names": "Sklenô, Glashütte, Glaserhey, Szklenófürdó, Barsszklenó, Szklenó",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 48.5272532,
+    "Longitude": 18.8637828
+  },
+  {
+    "Name": "Slanic Moldova",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Cold)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 46.2066318,
+    "Longitude": 26.438397
+  },
+  {
+    "Name": "Sliač",
+    "Alternative_Names": "Szliács, Szliácsfürdő",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 48.6131806,
+    "Longitude": 19.1423663
+  },
+  {
+    "Name": "Smrdáky",
+    "Alternative_Names": "Büdöskő, Szmrdák",
+    "Type": "Mineral Spa (Cold)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 48.7219541,
+    "Longitude": 17.3027341
+  },
+  {
+    "Name": "Sochi",
+    "Alternative_Names": "Со́чи",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 43.5854823,
+    "Longitude": 39.723109
+  },
+  {
+    "Name": "Sokobanja",
+    "Alternative_Names": "Soko Banja, Сокобања",
+    "Type": "Mineral Spa (Hot), Climatic Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 43.8238015,
+    "Longitude": 18.3620805
+  },
+  {
+    "Name": "Sokołowsko",
+    "Alternative_Names": "Görbersdorf",
+    "Type": "Climatic Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 50.6852363,
+    "Longitude": 16.2333222
+  },
+  {
+    "Name": "Solbad Wittekind",
+    "Alternative_Names": "Solbad Wittekind",
+    "Type": "Mineral Spa (Cold)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 51.4824354,
+    "Longitude": 11.9712985
+  },
+  {
+    "Name": "Solca",
+    "Alternative_Names": "Solka Szolka",
+    "Type": "Mineral Spa (Cold), Climatic Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 47.699949,
+    "Longitude": 25.8373688
+  },
+  {
+    "Name": "Sorrent",
+    "Alternative_Names": "Sorrento",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 40.624906,
+    "Longitude": 14.374836
+  },
+  {
+    "Name": "Sovata",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 46.5971683,
+    "Longitude": 25.07328
+  },
+  {
+    "Name": "Sozopol",
+    "Alternative_Names": "Созопол, Σωζόπολη, Sozopoli",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 42.4181556,
+    "Longitude": 27.6943124
+  },
+  {
+    "Name": "Spa",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Cold)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 50.4920654,
+    "Longitude": 5.8627569
+  },
+  {
+    "Name": "St. Moritz",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 46.4978958,
+    "Longitude": 9.8392428
+  },
+  {
+    "Name": "Starý Smokovec",
+    "Alternative_Names": "Altschmecks, Ótátrafüred",
+    "Type": "Mineral Spa (Cold), Climatic Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 49.1414836,
+    "Longitude": 20.2221042
+  },
+  {
+    "Name": "Štós",
+    "Alternative_Names": "Štos, Stoß, Stósz",
+    "Type": "Climatic Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 48.7092719,
+    "Longitude": 20.7868713
+  },
+  {
+    "Name": "Štrbské Pleso",
+    "Alternative_Names": "Tschirmer See, Csorbató",
+    "Type": "Climatic Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 49.1191897,
+    "Longitude": 20.063955
+  },
+  {
+    "Name": "Stubicke Toplice",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 45.9774054,
+    "Longitude": 15.931548
+  },
+  {
     "Name": "Sviatohirsk",
     "Alternative_Names": "Святогі́рськ",
-    "Type": "D: Climatic Resort",
+    "Type": "Climatic Resort",
     "List_Availability": "",
     "Progress": "",
     "Link": "",
@@ -4080,13 +3540,543 @@
     "Longitude": 37.56666946
   },
   {
-    "Name": "Chizh",
-    "Alternative_Names": "Číž, Csíz, Číž-kúpele",
-    "Type": "B: Mineral Spa / Cold Springs",
+    "Name": "Świeradów-Zdrój",
+    "Alternative_Names": "Bad Flinsberg",
+    "Type": "Mineral Spa (Cold)",
     "List_Availability": "",
     "Progress": "",
     "Link": "",
-    "Latitude": 48.31362891903478,
-    "Longitude": 20.28042715832509
+    "Latitude": 50.9093388,
+    "Longitude": 15.3332153
+  },
+  {
+    "Name": "Swinoujscie",
+    "Alternative_Names": "Swinemünde",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 53.8270329,
+    "Longitude": 14.3356892
+  },
+  {
+    "Name": "Sylt",
+    "Alternative_Names": "",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 54.8968232,
+    "Longitude": 8.3528588
+  },
+  {
+    "Name": "Szczawnica",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Hot), Mineral Spa (Cold), Climatic Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 49.4266299,
+    "Longitude": 20.4761439
+  },
+  {
+    "Name": "Szczawno-Zdrój",
+    "Alternative_Names": "Solice-Zdrój, Ober Salzbrunn, Bad Salzbrunn",
+    "Type": "Mineral Spa (Cold)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 50.7951667,
+    "Longitude": 16.2232713
+  },
+  {
+    "Name": "Tatranská Lomnica",
+    "Alternative_Names": "Tatralomnitz,Tátralomnic",
+    "Type": "Climatic Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 49.1645786,
+    "Longitude": 20.280602
+  },
+  {
+    "Name": "Teplice",
+    "Alternative_Names": "Teplitz-Schönau, Töplitz, Teplitz",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 50.6406644,
+    "Longitude": 13.8244461
+  },
+  {
+    "Name": "Termas Baronía de Les",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 42.8126854,
+    "Longitude": 0.7118311
+  },
+  {
+    "Name": "Thonon-les-Bains",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 46.3731303,
+    "Longitude": 6.4779448
+  },
+  {
+    "Name": "Thuès-les-Bains",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 42.5287969,
+    "Longitude": 2.2490886
+  },
+  {
+    "Name": "Toblach",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Cold)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 46.735425,
+    "Longitude": 12.2242801
+  },
+  {
+    "Name": "Topusko",
+    "Alternative_Names": "Ad fines",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 45.2943011,
+    "Longitude": 15.9707037
+  },
+  {
+    "Name": "Travemünde",
+    "Alternative_Names": "",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 53.939609,
+    "Longitude": 10.8587192
+  },
+  {
+    "Name": "Trenčianske Teplice",
+    "Alternative_Names": "Trentschin-Teplitz, Trencsénteplic",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 48.9094451,
+    "Longitude": 18.1702976
+  },
+  {
+    "Name": "Trouville-sur-Mer",
+    "Alternative_Names": "",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 49.3679823,
+    "Longitude": 0.0809113
+  },
+  {
+    "Name": "Truskavets",
+    "Alternative_Names": "Трускавець, Truskawiec, טרוסקעוויץ, Truskevitz, Truskovec",
+    "Type": "Mineral Spa (Cold)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 49.2782012,
+    "Longitude": 23.5059668
+  },
+  {
+    "Name": "Tsqaltubo",
+    "Alternative_Names": "წყალტუბო, Цхалтубо",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 42.3253518,
+    "Longitude": 42.5979488
+  },
+  {
+    "Name": "Tuheljske Toplice",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 46.0673346,
+    "Longitude": 15.7862547
+  },
+  {
+    "Name": "Tunbridge Wells",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Cold)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 51.1371483,
+    "Longitude": 0.2673446
+  },
+  {
+    "Name": "Turčianske Teplice",
+    "Alternative_Names": "Štubňanské Teplice, Bad Stuben, Stubnyafürdő",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 48.8614083,
+    "Longitude": 18.8608115
+  },
+  {
+    "Name": "Urberuaga de Ubilla",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 43.2675586,
+    "Longitude": -2.4974864
+  },
+  {
+    "Name": "Ustka",
+    "Alternative_Names": "",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 54.5734467,
+    "Longitude": 16.8591806
+  },
+  {
+    "Name": "Ustroń",
+    "Alternative_Names": "Ustron",
+    "Type": "Mineral Spa (Cold)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 49.7186488,
+    "Longitude": 18.8251075
+  },
+  {
+    "Name": "Varaždin",
+    "Alternative_Names": "Aquae Iasae",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 46.2092637,
+    "Longitude": 16.4211576
+  },
+  {
+    "Name": "Varna",
+    "Alternative_Names": "Варна",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 43.2073873,
+    "Longitude": 27.9166653
+  },
+  {
+    "Name": "Vatra Dornei",
+    "Alternative_Names": "Dornavátra, Dorna Watra",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 47.3469264,
+    "Longitude": 25.3557638
+  },
+  {
+    "Name": "Velykyi Lubin",
+    "Alternative_Names": "Великий Любінь",
+    "Type": "Mineral Spa (Cold)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 49.7217329,
+    "Longitude": 23.7302119
+  },
+  {
+    "Name": "Venice",
+    "Alternative_Names": "",
+    "Type": "Seaside Resort, Climatic Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 45.4371908,
+    "Longitude": 12.3345898
+  },
+  {
+    "Name": "Ventimiglia",
+    "Alternative_Names": "",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 43.7917623,
+    "Longitude": 7.6033131
+  },
+  {
+    "Name": "Ventnor (Isle of Wight)",
+    "Alternative_Names": "",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 50.594976,
+    "Longitude": -1.2029747
+  },
+  {
+    "Name": "Vernet-les-Bains",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 42.5484832,
+    "Longitude": 2.3878706
+  },
+  {
+    "Name": "Vichy",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Hot), Mineral Spa (Cold)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 46.124017,
+    "Longitude": 3.4203658
+  },
+  {
+    "Name": "Vidago",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 41.7399003,
+    "Longitude": -7.4715213
+  },
+  {
+    "Name": "Vittel",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Cold)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 48.2020717,
+    "Longitude": 5.9418851
+  },
+  {
+    "Name": "Vlissingen",
+    "Alternative_Names": "Flushing",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 51.4480929,
+    "Longitude": 3.5697992
+  },
+  {
+    "Name": "Vyšné Hágy",
+    "Alternative_Names": "Hochhag, Hochhagi, Felsőhági",
+    "Type": "Climatic Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 49.1186786,
+    "Longitude": 20.12556
+  },
+  {
+    "Name": "Warnemünde",
+    "Alternative_Names": "",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 54.1779039,
+    "Longitude": 12.0812875
+  },
+  {
+    "Name": "Westerland",
+    "Alternative_Names": "Vesterland, Weesterlön, Westerland-on-Sylt",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 54.9064856,
+    "Longitude": 8.3071734
+  },
+  {
+    "Name": "Wieliczka",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Cold)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 49.9823773,
+    "Longitude": 20.0602114
+  },
+  {
+    "Name": "Wiesbaden",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Hot)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 50.0820384,
+    "Longitude": 8.2416556
+  },
+  {
+    "Name": "Wisła",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Cold), Climatic Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 52.380897,
+    "Longitude": 20.0867774
+  },
+  {
+    "Name": "Worthing",
+    "Alternative_Names": "",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 50.8115402,
+    "Longitude": -0.3699697
+  },
+  {
+    "Name": "Yalta",
+    "Alternative_Names": "Ялта",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 44.4987874,
+    "Longitude": 34.1689358
+  },
+  {
+    "Name": "Yaremeche",
+    "Alternative_Names": "Яремче, Jaremcze, Iaremche",
+    "Type": "Climatic Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 48.4504129,
+    "Longitude": 24.550955
+  },
+  {
+    "Name": "Yessentuki",
+    "Alternative_Names": "Ессентуки́",
+    "Type": "Mineral Spa (Cold)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 44.0470042,
+    "Longitude": 42.8576575
+  },
+  {
+    "Name": "Yevpatoriya",
+    "Alternative_Names": "Євпаторія, Евпатория, Кезлев",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 45.1907635,
+    "Longitude": 33.3679049
+  },
+  {
+    "Name": "Yurmala",
+    "Alternative_Names": "Jūrmala, Riga-Strand, Baltische Riviera, Юрмала",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 56.9727164,
+    "Longitude": 23.7886979
+  },
+  {
+    "Name": "Zakopane",
+    "Alternative_Names": "",
+    "Type": "Mineral Spa (Hot), Climatic Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 49.2757934,
+    "Longitude": 19.9692811
+  },
+  {
+    "Name": "Zandvoort",
+    "Alternative_Names": "",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 52.3719838,
+    "Longitude": 4.5302209
+  },
+  {
+    "Name": "Zatoka",
+    "Alternative_Names": "Затoка, Zatoca, Bugaz",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 46.06396,
+    "Longitude": 30.45033
+  },
+  {
+    "Name": "Żegiestów-Zdrój",
+    "Alternative_Names": "Rzegestow, Rzegiestow, Rzegiestów",
+    "Type": "Mineral Spa (Cold)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 49.3561684,
+    "Longitude": 20.8967477
+  },
+  {
+    "Name": "Zheleznovodsk",
+    "Alternative_Names": "Железново́дск",
+    "Type": "Mineral Spa (Hot), Mineral Spa (Cold)",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 44.1424034,
+    "Longitude": 43.0090751
+  },
+  {
+    "Name": "Zoppot",
+    "Alternative_Names": "Sopot",
+    "Type": "Seaside Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 54.4430399,
+    "Longitude": 18.5613095
+  },
+  {
+    "Name": "Zuoz",
+    "Alternative_Names": "",
+    "Type": "Climatic Resort",
+    "List_Availability": "",
+    "Progress": "",
+    "Link": "",
+    "Latitude": 46.6012885,
+    "Longitude": 9.9608039
   }
 ]
