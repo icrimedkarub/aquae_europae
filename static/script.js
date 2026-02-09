@@ -1,4 +1,4 @@
-// Debounce helper: delays function execution until user stops typing
+// Debounce helper
 function debounce(func, wait) {
   let timeout;
   return function (...args) {
@@ -24,19 +24,15 @@ async function loadSpaTowns() {
     const bounds = [];
     filteredTowns.forEach((t) => {
       if (t.Latitude && t.Longitude) {
-        // Include country in popup
         const marker = L.marker([t.Latitude, t.Longitude]);
-        marker.bindPopup(`<b>${t.Name}</b><br>${t.Type || ""}<br>${t.Country || ""}`);
+        marker.bindPopup(`<b>${t.Name}</b><br>${t.Type || ""}`);
         marker.addTo(markers);
         bounds.push([t.Latitude, t.Longitude]);
       }
     });
-    if (bounds.length) {
-      map.fitBounds(bounds, { padding: [50, 50] });
-    }
+    if (bounds.length) map.fitBounds(bounds, { padding: [50, 50] });
   }
 
-  // Update table and total count
   function displayTable(filteredTowns) {
     const tbody = document.querySelector("#spa-table tbody");
     tbody.innerHTML = "";
@@ -57,7 +53,6 @@ async function loadSpaTowns() {
     totalDiv.textContent = `Showing ${filteredTowns.length} spa towns`;
   }
 
-  // Filter function across all columns
   function filterTowns(term) {
     term = term.toLowerCase();
     return towns.filter((t) =>
@@ -85,7 +80,6 @@ async function loadSpaTowns() {
   // Table sorting
   const headers = document.querySelectorAll("#spa-table th");
   headers.forEach((th, index) => {
-    th.style.cursor = "pointer";
     th.addEventListener("click", () => {
       const sorted = [...document.querySelectorAll("#spa-table tbody tr")];
       const ascending = !th.classList.contains("asc");
@@ -107,4 +101,4 @@ async function loadSpaTowns() {
   });
 }
 
-document.addEventListener("DOMContentLoaded", loadSpaTowns);
+loadSpaTowns();
